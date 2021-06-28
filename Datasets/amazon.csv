@@ -1,0 +1,6455 @@
+year;state;month;number
+1998;Acre;1;0
+1999;Acre;1;0
+2000;Acre;1;0
+2001;Acre;1;0
+2002;Acre;1;0
+2003;Acre;1;10
+2004;Acre;1;0
+2005;Acre;1;12
+2006;Acre;1;4
+2007;Acre;1;0
+2008;Acre;1;0
+2009;Acre;1;0
+2010;Acre;1;1
+2011;Acre;1;0
+2012;Acre;1;0
+2013;Acre;1;0
+2014;Acre;1;0
+2015;Acre;1;1
+2016;Acre;1;12
+2017;Acre;1;0
+1998;Acre;2;0
+1999;Acre;2;0
+2000;Acre;2;0
+2001;Acre;2;0
+2002;Acre;2;1
+2003;Acre;2;0
+2004;Acre;2;3
+2005;Acre;2;0
+2006;Acre;2;0
+2007;Acre;2;5
+2008;Acre;2;0
+2009;Acre;2;2
+2010;Acre;2;0
+2011;Acre;2;0
+2012;Acre;2;0
+2013;Acre;2;0
+2014;Acre;2;0
+2015;Acre;2;2
+2016;Acre;2;5
+2017;Acre;2;1
+1998;Acre;3;0
+1999;Acre;3;0
+2000;Acre;3;11
+2001;Acre;3;0
+2002;Acre;3;0
+2003;Acre;3;0
+2004;Acre;3;0
+2005;Acre;3;3
+2006;Acre;3;0
+2007;Acre;3;2
+2008;Acre;3;0
+2009;Acre;3;1
+2010;Acre;3;0
+2011;Acre;3;0
+2012;Acre;3;1
+2013;Acre;3;2
+2014;Acre;3;1
+2015;Acre;3;2
+2016;Acre;3;0
+2017;Acre;3;0
+1998;Acre;4;0
+1999;Acre;4;0
+2000;Acre;4;1
+2001;Acre;4;0
+2002;Acre;4;0
+2003;Acre;4;1
+2004;Acre;4;2
+2005;Acre;4;1
+2006;Acre;4;0
+2007;Acre;4;0
+2008;Acre;4;0
+2009;Acre;4;0
+2010;Acre;4;3
+2011;Acre;4;2
+2012;Acre;4;1
+2013;Acre;4;19
+2014;Acre;4;7
+2015;Acre;4;3
+2016;Acre;4;0
+2017;Acre;4;1
+1998;Acre;5;0
+1999;Acre;5;0
+2000;Acre;5;1
+2001;Acre;5;0
+2002;Acre;5;0
+2003;Acre;5;6
+2004;Acre;5;7
+2005;Acre;5;2
+2006;Acre;5;8
+2007;Acre;5;1
+2008;Acre;5;0
+2009;Acre;5;3
+2010;Acre;5;9
+2011;Acre;5;3
+2012;Acre;5;3
+2013;Acre;5;4
+2014;Acre;5;1
+2015;Acre;5;2
+2016;Acre;5;21
+2017;Acre;5;10
+1998;Acre;6;3
+1999;Acre;6;0
+2000;Acre;6;1
+2001;Acre;6;1
+2002;Acre;6;0
+2003;Acre;6;0
+2004;Acre;6;5
+2005;Acre;6;27
+2006;Acre;6;1
+2007;Acre;6;4
+2008;Acre;6;0
+2009;Acre;6;0
+2010;Acre;6;1
+2011;Acre;6;10
+2012;Acre;6;7
+2013;Acre;6;8
+2014;Acre;6;17
+2015;Acre;6;40
+2016;Acre;6;87
+2017;Acre;6;45
+1998;Acre;7;37
+1999;Acre;7;1
+2000;Acre;7;1
+2001;Acre;7;3
+2002;Acre;7;39
+2003;Acre;7;168
+2004;Acre;7;42
+2005;Acre;7;368
+2006;Acre;7;33
+2007;Acre;7;29
+2008;Acre;7;41
+2009;Acre;7;31
+2010;Acre;7;126
+2011;Acre;7;93
+2012;Acre;7;71
+2013;Acre;7;54
+2014;Acre;7;60
+2015;Acre;7;109
+2016;Acre;7;533
+2017;Acre;7;457
+1998;Acre;8;130
+1999;Acre;8;63
+2000;Acre;8;136
+2001;Acre;8;396
+2002;Acre;8;728
+2003;Acre;8;1.976
+2004;Acre;8;645
+2005;Acre;8;4.198
+2006;Acre;8;839
+2007;Acre;8;960
+2008;Acre;8;445
+2009;Acre;8;194
+2010;Acre;8;1.682
+2011;Acre;8;425
+2012;Acre;8;739
+2013;Acre;8;679
+2014;Acre;8;1.1
+2015;Acre;8;1.397
+2016;Acre;8;2.188
+2017;Acre;8;1.493
+1998;Acre;9;509
+1999;Acre;9;209
+2000;Acre;9;265
+2001;Acre;9;290
+2002;Acre;9;1.949
+2003;Acre;9;3.942
+2004;Acre;9;1.978
+2005;Acre;9;4.253
+2006;Acre;9;2.37
+2007;Acre;9;2.08
+2008;Acre;9;1.666
+2009;Acre;9;1.265
+2010;Acre;9;2.531
+2011;Acre;9;1.204
+2012;Acre;9;1.996
+2013;Acre;9;2.136
+2014;Acre;9;2.175
+2015;Acre;9;2.928
+2016;Acre;9;3.586
+2017;Acre;9;3.429
+1998;Acre;10;44
+1999;Acre;10;60
+2000;Acre;10;18
+2001;Acre;10;137
+2002;Acre;10;687
+2003;Acre;10;740
+2004;Acre;10;461
+2005;Acre;10;547
+2006;Acre;10;316
+2007;Acre;10;203
+2008;Acre;10;652
+2009;Acre;10;565
+2010;Acre;10;292
+2011;Acre;10;97
+2012;Acre;10;348
+2013;Acre;10;258
+2014;Acre;10;406
+2015;Acre;10;905
+2016;Acre;10;509
+2017;Acre;10;1.508
+1998;Acre;11;0
+1999;Acre;11;0
+2000;Acre;11;0
+2001;Acre;11;1
+2002;Acre;11;86
+2003;Acre;11;15
+2004;Acre;11;10
+2005;Acre;11;14
+2006;Acre;11;18
+2007;Acre;11;7
+2008;Acre;11;4
+2009;Acre;11;33
+2010;Acre;11;39
+2011;Acre;11;74
+2012;Acre;11;13
+2013;Acre;11;79
+2014;Acre;11;56
+2015;Acre;11;115
+2016;Acre;11;46
+2017;Acre;11;98
+1998;Acre;12;7
+1999;Acre;12;0
+2000;Acre;12;0
+2001;Acre;12;0
+2002;Acre;12;1
+2003;Acre;12;1
+2004;Acre;12;7
+2005;Acre;12;2
+2006;Acre;12;0
+2007;Acre;12;0
+2008;Acre;12;0
+2009;Acre;12;1
+2010;Acre;12;0
+2011;Acre;12;4
+2012;Acre;12;1
+2013;Acre;12;3
+2014;Acre;12;6
+2015;Acre;12;8
+2016;Acre;12;6
+1998;Alagoas;1;0
+1999;Alagoas;1;58
+2000;Alagoas;1;11
+2001;Alagoas;1;5
+2002;Alagoas;1;12
+2003;Alagoas;1;150
+2004;Alagoas;1;9
+2005;Alagoas;1;83
+2006;Alagoas;1;29
+2007;Alagoas;1;33
+2008;Alagoas;1;55
+2009;Alagoas;1;104
+2010;Alagoas;1;23
+2011;Alagoas;1;41
+2012;Alagoas;1;36
+2013;Alagoas;1;49
+2014;Alagoas;1;54
+2015;Alagoas;1;81
+2016;Alagoas;1;24
+2017;Alagoas;1;38
+2017;Alagoas;1;38
+1998;Alagoas;2;0
+1999;Alagoas;2;20
+2000;Alagoas;2;16
+2001;Alagoas;2;4
+2002;Alagoas;2;15
+2003;Alagoas;2;33
+2004;Alagoas;2;7
+2005;Alagoas;2;31
+2006;Alagoas;2;14
+2007;Alagoas;2;28
+2008;Alagoas;2;74
+2009;Alagoas;2;32
+2010;Alagoas;2;26
+2011;Alagoas;2;33
+2012;Alagoas;2;41
+2013;Alagoas;2;19
+2014;Alagoas;2;29
+2015;Alagoas;2;46
+2016;Alagoas;2;14
+2017;Alagoas;2;21
+1998;Alagoas;3;0
+1999;Alagoas;3;52
+2000;Alagoas;3;32
+2001;Alagoas;3;0
+2002;Alagoas;3;27
+2003;Alagoas;3;15
+2004;Alagoas;3;16
+2005;Alagoas;3;35
+2006;Alagoas;3;37
+2007;Alagoas;3;7
+2008;Alagoas;3;31
+2009;Alagoas;3;31
+2010;Alagoas;3;70
+2011;Alagoas;3;34
+2012;Alagoas;3;44
+2013;Alagoas;3;31
+2014;Alagoas;3;28
+2015;Alagoas;3;32
+2016;Alagoas;3;9
+2017;Alagoas;3;23
+1998;Alagoas;4;0
+1999;Alagoas;4;4
+2000;Alagoas;4;20
+2001;Alagoas;4;0
+2002;Alagoas;4;6
+2003;Alagoas;4;20
+2004;Alagoas;4;6
+2005;Alagoas;4;1
+2006;Alagoas;4;2
+2007;Alagoas;4;1
+2008;Alagoas;4;18
+2009;Alagoas;4;5
+2010;Alagoas;4;3
+2011;Alagoas;4;17
+2012;Alagoas;4;18
+2013;Alagoas;4;25
+2014;Alagoas;4;16
+2015;Alagoas;4;63
+2016;Alagoas;4;13
+2017;Alagoas;4;7
+1998;Alagoas;5;0
+1999;Alagoas;5;1
+2000;Alagoas;5;1
+2001;Alagoas;5;2
+2002;Alagoas;5;1
+2003;Alagoas;5;1
+2004;Alagoas;5;3
+2005;Alagoas;5;0
+2006;Alagoas;5;0
+2007;Alagoas;5;0
+2008;Alagoas;5;0
+2009;Alagoas;5;0
+2010;Alagoas;5;0
+2011;Alagoas;5;0
+2012;Alagoas;5;21
+2013;Alagoas;5;2
+2014;Alagoas;5;1
+2015;Alagoas;5;18
+2016;Alagoas;5;4
+2017;Alagoas;5;1
+1998;Alagoas;6;0
+1999;Alagoas;6;0
+2000;Alagoas;6;0
+2001;Alagoas;6;2
+2002;Alagoas;6;0
+2003;Alagoas;6;0
+2004;Alagoas;6;0
+2005;Alagoas;6;0
+2006;Alagoas;6;0
+2007;Alagoas;6;0
+2008;Alagoas;6;0
+2009;Alagoas;6;0
+2010;Alagoas;6;0
+2011;Alagoas;6;2
+2012;Alagoas;6;4
+2013;Alagoas;6;1
+2014;Alagoas;6;2
+2015;Alagoas;6;2
+2016;Alagoas;6;5
+2017;Alagoas;6;2
+1998;Alagoas;7;0
+1999;Alagoas;7;0
+2000;Alagoas;7;0
+2001;Alagoas;7;0
+2002;Alagoas;7;5
+2003;Alagoas;7;0
+2004;Alagoas;7;0
+2005;Alagoas;7;0
+2006;Alagoas;7;0
+2007;Alagoas;7;0
+2008;Alagoas;7;0
+2009;Alagoas;7;0
+2010;Alagoas;7;2
+2011;Alagoas;7;0
+2012;Alagoas;7;0
+2013;Alagoas;7;0
+2014;Alagoas;7;1
+2015;Alagoas;7;0
+2016;Alagoas;7;3
+2017;Alagoas;7;0
+1998;Alagoas;8;1
+1999;Alagoas;8;3
+2000;Alagoas;8;4
+2001;Alagoas;8;1
+2002;Alagoas;8;3
+2003;Alagoas;8;2
+2004;Alagoas;8;2
+2005;Alagoas;8;2
+2006;Alagoas;8;1
+2007;Alagoas;8;3
+2008;Alagoas;8;1
+2009;Alagoas;8;0
+2010;Alagoas;8;1
+2011;Alagoas;8;4
+2012;Alagoas;8;0
+2013;Alagoas;8;0
+2014;Alagoas;8;3
+2015;Alagoas;8;3
+2016;Alagoas;8;5
+2017;Alagoas;8;1
+1998;Alagoas;9;14
+1999;Alagoas;9;3
+2000;Alagoas;9;22
+2001;Alagoas;9;5
+2002;Alagoas;9;14
+2003;Alagoas;9;8
+2004;Alagoas;9;5
+2005;Alagoas;9;7
+2006;Alagoas;9;4
+2007;Alagoas;9;2
+2008;Alagoas;9;9
+2009;Alagoas;9;13
+2010;Alagoas;9;5
+2011;Alagoas;9;5
+2012;Alagoas;9;6
+2013;Alagoas;9;4
+2014;Alagoas;9;11
+2015;Alagoas;9;7
+2016;Alagoas;9;18
+2017;Alagoas;9;4
+1998;Alagoas;10;20
+1999;Alagoas;10;4
+2000;Alagoas;10;13
+2001;Alagoas;10;15
+2002;Alagoas;10;30
+2003;Alagoas;10;10
+2004;Alagoas;10;12
+2005;Alagoas;10;17
+2006;Alagoas;10;32
+2007;Alagoas;10;6
+2008;Alagoas;10;18
+2009;Alagoas;10;30
+2010;Alagoas;10;16
+2011;Alagoas;10;23
+2012;Alagoas;10;28
+2013;Alagoas;10;25
+2014;Alagoas;10;7
+2015;Alagoas;10;40
+2016;Alagoas;10;74
+2017;Alagoas;10;14
+1998;Alagoas;11;19
+1999;Alagoas;11;15
+2000;Alagoas;11;2
+2001;Alagoas;11;22
+2002;Alagoas;11;50
+2003;Alagoas;11;17
+2004;Alagoas;11;28
+2005;Alagoas;11;25
+2006;Alagoas;11;12
+2007;Alagoas;11;15
+2008;Alagoas;11;37
+2009;Alagoas;11;55
+2010;Alagoas;11;31
+2011;Alagoas;11;23
+2012;Alagoas;11;95
+2013;Alagoas;11;10
+2014;Alagoas;11;14
+2015;Alagoas;11;162
+2016;Alagoas;11;76
+2017;Alagoas;11;10
+1998;Alagoas;12;32
+1999;Alagoas;12;12
+2000;Alagoas;12;2
+2001;Alagoas;12;30
+2002;Alagoas;12;95
+2003;Alagoas;12;43
+2004;Alagoas;12;71
+2005;Alagoas;12;16
+2006;Alagoas;12;30
+2007;Alagoas;12;33
+2008;Alagoas;12;34
+2009;Alagoas;12;55
+2010;Alagoas;12;45
+2011;Alagoas;12;50
+2012;Alagoas;12;59
+2013;Alagoas;12;42
+2014;Alagoas;12;24
+2015;Alagoas;12;136
+2016;Alagoas;12;155
+1998;Amapa;1;0
+1999;Amapa;1;0
+2000;Amapa;1;2
+2001;Amapa;1;0
+2002;Amapa;1;7
+2003;Amapa;1;31
+2004;Amapa;1;38
+2005;Amapa;1;109
+2006;Amapa;1;6
+2007;Amapa;1;0
+2008;Amapa;1;2
+2009;Amapa;1;4
+2010;Amapa;1;2
+2011;Amapa;1;0
+2012;Amapa;1;30
+2013;Amapa;1;3
+2014;Amapa;1;10
+2015;Amapa;1;14
+2016;Amapa;1;19
+2017;Amapa;1;2
+1998;Amapa;2;0
+1999;Amapa;2;1
+2000;Amapa;2;0
+2001;Amapa;2;0
+2002;Amapa;2;2
+2003;Amapa;2;0
+2004;Amapa;2;2
+2005;Amapa;2;1
+2006;Amapa;2;2
+2007;Amapa;2;0
+2008;Amapa;2;0
+2009;Amapa;2;0
+2010;Amapa;2;0
+2011;Amapa;2;3
+2012;Amapa;2;5
+2013;Amapa;2;0
+2014;Amapa;2;2
+2015;Amapa;2;1
+2016;Amapa;2;1
+2017;Amapa;2;0
+1998;Amapa;3;0
+1999;Amapa;3;2
+2000;Amapa;3;0
+2001;Amapa;3;0
+2002;Amapa;3;0
+2003;Amapa;3;1
+2004;Amapa;3;0
+2005;Amapa;3;0
+2006;Amapa;3;0
+2007;Amapa;3;0
+2008;Amapa;3;1
+2009;Amapa;3;1
+2010;Amapa;3;2
+2011;Amapa;3;0
+2012;Amapa;3;1
+2013;Amapa;3;0
+2014;Amapa;3;1
+2015;Amapa;3;2
+2016;Amapa;3;5
+2017;Amapa;3;0
+1998;Amapa;4;0
+1999;Amapa;4;0
+2000;Amapa;4;0
+2001;Amapa;4;0
+2002;Amapa;4;0
+2003;Amapa;4;2
+2004;Amapa;4;0
+2005;Amapa;4;0
+2006;Amapa;4;0
+2007;Amapa;4;0
+2008;Amapa;4;2
+2009;Amapa;4;0
+2010;Amapa;4;2
+2011;Amapa;4;0
+2012;Amapa;4;2
+2013;Amapa;4;2
+2014;Amapa;4;0
+2015;Amapa;4;0
+2016;Amapa;4;0
+2017;Amapa;4;3
+1998;Amapa;5;0
+1999;Amapa;5;0
+2000;Amapa;5;0
+2001;Amapa;5;0
+2002;Amapa;5;3
+2003;Amapa;5;0
+2004;Amapa;5;0
+2005;Amapa;5;0
+2006;Amapa;5;0
+2007;Amapa;5;0
+2008;Amapa;5;0
+2009;Amapa;5;2
+2010;Amapa;5;2
+2011;Amapa;5;2
+2012;Amapa;5;2
+2013;Amapa;5;0
+2014;Amapa;5;0
+2015;Amapa;5;0
+2016;Amapa;5;1
+2017;Amapa;5;1
+1998;Amapa;6;0
+1999;Amapa;6;2
+2000;Amapa;6;0
+2001;Amapa;6;0
+2002;Amapa;6;0
+2003;Amapa;6;0
+2004;Amapa;6;5
+2005;Amapa;6;2
+2006;Amapa;6;0
+2007;Amapa;6;0
+2008;Amapa;6;0
+2009;Amapa;6;1
+2010;Amapa;6;0
+2011;Amapa;6;0
+2012;Amapa;6;7
+2013;Amapa;6;1
+2014;Amapa;6;0
+2015;Amapa;6;3
+2016;Amapa;6;2
+2017;Amapa;6;2
+1998;Amapa;7;0
+1999;Amapa;7;0
+2000;Amapa;7;0
+2001;Amapa;7;1
+2002;Amapa;7;1
+2003;Amapa;7;0
+2004;Amapa;7;2
+2005;Amapa;7;0
+2006;Amapa;7;0
+2007;Amapa;7;0
+2008;Amapa;7;0
+2009;Amapa;7;4
+2010;Amapa;7;2
+2011;Amapa;7;5
+2012;Amapa;7;3
+2013;Amapa;7;1
+2014;Amapa;7;4
+2015;Amapa;7;5
+2016;Amapa;7;1
+2017;Amapa;7;3
+1998;Amapa;8;1
+1999;Amapa;8;0
+2000;Amapa;8;3
+2001;Amapa;8;12
+2002;Amapa;8;18
+2003;Amapa;8;14
+2004;Amapa;8;9
+2005;Amapa;8;4
+2006;Amapa;8;11
+2007;Amapa;8;5
+2008;Amapa;8;4
+2009;Amapa;8;20
+2010;Amapa;8;1
+2011;Amapa;8;16
+2012;Amapa;8;19
+2013;Amapa;8;9
+2014;Amapa;8;18
+2015;Amapa;8;40
+2016;Amapa;8;37
+2017;Amapa;8;33
+1998;Amapa;9;20
+1999;Amapa;9;4
+2000;Amapa;9;19
+2001;Amapa;9;95
+2002;Amapa;9;73
+2003;Amapa;9;88
+2004;Amapa;9;67
+2005;Amapa;9;97
+2006;Amapa;9;112
+2007;Amapa;9;61
+2008;Amapa;9;83
+2009;Amapa;9;188
+2010;Amapa;9;63
+2011;Amapa;9;128
+2012;Amapa;9;168
+2013;Amapa;9;85
+2014;Amapa;9;137
+2015;Amapa;9;192
+2016;Amapa;9;142
+2017;Amapa;9;95
+1998;Amapa;10;42
+1999;Amapa;10;25
+2000;Amapa;10;42
+2001;Amapa;10;194
+2002;Amapa;10;557
+2003;Amapa;10;355
+2004;Amapa;10;412
+2005;Amapa;10;335
+2006;Amapa;10;405
+2007;Amapa;10;162
+2008;Amapa;10;395
+2009;Amapa;10;765
+2010;Amapa;10;265
+2011;Amapa;10;304
+2012;Amapa;10;475
+2013;Amapa;10;385
+2014;Amapa;10;480
+2015;Amapa;10;827
+2016;Amapa;10;793
+2017;Amapa;10;468
+1998;Amapa;11;131
+1999;Amapa;11;26
+2000;Amapa;11;157
+2001;Amapa;11;406
+2002;Amapa;11;1.096
+2003;Amapa;11;750
+2004;Amapa;11;949
+2005;Amapa;11;685
+2006;Amapa;11;207
+2007;Amapa;11;198
+2008;Amapa;11;266
+2009;Amapa;11;1.019
+2010;Amapa;11;339
+2011;Amapa;11;282
+2012;Amapa;11;969
+2013;Amapa;11;341
+2014;Amapa;11;484
+2015;Amapa;11;1.3
+2016;Amapa;11;1.161
+2017;Amapa;11;858
+1998;Amapa;12;84
+1999;Amapa;12;41
+2000;Amapa;12;30
+2001;Amapa;12;593
+2002;Amapa;12;200
+2003;Amapa;12;411
+2004;Amapa;12;777
+2005;Amapa;12;38
+2006;Amapa;12;74
+2007;Amapa;12;14
+2008;Amapa;12;32
+2009;Amapa;12;123
+2010;Amapa;12;43
+2011;Amapa;12;360
+2012;Amapa;12;422
+2013;Amapa;12;148
+2014;Amapa;12;354
+2015;Amapa;12;269
+2016;Amapa;12;491
+1998;Amazonas;1;0
+1999;Amazonas;1;3
+2000;Amazonas;1;7
+2001;Amazonas;1;3
+2002;Amazonas;1;17
+2003;Amazonas;1;158
+2004;Amazonas;1;123
+2005;Amazonas;1;44
+2006;Amazonas;1;20
+2007;Amazonas;1;37
+2008;Amazonas;1;16
+2009;Amazonas;1;9
+2010;Amazonas;1;82
+2011;Amazonas;1;53
+2012;Amazonas;1;6
+2013;Amazonas;1;37
+2014;Amazonas;1;46
+2015;Amazonas;1;35
+2016;Amazonas;1;770
+2017;Amazonas;1;65
+1998;Amazonas;2;0
+1999;Amazonas;2;43
+2000;Amazonas;2;62
+2001;Amazonas;2;8
+2002;Amazonas;2;2
+2003;Amazonas;2;62
+2004;Amazonas;2;92
+2005;Amazonas;2;6
+2006;Amazonas;2;10
+2007;Amazonas;2;92
+2008;Amazonas;2;32
+2009;Amazonas;2;3
+2010;Amazonas;2;81
+2011;Amazonas;2;30
+2012;Amazonas;2;25
+2013;Amazonas;2;16
+2014;Amazonas;2;49
+2015;Amazonas;2;107
+2016;Amazonas;2;275
+2017;Amazonas;2;52
+1998;Amazonas;3;0
+1999;Amazonas;3;7
+2000;Amazonas;3;69
+2001;Amazonas;3;6
+2002;Amazonas;3;5
+2003;Amazonas;3;64
+2004;Amazonas;3;6
+2005;Amazonas;3;12
+2006;Amazonas;3;20
+2007;Amazonas;3;6
+2008;Amazonas;3;10
+2009;Amazonas;3;11
+2010;Amazonas;3;116
+2011;Amazonas;3;49
+2012;Amazonas;3;17
+2013;Amazonas;3;49
+2014;Amazonas;3;50
+2015;Amazonas;3;46
+2016;Amazonas;3;140
+2017;Amazonas;3;45
+1998;Amazonas;4;0
+1999;Amazonas;4;2
+2000;Amazonas;4;18
+2001;Amazonas;4;1
+2002;Amazonas;4;2
+2003;Amazonas;4;11
+2004;Amazonas;4;4
+2005;Amazonas;4;5
+2006;Amazonas;4;5
+2007;Amazonas;4;0
+2008;Amazonas;4;13
+2009;Amazonas;4;1
+2010;Amazonas;4;11
+2011;Amazonas;4;5
+2012;Amazonas;4;3
+2013;Amazonas;4;20
+2014;Amazonas;4;25
+2015;Amazonas;4;24
+2016;Amazonas;4;22
+2017;Amazonas;4;20
+1998;Amazonas;5;0
+1999;Amazonas;5;0
+2000;Amazonas;5;51
+2001;Amazonas;5;0
+2002;Amazonas;5;8
+2003;Amazonas;5;2
+2004;Amazonas;5;0
+2005;Amazonas;5;8
+2006;Amazonas;5;4
+2007;Amazonas;5;0
+2008;Amazonas;5;1
+2009;Amazonas;5;3
+2010;Amazonas;5;13
+2011;Amazonas;5;6
+2012;Amazonas;5;12
+2013;Amazonas;5;19
+2014;Amazonas;5;12
+2015;Amazonas;5;10
+2016;Amazonas;5;30
+2017;Amazonas;5;40
+1998;Amazonas;6;2
+1999;Amazonas;6;7
+2000;Amazonas;6;6
+2001;Amazonas;6;5
+2002;Amazonas;6;5
+2003;Amazonas;6;3
+2004;Amazonas;6;12
+2005;Amazonas;6;78
+2006;Amazonas;6;9
+2007;Amazonas;6;23
+2008;Amazonas;6;7
+2009;Amazonas;6;13
+2010;Amazonas;6;9
+2011;Amazonas;6;22
+2012;Amazonas;6;45
+2013;Amazonas;6;56
+2014;Amazonas;6;74
+2015;Amazonas;6;33
+2016;Amazonas;6;90
+2017;Amazonas;6;119
+1998;Amazonas;7;71
+1999;Amazonas;7;11
+2000;Amazonas;7;39
+2001;Amazonas;7;9
+2002;Amazonas;7;146
+2003;Amazonas;7;180
+2004;Amazonas;7;177
+2005;Amazonas;7;676
+2006;Amazonas;7;123
+2007;Amazonas;7;116
+2008;Amazonas;7;108
+2009;Amazonas;7;199
+2010;Amazonas;7;640
+2011;Amazonas;7;271
+2012;Amazonas;7;234
+2013;Amazonas;7;248
+2014;Amazonas;7;202
+2015;Amazonas;7;356
+2016;Amazonas;7;1.137
+2017;Amazonas;7;1.975
+1998;Amazonas;8;321
+1999;Amazonas;8;259
+2000;Amazonas;8;180
+2001;Amazonas;8;501
+2002;Amazonas;8;741
+2003;Amazonas;8;1.867
+2004;Amazonas;8;1.207
+2005;Amazonas;8;2.316
+2006;Amazonas;8;1.422
+2007;Amazonas;8;2.241
+2008;Amazonas;8;861
+2009;Amazonas;8;1.321
+2010;Amazonas;8;3.727
+2011;Amazonas;8;1.243
+2012;Amazonas;8;3.011
+2013;Amazonas;8;1.276
+2014;Amazonas;8;3.852
+2015;Amazonas;8;4.564
+2016;Amazonas;8;3.611
+2017;Amazonas;8;6.316
+1998;Amazonas;9;267
+1999;Amazonas;9;216
+2000;Amazonas;9;189
+2001;Amazonas;9;166
+2002;Amazonas;9;928
+2003;Amazonas;9;1.401
+2004;Amazonas;9;911
+2005;Amazonas;9;2.812
+2006;Amazonas;9;2.218
+2007;Amazonas;9;1.36
+2008;Amazonas;9;998
+2009;Amazonas;9;3.091
+2010;Amazonas;9;2.781
+2011;Amazonas;9;1.295
+2012;Amazonas;9;2.392
+2013;Amazonas;9;1.739
+2014;Amazonas;9;3.057
+2015;Amazonas;9;5.882
+2016;Amazonas;9;3.119
+2017;Amazonas;9;4.033
+1998;Amazonas;10;83
+1999;Amazonas;10;479
+2000;Amazonas;10;145
+2001;Amazonas;10;332
+2002;Amazonas;10;695
+2003;Amazonas;10;725
+2004;Amazonas;10;710
+2005;Amazonas;10;545
+2006;Amazonas;10;721
+2007;Amazonas;10;215
+2008;Amazonas;10;632
+2009;Amazonas;10;2.189
+2010;Amazonas;10;889
+2011;Amazonas;10;694
+2012;Amazonas;10;1.238
+2013;Amazonas;10;1.202
+2014;Amazonas;10;952
+2015;Amazonas;10;2.494
+2016;Amazonas;10;2.105
+2017;Amazonas;10;1.581
+1998;Amazonas;11;6
+1999;Amazonas;11;32
+2000;Amazonas;11;27
+2001;Amazonas;11;244
+2002;Amazonas;11;259
+2003;Amazonas;11;169
+2004;Amazonas;11;209
+2005;Amazonas;11;261
+2006;Amazonas;11;59
+2007;Amazonas;11;90
+2008;Amazonas;11;39
+2009;Amazonas;11;973
+2010;Amazonas;11;354
+2011;Amazonas;11;399
+2012;Amazonas;11;682
+2013;Amazonas;11;220
+2014;Amazonas;11;676
+2015;Amazonas;11;1.054
+2016;Amazonas;11;591
+2017;Amazonas;11;552
+1998;Amazonas;12;196
+1999;Amazonas;12;2
+2000;Amazonas;12;60
+2001;Amazonas;12;22
+2002;Amazonas;12;44
+2003;Amazonas;12;147
+2004;Amazonas;12;53
+2005;Amazonas;12;17
+2006;Amazonas;12;23
+2007;Amazonas;12;7
+2008;Amazonas;12;0
+2009;Amazonas;12;102
+2010;Amazonas;12;123
+2011;Amazonas;12;121
+2012;Amazonas;12;80
+2013;Amazonas;12;236
+2014;Amazonas;12;293
+2015;Amazonas;12;565
+2016;Amazonas;12;133
+1998;Bahia;1;0
+1999;Bahia;1;114
+2000;Bahia;1;31
+2001;Bahia;1;24
+2002;Bahia;1;125
+2003;Bahia;1;439
+2004;Bahia;1;158
+2005;Bahia;1;303
+2006;Bahia;1;225
+2007;Bahia;1;373
+2008;Bahia;1;314
+2009;Bahia;1;177
+2010;Bahia;1;297
+2011;Bahia;1;101
+2012;Bahia;1;179
+2013;Bahia;1;125
+2014;Bahia;1;132
+2015;Bahia;1;256
+2016;Bahia;1;285
+2017;Bahia;1;154
+1998;Bahia;2;0
+1999;Bahia;2;157
+2000;Bahia;2;32
+2001;Bahia;2;101
+2002;Bahia;2;204
+2003;Bahia;2;223
+2004;Bahia;2;122
+2005;Bahia;2;143
+2006;Bahia;2;277
+2007;Bahia;2;113
+2008;Bahia;2;235
+2009;Bahia;2;117
+2010;Bahia;2;206
+2011;Bahia;2;156
+2012;Bahia;2;200
+2013;Bahia;2;231
+2014;Bahia;2;107
+2015;Bahia;2;143
+2016;Bahia;2;418
+2017;Bahia;2;100
+1998;Bahia;3;0
+1999;Bahia;3;83
+2000;Bahia;3;65
+2001;Bahia;3;4
+2002;Bahia;3;146
+2003;Bahia;3;274
+2004;Bahia;3;115
+2005;Bahia;3;158
+2006;Bahia;3;199
+2007;Bahia;3;141
+2008;Bahia;3;135
+2009;Bahia;3;249
+2010;Bahia;3;156
+2011;Bahia;3;90
+2012;Bahia;3;404
+2013;Bahia;3;363
+2014;Bahia;3;148
+2015;Bahia;3;229
+2016;Bahia;3;281
+2017;Bahia;3;163
+1998;Bahia;4;0
+1999;Bahia;4;55
+2000;Bahia;4;23
+2001;Bahia;4;26
+2002;Bahia;4;110
+2003;Bahia;4;376
+2004;Bahia;4;89
+2005;Bahia;4;76
+2006;Bahia;4;60
+2007;Bahia;4;64
+2008;Bahia;4;151
+2009;Bahia;4;40
+2010;Bahia;4;103
+2011;Bahia;4;149
+2012;Bahia;4;396
+2013;Bahia;4;108
+2014;Bahia;4;183
+2015;Bahia;4;190
+2016;Bahia;4;217
+2017;Bahia;4;94
+1998;Bahia;5;0
+1999;Bahia;5;76
+2000;Bahia;5;71
+2001;Bahia;5;85
+2002;Bahia;5;166
+2003;Bahia;5;106
+2004;Bahia;5;124
+2005;Bahia;5;120
+2006;Bahia;5;43
+2007;Bahia;5;161
+2008;Bahia;5;56
+2009;Bahia;5;34
+2010;Bahia;5;198
+2011;Bahia;5;189
+2012;Bahia;5;326
+2013;Bahia;5;141
+2014;Bahia;5;224
+2015;Bahia;5;144
+2016;Bahia;5;259
+2017;Bahia;5;121
+1998;Bahia;6;55
+1999;Bahia;6;64
+2000;Bahia;6;178
+2001;Bahia;6;98
+2002;Bahia;6;118
+2003;Bahia;6;140
+2004;Bahia;6;289
+2005;Bahia;6;211
+2006;Bahia;6;68
+2007;Bahia;6;270
+2008;Bahia;6;72
+2009;Bahia;6;92
+2010;Bahia;6;192
+2011;Bahia;6;345
+2012;Bahia;6;385
+2013;Bahia;6;208
+2014;Bahia;6;243
+2015;Bahia;6;242
+2016;Bahia;6;416
+2017;Bahia;6;329
+1998;Bahia;7;219
+1999;Bahia;7;107
+2000;Bahia;7;202
+2001;Bahia;7;248
+2002;Bahia;7;549
+2003;Bahia;7;261
+2004;Bahia;7;310
+2005;Bahia;7;269
+2006;Bahia;7;229
+2007;Bahia;7;811
+2008;Bahia;7;271
+2009;Bahia;7;321
+2010;Bahia;7;519
+2011;Bahia;7;578
+2012;Bahia;7;906
+2013;Bahia;7;362
+2014;Bahia;7;249
+2015;Bahia;7;306
+2016;Bahia;7;345
+2017;Bahia;7;300
+1998;Bahia;8;815
+1999;Bahia;8;453
+2000;Bahia;8;633
+2001;Bahia;8;979
+2002;Bahia;8;1.827
+2003;Bahia;8;1.039
+2004;Bahia;8;1.43
+2005;Bahia;8;948
+2006;Bahia;8;995
+2007;Bahia;8;3.734
+2008;Bahia;8;611
+2009;Bahia;8;439
+2010;Bahia;8;2.423
+2011;Bahia;8;1.795
+2012;Bahia;8;1.835
+2013;Bahia;8;610
+2014;Bahia;8;674
+2015;Bahia;8;829
+2016;Bahia;8;724
+2017;Bahia;8;1.018
+1998;Bahia;9;2.718
+1999;Bahia;9;1.275
+2000;Bahia;9;2.285
+2001;Bahia;9;3.964
+2002;Bahia;9;6.439
+2003;Bahia;9;8.847
+2004;Bahia;9;6.433
+2005;Bahia;9;4.066
+2006;Bahia;9;3.006
+2007;Bahia;9;7.438
+2008;Bahia;9;4.837
+2009;Bahia;9;3.61
+2010;Bahia;9;5.323
+2011;Bahia;9;7.086
+2012;Bahia;9;7.495
+2013;Bahia;9;2.681
+2014;Bahia;9;2.604
+2015;Bahia;9;7.956
+2016;Bahia;9;1.819
+2017;Bahia;9;1.791
+1998;Bahia;10;1.969
+1999;Bahia;10;1.307
+2000;Bahia;10;3.35
+2001;Bahia;10;1.687
+2002;Bahia;10;5.414
+2003;Bahia;10;4.264
+2004;Bahia;10;4.81
+2005;Bahia;10;8.405
+2006;Bahia;10;2.079
+2007;Bahia;10;4.981
+2008;Bahia;10;7.691
+2009;Bahia;10;2.552
+2010;Bahia;10;5.264
+2011;Bahia;10;2.166
+2012;Bahia;10;4.607
+2013;Bahia;10;1.969
+2014;Bahia;10;2.763
+2015;Bahia;10;4.989
+2016;Bahia;10;1.415
+2017;Bahia;10;4.005
+1998;Bahia;11;49
+1999;Bahia;11;49
+2000;Bahia;11;114
+2001;Bahia;11;699
+2002;Bahia;11;1.02
+2003;Bahia;11;533
+2004;Bahia;11;1.736
+2005;Bahia;11;1.595
+2006;Bahia;11;239
+2007;Bahia;11;2.126
+2008;Bahia;11;3.175
+2009;Bahia;11;402
+2010;Bahia;11;605
+2011;Bahia;11;176
+2012;Bahia;11;168
+2013;Bahia;11;288
+2014;Bahia;11;348
+2015;Bahia;11;1.705
+2016;Bahia;11;408
+2017;Bahia;11;174
+1998;Bahia;12;82
+1999;Bahia;12;37
+2000;Bahia;12;24
+2001;Bahia;12;158
+2002;Bahia;12;848
+2003;Bahia;12;710
+2004;Bahia;12;423
+2005;Bahia;12;116
+2006;Bahia;12;169
+2007;Bahia;12;259
+2008;Bahia;12;52
+2009;Bahia;12;308
+2010;Bahia;12;226
+2011;Bahia;12;230
+2012;Bahia;12;477
+2013;Bahia;12;131
+2014;Bahia;12;144
+2015;Bahia;12;1.408
+2016;Bahia;12;164
+1998;Ceara;1;0
+1999;Ceara;1;47
+2000;Ceara;1;1
+2001;Ceara;1;11
+2002;Ceara;1;33
+2003;Ceara;1;264
+2004;Ceara;1;143
+2005;Ceara;1;384
+2006;Ceara;1;211
+2007;Ceara;1;304
+2008;Ceara;1;166
+2009;Ceara;1;347
+2010;Ceara;1;288
+2011;Ceara;1;32
+2012;Ceara;1;273
+2013;Ceara;1;103
+2014;Ceara;1;115
+2015;Ceara;1;207
+2016;Ceara;1;100
+2017;Ceara;1;91
+1998;Ceara;2;0
+1999;Ceara;2;16
+2000;Ceara;2;6
+2001;Ceara;2;0
+2002;Ceara;2;75
+2003;Ceara;2;9
+2004;Ceara;2;5
+2005;Ceara;2;25
+2006;Ceara;2;23
+2007;Ceara;2;3
+2008;Ceara;2;12
+2009;Ceara;2;8
+2010;Ceara;2;63
+2011;Ceara;2;2
+2012;Ceara;2;41
+2013;Ceara;2;49
+2014;Ceara;2;18
+2015;Ceara;2;25
+2016;Ceara;2;13
+2017;Ceara;2;9
+1998;Ceara;3;0
+1999;Ceara;3;30
+2000;Ceara;3;9
+2001;Ceara;3;0
+2002;Ceara;3;17
+2003;Ceara;3;3
+2004;Ceara;3;1
+2005;Ceara;3;5
+2006;Ceara;3;3
+2007;Ceara;3;2
+2008;Ceara;3;2
+2009;Ceara;3;3
+2010;Ceara;3;40
+2011;Ceara;3;6
+2012;Ceara;3;10
+2013;Ceara;3;17
+2014;Ceara;3;6
+2015;Ceara;3;20
+2016;Ceara;3;4
+2017;Ceara;3;4
+1998;Ceara;4;0
+1999;Ceara;4;6
+2000;Ceara;4;15
+2001;Ceara;4;2
+2002;Ceara;4;5
+2003;Ceara;4;3
+2004;Ceara;4;2
+2005;Ceara;4;4
+2006;Ceara;4;1
+2007;Ceara;4;1
+2008;Ceara;4;0
+2009;Ceara;4;0
+2010;Ceara;4;7
+2011;Ceara;4;1
+2012;Ceara;4;2
+2013;Ceara;4;4
+2014;Ceara;4;4
+2015;Ceara;4;3
+2016;Ceara;4;10
+2017;Ceara;4;6
+1998;Ceara;5;0
+1999;Ceara;5;5
+2000;Ceara;5;7
+2001;Ceara;5;81
+2002;Ceara;5;10
+2003;Ceara;5;0
+2004;Ceara;5;3
+2005;Ceara;5;1
+2006;Ceara;5;0
+2007;Ceara;5;0
+2008;Ceara;5;0
+2009;Ceara;5;0
+2010;Ceara;5;2
+2011;Ceara;5;0
+2012;Ceara;5;19
+2013;Ceara;5;4
+2014;Ceara;5;4
+2015;Ceara;5;17
+2016;Ceara;5;8
+2017;Ceara;5;9
+1998;Ceara;6;1
+1999;Ceara;6;16
+2000;Ceara;6;16
+2001;Ceara;6;38
+2002;Ceara;6;13
+2003;Ceara;6;2
+2004;Ceara;6;1
+2005;Ceara;6;6
+2006;Ceara;6;0
+2007;Ceara;6;1
+2008;Ceara;6;1
+2009;Ceara;6;0
+2010;Ceara;6;3
+2011;Ceara;6;5
+2012;Ceara;6;28
+2013;Ceara;6;5
+2014;Ceara;6;19
+2015;Ceara;6;22
+2016;Ceara;6;45
+2017;Ceara;6;23
+1998;Ceara;7;76
+1999;Ceara;7;83
+2000;Ceara;7;18
+2001;Ceara;7;146
+2002;Ceara;7;12
+2003;Ceara;7;14
+2004;Ceara;7;16
+2005;Ceara;7;14
+2006;Ceara;7;1
+2007;Ceara;7;11
+2008;Ceara;7;3
+2009;Ceara;7;7
+2010;Ceara;7;44
+2011;Ceara;7;18
+2012;Ceara;7;50
+2013;Ceara;7;4
+2014;Ceara;7;47
+2015;Ceara;7;25
+2016;Ceara;7;124
+2017;Ceara;7;26
+1998;Ceara;8;93
+1999;Ceara;8;131
+2000;Ceara;8;79
+2001;Ceara;8;219
+2002;Ceara;8;111
+2003;Ceara;8;109
+2004;Ceara;8;61
+2005;Ceara;8;51
+2006;Ceara;8;50
+2007;Ceara;8;182
+2008;Ceara;8;32
+2009;Ceara;8;26
+2010;Ceara;8;202
+2011;Ceara;8;53
+2012;Ceara;8;278
+2013;Ceara;8;32
+2014;Ceara;8;155
+2015;Ceara;8;127
+2016;Ceara;8;293
+2017;Ceara;8;121
+1998;Ceara;9;590
+1999;Ceara;9;124
+2000;Ceara;9;127
+2001;Ceara;9;801
+2002;Ceara;9;172
+2003;Ceara;9;384
+2004;Ceara;9;144
+2005;Ceara;9;185
+2006;Ceara;9;237
+2007;Ceara;9;241
+2008;Ceara;9;177
+2009;Ceara;9;101
+2010;Ceara;9;357
+2011;Ceara;9;239
+2012;Ceara;9;609
+2013;Ceara;9;177
+2014;Ceara;9;155
+2015;Ceara;9;214
+2016;Ceara;9;370
+2017;Ceara;9;505
+1998;Ceara;10;1.014
+1999;Ceara;10;309
+2000;Ceara;10;875
+2001;Ceara;10;2.045
+2002;Ceara;10;1.606
+2003;Ceara;10;1.761
+2004;Ceara;10;1.217
+2005;Ceara;10;1.378
+2006;Ceara;10;581
+2007;Ceara;10;964
+2008;Ceara;10;816
+2009;Ceara;10;435
+2010;Ceara;10;502
+2011;Ceara;10;415
+2012;Ceara;10;1.104
+2013;Ceara;10;466
+2014;Ceara;10;517
+2015;Ceara;10;658
+2016;Ceara;10;1.31
+2017;Ceara;10;949
+1998;Ceara;11;575
+1999;Ceara;11;524
+2000;Ceara;11;669
+2001;Ceara;11;2.456
+2002;Ceara;11;2.715
+2003;Ceara;11;3.327
+2004;Ceara;11;2.9
+2005;Ceara;11;2.483
+2006;Ceara;11;1.012
+2007;Ceara;11;1.443
+2008;Ceara;11;1.753
+2009;Ceara;11;1.653
+2010;Ceara;11;1.652
+2011;Ceara;11;1.561
+2012;Ceara;11;995
+2013;Ceara;11;1.081
+2014;Ceara;11;829
+2015;Ceara;11;1.081
+2016;Ceara;11;1.328
+2017;Ceara;11;812
+1998;Ceara;12;276
+1999;Ceara;12;397
+2000;Ceara;12;389
+2001;Ceara;12;545
+2002;Ceara;12;1.787
+2003;Ceara;12;2.436
+2004;Ceara;12;3.158
+2005;Ceara;12;1.36
+2006;Ceara;12;1.161
+2007;Ceara;12;1.177
+2008;Ceara;12;1.655
+2009;Ceara;12;1.987
+2010;Ceara;12;578
+2011;Ceara;12;1.441
+2012;Ceara;12;631
+2013;Ceara;12;956
+2014;Ceara;12;643
+2015;Ceara;12;1.021
+2016;Ceara;12;819
+1998;Distrito Federal;1;0
+1999;Distrito Federal;1;0
+2000;Distrito Federal;1;0
+2001;Distrito Federal;1;0
+2002;Distrito Federal;1;0
+2003;Distrito Federal;1;0
+2004;Distrito Federal;1;0
+2005;Distrito Federal;1;0
+2006;Distrito Federal;1;0
+2007;Distrito Federal;1;0
+2008;Distrito Federal;1;0
+2009;Distrito Federal;1;1
+2010;Distrito Federal;1;2
+2011;Distrito Federal;1;2
+2012;Distrito Federal;1;0
+2013;Distrito Federal;1;0
+2014;Distrito Federal;1;0
+2015;Distrito Federal;1;1
+2016;Distrito Federal;1;1
+2017;Distrito Federal;1;1
+1998;Distrito Federal;2;0
+1999;Distrito Federal;2;2
+2000;Distrito Federal;2;0
+2001;Distrito Federal;2;1
+2002;Distrito Federal;2;0
+2003;Distrito Federal;2;1
+2004;Distrito Federal;2;0
+2005;Distrito Federal;2;0
+2006;Distrito Federal;2;0
+2007;Distrito Federal;2;0
+2008;Distrito Federal;2;0
+2009;Distrito Federal;2;0
+2010;Distrito Federal;2;4
+2011;Distrito Federal;2;1
+2012;Distrito Federal;2;0
+2013;Distrito Federal;2;1
+2014;Distrito Federal;2;1
+2015;Distrito Federal;2;0
+2016;Distrito Federal;2;2
+2017;Distrito Federal;2;0
+1998;Distrito Federal;3;0
+1999;Distrito Federal;3;0
+2000;Distrito Federal;3;0
+2001;Distrito Federal;3;0
+2002;Distrito Federal;3;0
+2003;Distrito Federal;3;0
+2004;Distrito Federal;3;0
+2005;Distrito Federal;3;0
+2006;Distrito Federal;3;0
+2007;Distrito Federal;3;1
+2008;Distrito Federal;3;2
+2009;Distrito Federal;3;0
+2010;Distrito Federal;3;0
+2011;Distrito Federal;3;0
+2012;Distrito Federal;3;0
+2013;Distrito Federal;3;1
+2014;Distrito Federal;3;1
+2015;Distrito Federal;3;0
+2016;Distrito Federal;3;1
+2017;Distrito Federal;3;0
+1998;Distrito Federal;4;0
+1999;Distrito Federal;4;0
+2000;Distrito Federal;4;0
+2001;Distrito Federal;4;0
+2002;Distrito Federal;4;1
+2003;Distrito Federal;4;0
+2004;Distrito Federal;4;1
+2005;Distrito Federal;4;0
+2006;Distrito Federal;4;0
+2007;Distrito Federal;4;0
+2008;Distrito Federal;4;1
+2009;Distrito Federal;4;0
+2010;Distrito Federal;4;8
+2011;Distrito Federal;4;1
+2012;Distrito Federal;4;4
+2013;Distrito Federal;4;1
+2014;Distrito Federal;4;2
+2015;Distrito Federal;4;0
+2016;Distrito Federal;4;5
+2017;Distrito Federal;4;1
+1998;Distrito Federal;5;0
+1999;Distrito Federal;5;0
+2000;Distrito Federal;5;2
+2001;Distrito Federal;5;0
+2002;Distrito Federal;5;1
+2003;Distrito Federal;5;0
+2004;Distrito Federal;5;9
+2005;Distrito Federal;5;2
+2006;Distrito Federal;5;3
+2007;Distrito Federal;5;4
+2008;Distrito Federal;5;6
+2009;Distrito Federal;5;9
+2010;Distrito Federal;5;23
+2011;Distrito Federal;5;3
+2012;Distrito Federal;5;0
+2013;Distrito Federal;5;2
+2014;Distrito Federal;5;9
+2015;Distrito Federal;5;2
+2016;Distrito Federal;5;15
+2017;Distrito Federal;5;6
+1998;Distrito Federal;6;2
+1999;Distrito Federal;6;3
+2000;Distrito Federal;6;1
+2001;Distrito Federal;6;3
+2002;Distrito Federal;6;7
+2003;Distrito Federal;6;11
+2004;Distrito Federal;6;6
+2005;Distrito Federal;6;3
+2006;Distrito Federal;6;2
+2007;Distrito Federal;6;21
+2008;Distrito Federal;6;0
+2009;Distrito Federal;6;4
+2010;Distrito Federal;6;21
+2011;Distrito Federal;6;18
+2012;Distrito Federal;6;6
+2013;Distrito Federal;6;4
+2014;Distrito Federal;6;6
+2015;Distrito Federal;6;1
+2016;Distrito Federal;6;42
+2017;Distrito Federal;6;23
+1998;Distrito Federal;7;17
+1999;Distrito Federal;7;4
+2000;Distrito Federal;7;15
+2001;Distrito Federal;7;22
+2002;Distrito Federal;7;33
+2003;Distrito Federal;7;19
+2004;Distrito Federal;7;37
+2005;Distrito Federal;7;24
+2006;Distrito Federal;7;10
+2007;Distrito Federal;7;25
+2008;Distrito Federal;7;12
+2009;Distrito Federal;7;33
+2010;Distrito Federal;7;85
+2011;Distrito Federal;7;53
+2012;Distrito Federal;7;29
+2013;Distrito Federal;7;22
+2014;Distrito Federal;7;27
+2015;Distrito Federal;7;15
+2016;Distrito Federal;7;79
+2017;Distrito Federal;7;44
+1998;Distrito Federal;8;48
+1999;Distrito Federal;8;16
+2000;Distrito Federal;8;9
+2001;Distrito Federal;8;25
+2002;Distrito Federal;8;53
+2003;Distrito Federal;8;36
+2004;Distrito Federal;8;108
+2005;Distrito Federal;8;20
+2006;Distrito Federal;8;40
+2007;Distrito Federal;8;137
+2008;Distrito Federal;8;30
+2009;Distrito Federal;8;37
+2010;Distrito Federal;8;159
+2011;Distrito Federal;8;61
+2012;Distrito Federal;8;55
+2013;Distrito Federal;8;34
+2014;Distrito Federal;8;99
+2015;Distrito Federal;8;53
+2016;Distrito Federal;8;29
+2017;Distrito Federal;8;147
+1998;Distrito Federal;9;33
+1999;Distrito Federal;9;12
+2000;Distrito Federal;9;3
+2001;Distrito Federal;9;12
+2002;Distrito Federal;9;33
+2003;Distrito Federal;9;17
+2004;Distrito Federal;9;100
+2005;Distrito Federal;9;23
+2006;Distrito Federal;9;20
+2007;Distrito Federal;9;73
+2008;Distrito Federal;9;54
+2009;Distrito Federal;9;5
+2010;Distrito Federal;9;196
+2011;Distrito Federal;9;133
+2012;Distrito Federal;9;64
+2013;Distrito Federal;9;31
+2014;Distrito Federal;9;72
+2015;Distrito Federal;9;76
+2016;Distrito Federal;9;58
+2017;Distrito Federal;9;122
+1998;Distrito Federal;10;3
+1999;Distrito Federal;10;8
+2000;Distrito Federal;10;18
+2001;Distrito Federal;10;0
+2002;Distrito Federal;10;19
+2003;Distrito Federal;10;12
+2004;Distrito Federal;10;18
+2005;Distrito Federal;10;18
+2006;Distrito Federal;10;1
+2007;Distrito Federal;10;13
+2008;Distrito Federal;10;6
+2009;Distrito Federal;10;3
+2010;Distrito Federal;10;6
+2011;Distrito Federal;10;0
+2012;Distrito Federal;10;15
+2013;Distrito Federal;10;3
+2014;Distrito Federal;10;34
+2015;Distrito Federal;10;21
+2016;Distrito Federal;10;9
+2017;Distrito Federal;10;66
+1998;Distrito Federal;11;0
+1999;Distrito Federal;11;1
+2000;Distrito Federal;11;0
+2001;Distrito Federal;11;0
+2002;Distrito Federal;11;1
+2003;Distrito Federal;11;0
+2004;Distrito Federal;11;0
+2005;Distrito Federal;11;2
+2006;Distrito Federal;11;0
+2007;Distrito Federal;11;0
+2008;Distrito Federal;11;4
+2009;Distrito Federal;11;0
+2010;Distrito Federal;11;0
+2011;Distrito Federal;11;1
+2012;Distrito Federal;11;0
+2013;Distrito Federal;11;0
+2014;Distrito Federal;11;0
+2015;Distrito Federal;11;3
+2016;Distrito Federal;11;1
+2017;Distrito Federal;11;0
+1998;Distrito Federal;12;0
+1999;Distrito Federal;12;0
+2000;Distrito Federal;12;0
+2001;Distrito Federal;12;1
+2002;Distrito Federal;12;1
+2003;Distrito Federal;12;0
+2004;Distrito Federal;12;0
+2005;Distrito Federal;12;0
+2006;Distrito Federal;12;0
+2007;Distrito Federal;12;0
+2008;Distrito Federal;12;0
+2009;Distrito Federal;12;0
+2010;Distrito Federal;12;1
+2011;Distrito Federal;12;0
+2012;Distrito Federal;12;0
+2013;Distrito Federal;12;2
+2014;Distrito Federal;12;0
+2015;Distrito Federal;12;0
+2016;Distrito Federal;12;0
+1998;Espirito Santo;1;0
+1999;Espirito Santo;1;33
+2000;Espirito Santo;1;5
+2001;Espirito Santo;1;1
+2002;Espirito Santo;1;2
+2003;Espirito Santo;1;4
+2004;Espirito Santo;1;1
+2005;Espirito Santo;1;4
+2006;Espirito Santo;1;13
+2007;Espirito Santo;1;0
+2008;Espirito Santo;1;12
+2009;Espirito Santo;1;4
+2010;Espirito Santo;1;52
+2011;Espirito Santo;1;3
+2012;Espirito Santo;1;1
+2013;Espirito Santo;1;10
+2014;Espirito Santo;1;11
+2015;Espirito Santo;1;76
+2016;Espirito Santo;1;43
+2017;Espirito Santo;1;13
+1998;Espirito Santo;2;0
+1999;Espirito Santo;2;10
+2000;Espirito Santo;2;5
+2001;Espirito Santo;2;5
+2002;Espirito Santo;2;4
+2003;Espirito Santo;2;11
+2004;Espirito Santo;2;5
+2005;Espirito Santo;2;1
+2006;Espirito Santo;2;45
+2007;Espirito Santo;2;3
+2008;Espirito Santo;2;20
+2009;Espirito Santo;2;12
+2010;Espirito Santo;2;15
+2011;Espirito Santo;2;42
+2012;Espirito Santo;2;25
+2013;Espirito Santo;2;15
+2014;Espirito Santo;2;17
+2015;Espirito Santo;2;60
+2016;Espirito Santo;2;24
+2017;Espirito Santo;2;8
+1998;Espirito Santo;3;0
+1999;Espirito Santo;3;8
+2000;Espirito Santo;3;1
+2001;Espirito Santo;3;2
+2002;Espirito Santo;3;4
+2003;Espirito Santo;3;28
+2004;Espirito Santo;3;3
+2005;Espirito Santo;3;3
+2006;Espirito Santo;3;14
+2007;Espirito Santo;3;9
+2008;Espirito Santo;3;5
+2009;Espirito Santo;3;11
+2010;Espirito Santo;3;3
+2011;Espirito Santo;3;5
+2012;Espirito Santo;3;35
+2013;Espirito Santo;3;13
+2014;Espirito Santo;3;15
+2015;Espirito Santo;3;25
+2016;Espirito Santo;3;107
+2017;Espirito Santo;3;9
+1998;Espirito Santo;4;0
+1999;Espirito Santo;4;2
+2000;Espirito Santo;4;3
+2001;Espirito Santo;4;2
+2002;Espirito Santo;4;2
+2003;Espirito Santo;4;22
+2004;Espirito Santo;4;0
+2005;Espirito Santo;4;4
+2006;Espirito Santo;4;1
+2007;Espirito Santo;4;2
+2008;Espirito Santo;4;8
+2009;Espirito Santo;4;8
+2010;Espirito Santo;4;7
+2011;Espirito Santo;4;3
+2012;Espirito Santo;4;74
+2013;Espirito Santo;4;16
+2014;Espirito Santo;4;15
+2015;Espirito Santo;4;33
+2016;Espirito Santo;4;57
+2017;Espirito Santo;4;7
+1998;Espirito Santo;5;0
+1999;Espirito Santo;5;16
+2000;Espirito Santo;5;2
+2001;Espirito Santo;5;8
+2002;Espirito Santo;5;5
+2003;Espirito Santo;5;1
+2004;Espirito Santo;5;0
+2005;Espirito Santo;5;5
+2006;Espirito Santo;5;0
+2007;Espirito Santo;5;1
+2008;Espirito Santo;5;2
+2009;Espirito Santo;5;7
+2010;Espirito Santo;5;3
+2011;Espirito Santo;5;2
+2012;Espirito Santo;5;20
+2013;Espirito Santo;5;14
+2014;Espirito Santo;5;18
+2015;Espirito Santo;5;17
+2016;Espirito Santo;5;48
+2017;Espirito Santo;5;10
+1998;Espirito Santo;6;6
+1999;Espirito Santo;6;6
+2000;Espirito Santo;6;9
+2001;Espirito Santo;6;9
+2002;Espirito Santo;6;18
+2003;Espirito Santo;6;19
+2004;Espirito Santo;6;3
+2005;Espirito Santo;6;8
+2006;Espirito Santo;6;5
+2007;Espirito Santo;6;4
+2008;Espirito Santo;6;4
+2009;Espirito Santo;6;12
+2010;Espirito Santo;6;3
+2011;Espirito Santo;6;7
+2012;Espirito Santo;6;15
+2013;Espirito Santo;6;22
+2014;Espirito Santo;6;9
+2015;Espirito Santo;6;18
+2016;Espirito Santo;6;49
+2017;Espirito Santo;6;37
+1998;Espirito Santo;7;37
+1999;Espirito Santo;7;9
+2000;Espirito Santo;7;16
+2001;Espirito Santo;7;12
+2002;Espirito Santo;7;9
+2003;Espirito Santo;7;27
+2004;Espirito Santo;7;4
+2005;Espirito Santo;7;9
+2006;Espirito Santo;7;11
+2007;Espirito Santo;7;13
+2008;Espirito Santo;7;5
+2009;Espirito Santo;7;25
+2010;Espirito Santo;7;5
+2011;Espirito Santo;7;18
+2012;Espirito Santo;7;35
+2013;Espirito Santo;7;20
+2014;Espirito Santo;7;17
+2015;Espirito Santo;7;30
+2016;Espirito Santo;7;42
+2017;Espirito Santo;7;3
+1998;Espirito Santo;8;38
+1999;Espirito Santo;8;60
+2000;Espirito Santo;8;26
+2001;Espirito Santo;8;30
+2002;Espirito Santo;8;60
+2003;Espirito Santo;8;118
+2004;Espirito Santo;8;12
+2005;Espirito Santo;8;12
+2006;Espirito Santo;8;29
+2007;Espirito Santo;8;82
+2008;Espirito Santo;8;13
+2009;Espirito Santo;8;17
+2010;Espirito Santo;8;39
+2011;Espirito Santo;8;93
+2012;Espirito Santo;8;12
+2013;Espirito Santo;8;53
+2014;Espirito Santo;8;47
+2015;Espirito Santo;8;35
+2016;Espirito Santo;8;78
+2017;Espirito Santo;8;30
+1998;Espirito Santo;9;108
+1999;Espirito Santo;9;64
+2000;Espirito Santo;9;14
+2001;Espirito Santo;9;38
+2002;Espirito Santo;9;46
+2003;Espirito Santo;9;252
+2004;Espirito Santo;9;47
+2005;Espirito Santo;9;8
+2006;Espirito Santo;9;87
+2007;Espirito Santo;9;63
+2008;Espirito Santo;9;78
+2009;Espirito Santo;9;57
+2010;Espirito Santo;9;53
+2011;Espirito Santo;9;108
+2012;Espirito Santo;9;48
+2013;Espirito Santo;9;30
+2014;Espirito Santo;9;61
+2015;Espirito Santo;9;228
+2016;Espirito Santo;9;128
+2017;Espirito Santo;9;58
+1998;Espirito Santo;10;20
+1999;Espirito Santo;10;23
+2000;Espirito Santo;10;88
+2001;Espirito Santo;10;19
+2002;Espirito Santo;10;113
+2003;Espirito Santo;10;159
+2004;Espirito Santo;10;48
+2005;Espirito Santo;10;62
+2006;Espirito Santo;10;10
+2007;Espirito Santo;10;79
+2008;Espirito Santo;10;100
+2009;Espirito Santo;10;13
+2010;Espirito Santo;10;32
+2011;Espirito Santo;10;38
+2012;Espirito Santo;10;62
+2013;Espirito Santo;10;37
+2014;Espirito Santo;10;89
+2015;Espirito Santo;10;307
+2016;Espirito Santo;10;58
+2017;Espirito Santo;10;56
+1998;Espirito Santo;11;4
+1999;Espirito Santo;11;9
+2000;Espirito Santo;11;3
+2001;Espirito Santo;11;3
+2002;Espirito Santo;11;22
+2003;Espirito Santo;11;49
+2004;Espirito Santo;11;42
+2005;Espirito Santo;11;0
+2006;Espirito Santo;11;0
+2007;Espirito Santo;11;112
+2008;Espirito Santo;11;3
+2009;Espirito Santo;11;18
+2010;Espirito Santo;11;3
+2011;Espirito Santo;11;6
+2012;Espirito Santo;11;7
+2013;Espirito Santo;11;11
+2014;Espirito Santo;11;20
+2015;Espirito Santo;11;141
+2016;Espirito Santo;11;8
+2017;Espirito Santo;11;3
+1998;Espirito Santo;12;5
+1999;Espirito Santo;12;0
+2000;Espirito Santo;12;3
+2001;Espirito Santo;12;1
+2002;Espirito Santo;12;12
+2003;Espirito Santo;12;18
+2004;Espirito Santo;12;9
+2005;Espirito Santo;12;5
+2006;Espirito Santo;12;0
+2007;Espirito Santo;12;14
+2008;Espirito Santo;12;1
+2009;Espirito Santo;12;32
+2010;Espirito Santo;12;10
+2011;Espirito Santo;12;1
+2012;Espirito Santo;12;18
+2013;Espirito Santo;12;9
+2014;Espirito Santo;12;28
+2015;Espirito Santo;12;61
+2016;Espirito Santo;12;12
+1998;Goias;1;0
+1999;Goias;1;14
+2000;Goias;1;10
+2001;Goias;1;29
+2002;Goias;1;12
+2003;Goias;1;14
+2004;Goias;1;10
+2005;Goias;1;27
+2006;Goias;1;85
+2007;Goias;1;28
+2008;Goias;1;23
+2009;Goias;1;30
+2010;Goias;1;59
+2011;Goias;1;39
+2012;Goias;1;21
+2013;Goias;1;33
+2014;Goias;1;80
+2015;Goias;1;118
+2016;Goias;1;52
+2017;Goias;1;53
+1998;Goias;2;0
+1999;Goias;2;334
+2000;Goias;2;11
+2001;Goias;2;9
+2002;Goias;2;9
+2003;Goias;2;47
+2004;Goias;2;11
+2005;Goias;2;84
+2006;Goias;2;21
+2007;Goias;2;13
+2008;Goias;2;25
+2009;Goias;2;29
+2010;Goias;2;86
+2011;Goias;2;45
+2012;Goias;2;37
+2013;Goias;2;86
+2014;Goias;2;44
+2015;Goias;2;53
+2016;Goias;2;117
+2017;Goias;2;75
+1998;Goias;3;0
+1999;Goias;3;1
+2000;Goias;3;4
+2001;Goias;3;10
+2002;Goias;3;48
+2003;Goias;3;29
+2004;Goias;3;36
+2005;Goias;3;36
+2006;Goias;3;29
+2007;Goias;3;49
+2008;Goias;3;20
+2009;Goias;3;32
+2010;Goias;3;65
+2011;Goias;3;19
+2012;Goias;3;57
+2013;Goias;3;79
+2014;Goias;3;80
+2015;Goias;3;76
+2016;Goias;3;136
+2017;Goias;3;115
+1998;Goias;4;0
+1999;Goias;4;25
+2000;Goias;4;16
+2001;Goias;4;49
+2002;Goias;4;78
+2003;Goias;4;87
+2004;Goias;4;32
+2005;Goias;4;55
+2006;Goias;4;22
+2007;Goias;4;17
+2008;Goias;4;36
+2009;Goias;4;11
+2010;Goias;4;105
+2011;Goias;4;71
+2012;Goias;4;89
+2013;Goias;4;42
+2014;Goias;4;138
+2015;Goias;4;89
+2016;Goias;4;167
+2017;Goias;4;60
+1998;Goias;5;0
+1999;Goias;5;99
+2000;Goias;5;58
+2001;Goias;5;85
+2002;Goias;5;171
+2003;Goias;5;57
+2004;Goias;5;157
+2005;Goias;5;164
+2006;Goias;5;33
+2007;Goias;5;94
+2008;Goias;5;41
+2009;Goias;5;104
+2010;Goias;5;239
+2011;Goias;5;136
+2012;Goias;5;103
+2013;Goias;5;150
+2014;Goias;5;210
+2015;Goias;5;129
+2016;Goias;5;233
+2017;Goias;5;135
+1998;Goias;6;172
+1999;Goias;6;250
+2000;Goias;6;222
+2001;Goias;6;212
+2002;Goias;6;302
+2003;Goias;6;321
+2004;Goias;6;422
+2005;Goias;6;189
+2006;Goias;6;70
+2007;Goias;6;186
+2008;Goias;6;55
+2009;Goias;6;179
+2010;Goias;6;278
+2011;Goias;6;314
+2012;Goias;6;245
+2013;Goias;6;192
+2014;Goias;6;318
+2015;Goias;6;277
+2016;Goias;6;289
+2017;Goias;6;442
+1998;Goias;7;512
+1999;Goias;7;311
+2000;Goias;7;332
+2001;Goias;7;371
+2002;Goias;7;686
+2003;Goias;7;322
+2004;Goias;7;778
+2005;Goias;7;363
+2006;Goias;7;169
+2007;Goias;7;399
+2008;Goias;7;193
+2009;Goias;7;470
+2010;Goias;7;941
+2011;Goias;7;607
+2012;Goias;7;564
+2013;Goias;7;350
+2014;Goias;7;446
+2015;Goias;7;347
+2016;Goias;7;837
+2017;Goias;7;577
+1998;Goias;8;2.218
+1999;Goias;8;1.198
+2000;Goias;8;925
+2001;Goias;8;787
+2002;Goias;8;1.428
+2003;Goias;8;902
+2004;Goias;8;1.498
+2005;Goias;8;639
+2006;Goias;8;588
+2007;Goias;8;2.382
+2008;Goias;8;568
+2009;Goias;8;647
+2010;Goias;8;2.914
+2011;Goias;8;1.613
+2012;Goias;8;912
+2013;Goias;8;488
+2014;Goias;8;1.255
+2015;Goias;8;943
+2016;Goias;8;1.032
+2017;Goias;8;1.492
+1998;Goias;9;2.867
+1999;Goias;9;1.898
+2000;Goias;9;1.293
+2001;Goias;9;1.863
+2002;Goias;9;3.52
+2003;Goias;9;1.662
+2004;Goias;9;2.965
+2005;Goias;9;1.341
+2006;Goias;9;1.463
+2007;Goias;9;3.745
+2008;Goias;9;1.255
+2009;Goias;9;685
+2010;Goias;9;5.075
+2011;Goias;9;2.259
+2012;Goias;9;2.452
+2013;Goias;9;684
+2014;Goias;9;1.687
+2015;Goias;9;2.296
+2016;Goias;9;1.703
+2017;Goias;9;3.238
+1998;Goias;10;1.034
+1999;Goias;10;743
+2000;Goias;10;905
+2001;Goias;10;479
+2002;Goias;10;1.367
+2003;Goias;10;1.183
+2004;Goias;10;1.275
+2005;Goias;10;1.717
+2006;Goias;10;178
+2007;Goias;10;1.195
+2008;Goias;10;1.231
+2009;Goias;10;367
+2010;Goias;10;1.227
+2011;Goias;10;476
+2012;Goias;10;1.524
+2013;Goias;10;606
+2014;Goias;10;1.947
+2015;Goias;10;1.807
+2016;Goias;10;522
+2017;Goias;10;2.401
+1998;Goias;11;47
+1999;Goias;11;110
+2000;Goias;11;26
+2001;Goias;11;15
+2002;Goias;11;192
+2003;Goias;11;168
+2004;Goias;11;291
+2005;Goias;11;144
+2006;Goias;11;91
+2007;Goias;11;79
+2008;Goias;11;90
+2009;Goias;11;89
+2010;Goias;11;67
+2011;Goias;11;59
+2012;Goias;11;57
+2013;Goias;11;183
+2014;Goias;11;181
+2015;Goias;11;547
+2016;Goias;11;123
+2017;Goias;11;117
+1998;Goias;12;13
+1999;Goias;12;20
+2000;Goias;12;6
+2001;Goias;12;18
+2002;Goias;12;115
+2003;Goias;12;129
+2004;Goias;12;56
+2005;Goias;12;5
+2006;Goias;12;7
+2007;Goias;12;16
+2008;Goias;12;6
+2009;Goias;12;39
+2010;Goias;12;48
+2011;Goias;12;39
+2012;Goias;12;93
+2013;Goias;12;86
+2014;Goias;12;68
+2015;Goias;12;179
+2016;Goias;12;64
+1998;Maranhao;1;0
+1999;Maranhao;1;54
+2000;Maranhao;1;19
+2001;Maranhao;1;29
+2002;Maranhao;1;48
+2003;Maranhao;1;436
+2004;Maranhao;1;241
+2005;Maranhao;1;450
+2006;Maranhao;1;221
+2007;Maranhao;1;428
+2008;Maranhao;1;121
+2009;Maranhao;1;240
+2010;Maranhao;1;319
+2011;Maranhao;1;124
+2012;Maranhao;1;326
+2013;Maranhao;1;209
+2014;Maranhao;1;195
+2015;Maranhao;1;494
+2016;Maranhao;1;412
+2017;Maranhao;1;187
+1998;Maranhao;2;0
+1999;Maranhao;2;6
+2000;Maranhao;2;11
+2001;Maranhao;2;1
+2002;Maranhao;2;116
+2003;Maranhao;2;11
+2004;Maranhao;2;22
+2005;Maranhao;2;56
+2006;Maranhao;2;22
+2007;Maranhao;2;13
+2008;Maranhao;2;45
+2009;Maranhao;2;20
+2010;Maranhao;2;93
+2011;Maranhao;2;9
+2012;Maranhao;2;46
+2013;Maranhao;2;62
+2014;Maranhao;2;29
+2015;Maranhao;2;95
+2016;Maranhao;2;318
+2017;Maranhao;2;47
+1998;Maranhao;3;0
+1999;Maranhao;3;17
+2000;Maranhao;3;6
+2001;Maranhao;3;0
+2002;Maranhao;3;16
+2003;Maranhao;3;16
+2004;Maranhao;3;18
+2005;Maranhao;3;9
+2006;Maranhao;3;14
+2007;Maranhao;3;52
+2008;Maranhao;3;4
+2009;Maranhao;3;33
+2010;Maranhao;3;82
+2011;Maranhao;3;22
+2012;Maranhao;3;49
+2013;Maranhao;3;30
+2014;Maranhao;3;59
+2015;Maranhao;3;53
+2016;Maranhao;3;113
+2017;Maranhao;3;32
+1998;Maranhao;4;0
+1999;Maranhao;4;4
+2000;Maranhao;4;6
+2001;Maranhao;4;2
+2002;Maranhao;4;28
+2003;Maranhao;4;79
+2004;Maranhao;4;44
+2005;Maranhao;4;43
+2006;Maranhao;4;9
+2007;Maranhao;4;5
+2008;Maranhao;4;26
+2009;Maranhao;4;14
+2010;Maranhao;4;128
+2011;Maranhao;4;37
+2012;Maranhao;4;97
+2013;Maranhao;4;62
+2014;Maranhao;4;78
+2015;Maranhao;4;119
+2016;Maranhao;4;113
+2017;Maranhao;4;91
+1998;Maranhao;5;0
+1999;Maranhao;5;3
+2000;Maranhao;5;28
+2001;Maranhao;5;21
+2002;Maranhao;5;71
+2003;Maranhao;5;60
+2004;Maranhao;5;145
+2005;Maranhao;5;74
+2006;Maranhao;5;5
+2007;Maranhao;5;73
+2008;Maranhao;5;26
+2009;Maranhao;5;19
+2010;Maranhao;5;273
+2011;Maranhao;5;73
+2012;Maranhao;5;286
+2013;Maranhao;5;100
+2014;Maranhao;5;148
+2015;Maranhao;5;194
+2016;Maranhao;5;206
+2017;Maranhao;5;142
+1998;Maranhao;6;78
+1999;Maranhao;6;32
+2000;Maranhao;6;94
+2001;Maranhao;6;100
+2002;Maranhao;6;230
+2003;Maranhao;6;338
+2004;Maranhao;6;706
+2005;Maranhao;6;529
+2006;Maranhao;6;131
+2007;Maranhao;6;515
+2008;Maranhao;6;235
+2009;Maranhao;6;279
+2010;Maranhao;6;494
+2011;Maranhao;6;602
+2012;Maranhao;6;915
+2013;Maranhao;6;498
+2014;Maranhao;6;812
+2015;Maranhao;6;887
+2016;Maranhao;6;709
+2017;Maranhao;6;885
+1998;Maranhao;7;274
+1999;Maranhao;7;258
+2000;Maranhao;7;233
+2001;Maranhao;7;549
+2002;Maranhao;7;1.271
+2003;Maranhao;7;1.103
+2004;Maranhao;7;1.366
+2005;Maranhao;7;1.152
+2006;Maranhao;7;512
+2007;Maranhao;7;1.205
+2008;Maranhao;7;502
+2009;Maranhao;7;972
+2010;Maranhao;7;2.323
+2011;Maranhao;7;1.024
+2012;Maranhao;7;3.548
+2013;Maranhao;7;1.111
+2014;Maranhao;7;2.068
+2015;Maranhao;7;1.642
+2016;Maranhao;7;2.096
+2017;Maranhao;7;2.521
+1998;Maranhao;8;1.176
+1999;Maranhao;8;895
+2000;Maranhao;8;839
+2001;Maranhao;8;2.037
+2002;Maranhao;8;3.481
+2003;Maranhao;8;2.023
+2004;Maranhao;8;1.889
+2005;Maranhao;8;2.239
+2006;Maranhao;8;1.382
+2007;Maranhao;8;8.409
+2008;Maranhao;8;713
+2009;Maranhao;8;1.766
+2010;Maranhao;8;6.353
+2011;Maranhao;8;2.138
+2012;Maranhao;8;10.395
+2013;Maranhao;8;2.098
+2014;Maranhao;8;5.592
+2015;Maranhao;8;5.428
+2016;Maranhao;8;3.723
+2017;Maranhao;8;3.875
+1998;Maranhao;9;3.935
+1999;Maranhao;9;1.739
+2000;Maranhao;9;1.365
+2001;Maranhao;9;4.618
+2002;Maranhao;9;3.181
+2003;Maranhao;9;5.878
+2004;Maranhao;9;4.673
+2005;Maranhao;9;6.292
+2006;Maranhao;9;2.907
+2007;Maranhao;9;8.524
+2008;Maranhao;9;2.761
+2009;Maranhao;9;2.404
+2010;Maranhao;9;9.795
+2011;Maranhao;9;4.632
+2012;Maranhao;9;7.626
+2013;Maranhao;9;3.88
+2014;Maranhao;9;4.373
+2015;Maranhao;9;6.423
+2016;Maranhao;9;3.166
+2017;Maranhao;9;14.825
+1998;Maranhao;10;5.137
+1999;Maranhao;10;3.208
+2000;Maranhao;10;2.654
+2001;Maranhao;10;6.661
+2002;Maranhao;10;5.182
+2003;Maranhao;10;6.085
+2004;Maranhao;10;3.604
+2005;Maranhao;10;6.472
+2006;Maranhao;10;3.024
+2007;Maranhao;10;4.772
+2008;Maranhao;10;3.498
+2009;Maranhao;10;1.861
+2010;Maranhao;10;3.228
+2011;Maranhao;10;2.404
+2012;Maranhao;10;5
+2013;Maranhao;10;2.918
+2014;Maranhao;10;5.812
+2015;Maranhao;10;6.746
+2016;Maranhao;10;5.351
+2017;Maranhao;10;6.011
+1998;Maranhao;11;2.237
+1999;Maranhao;11;1.494
+2000;Maranhao;11;2.267
+2001;Maranhao;11;3.525
+2002;Maranhao;11;5.83
+2003;Maranhao;11;4.929
+2004;Maranhao;11;6.398
+2005;Maranhao;11;4.769
+2006;Maranhao;11;2.004
+2007;Maranhao;11;2.297
+2008;Maranhao;11;2.331
+2009;Maranhao;11;5
+2010;Maranhao;11;4.005
+2011;Maranhao;11;2.261
+2012;Maranhao;11;2.01
+2013;Maranhao;11;2.529
+2014;Maranhao;11;3.869
+2015;Maranhao;11;4.35
+2016;Maranhao;11;3.982
+2017;Maranhao;11;2.3
+1998;Maranhao;12;1.399
+1999;Maranhao;12;1.001
+2000;Maranhao;12;1.461
+2001;Maranhao;12;1.296
+2002;Maranhao;12;2.165
+2003;Maranhao;12;2.424
+2004;Maranhao;12;3.255
+2005;Maranhao;12;1.66
+2006;Maranhao;12;1.052
+2007;Maranhao;12;800
+2008;Maranhao;12;1.101
+2009;Maranhao;12;1.768
+2010;Maranhao;12;1.803
+2011;Maranhao;12;1.629
+2012;Maranhao;12;1.296
+2013;Maranhao;12;2.692
+2014;Maranhao;12;2.4
+2015;Maranhao;12;3.706
+2016;Maranhao;12;1.577
+1998;Mato Grosso;1;0
+1999;Mato Grosso;1;39
+2000;Mato Grosso;1;44
+2001;Mato Grosso;1;44
+2002;Mato Grosso;1;172
+2003;Mato Grosso;1;896
+2004;Mato Grosso;1;301
+2005;Mato Grosso;1;438
+2006;Mato Grosso;1;947
+2007;Mato Grosso;1;476
+2008;Mato Grosso;1;245
+2009;Mato Grosso;1;527
+2010;Mato Grosso;1;298
+2011;Mato Grosso;1;171
+2012;Mato Grosso;1;166
+2013;Mato Grosso;1;269
+2014;Mato Grosso;1;315
+2015;Mato Grosso;1;960
+2016;Mato Grosso;1;374
+2017;Mato Grosso;1;482
+1998;Mato Grosso;2;0
+1999;Mato Grosso;2;28
+2000;Mato Grosso;2;35
+2001;Mato Grosso;2;54
+2002;Mato Grosso;2;22
+2003;Mato Grosso;2;592
+2004;Mato Grosso;2;272
+2005;Mato Grosso;2;871
+2006;Mato Grosso;2;383
+2007;Mato Grosso;2;213
+2008;Mato Grosso;2;180
+2009;Mato Grosso;2;248
+2010;Mato Grosso;2;431
+2011;Mato Grosso;2;119
+2012;Mato Grosso;2;193
+2013;Mato Grosso;2;375
+2014;Mato Grosso;2;199
+2015;Mato Grosso;2;542
+2016;Mato Grosso;2;1.05
+2017;Mato Grosso;2;337
+1998;Mato Grosso;3;0
+1999;Mato Grosso;3;18
+2000;Mato Grosso;3;60
+2001;Mato Grosso;3;24
+2002;Mato Grosso;3;103
+2003;Mato Grosso;3;554
+2004;Mato Grosso;3;743
+2005;Mato Grosso;3;362
+2006;Mato Grosso;3;448
+2007;Mato Grosso;3;476
+2008;Mato Grosso;3;180
+2009;Mato Grosso;3;325
+2010;Mato Grosso;3;605
+2011;Mato Grosso;3;252
+2012;Mato Grosso;3;423
+2013;Mato Grosso;3;563
+2014;Mato Grosso;3;655
+2015;Mato Grosso;3;705
+2016;Mato Grosso;3;1.085
+2017;Mato Grosso;3;719
+1998;Mato Grosso;4;0
+1999;Mato Grosso;4;76
+2000;Mato Grosso;4;59
+2001;Mato Grosso;4;309
+2002;Mato Grosso;4;641
+2003;Mato Grosso;4;903
+2004;Mato Grosso;4;441
+2005;Mato Grosso;4;372
+2006;Mato Grosso;4;161
+2007;Mato Grosso;4;79
+2008;Mato Grosso;4;274
+2009;Mato Grosso;4;169
+2010;Mato Grosso;4;769
+2011;Mato Grosso;4;345
+2012;Mato Grosso;4;521
+2013;Mato Grosso;4;338
+2014;Mato Grosso;4;859
+2015;Mato Grosso;4;947
+2016;Mato Grosso;4;1.77
+2017;Mato Grosso;4;606
+1998;Mato Grosso;5;0
+1999;Mato Grosso;5;731
+2000;Mato Grosso;5;1.194
+2001;Mato Grosso;5;1.193
+2002;Mato Grosso;5;2.528
+2003;Mato Grosso;5;942
+2004;Mato Grosso;5;2.413
+2005;Mato Grosso;5;1.641
+2006;Mato Grosso;5;269
+2007;Mato Grosso;5;359
+2008;Mato Grosso;5;119
+2009;Mato Grosso;5;516
+2010;Mato Grosso;5;1.313
+2011;Mato Grosso;5;547
+2012;Mato Grosso;5;812
+2013;Mato Grosso;5;739
+2014;Mato Grosso;5;933
+2015;Mato Grosso;5;541
+2016;Mato Grosso;5;1.081
+2017;Mato Grosso;5;845
+1998;Mato Grosso;6;2.201
+1999;Mato Grosso;6;2.201
+2000;Mato Grosso;6;4.358
+2001;Mato Grosso;6;6.665
+2002;Mato Grosso;6;7.878
+2003;Mato Grosso;6;4.313
+2004;Mato Grosso;6;9.813
+2005;Mato Grosso;6;2.294
+2006;Mato Grosso;6;856
+2007;Mato Grosso;6;1.339
+2008;Mato Grosso;6;403
+2009;Mato Grosso;6;979
+2010;Mato Grosso;6;1.025
+2011;Mato Grosso;6;974
+2012;Mato Grosso;6;1.651
+2013;Mato Grosso;6;1.213
+2014;Mato Grosso;6;1.795
+2015;Mato Grosso;6;1.402
+2016;Mato Grosso;6;1.417
+2017;Mato Grosso;6;2.041
+1998;Mato Grosso;7;3.712
+1999;Mato Grosso;7;3.926
+2000;Mato Grosso;7;1.338
+2001;Mato Grosso;7;1.555
+2002;Mato Grosso;7;5.661
+2003;Mato Grosso;7;5.435
+2004;Mato Grosso;7;11.517
+2005;Mato Grosso;7;4.172
+2006;Mato Grosso;7;1.941
+2007;Mato Grosso;7;1.79
+2008;Mato Grosso;7;1.117
+2009;Mato Grosso;7;1.613
+2010;Mato Grosso;7;3.442
+2011;Mato Grosso;7;1.061
+2012;Mato Grosso;7;2.008
+2013;Mato Grosso;7;1.63
+2014;Mato Grosso;7;2.255
+2015;Mato Grosso;7;1.533
+2016;Mato Grosso;7;3.495
+2017;Mato Grosso;7;2.79
+1998;Mato Grosso;8;15.406
+1999;Mato Grosso;8;18.566
+2000;Mato Grosso;8;6.063
+2001;Mato Grosso;8;7.762
+2002;Mato Grosso;8;14.086
+2003;Mato Grosso;8;11.132
+2004;Mato Grosso;8;13.603
+2005;Mato Grosso;8;11.57
+2006;Mato Grosso;8;6.218
+2007;Mato Grosso;8;14.453
+2008;Mato Grosso;8;2.875
+2009;Mato Grosso;8;2.25
+2010;Mato Grosso;8;14.608
+2011;Mato Grosso;8;2.628
+2012;Mato Grosso;8;6.195
+2013;Mato Grosso;8;3.568
+2014;Mato Grosso;8;7.167
+2015;Mato Grosso;8;5.112
+2016;Mato Grosso;8;6.228
+2017;Mato Grosso;8;6.229
+1998;Mato Grosso;9;10.363
+1999;Mato Grosso;9;11.729
+2000;Mato Grosso;9;6.251
+2001;Mato Grosso;9;8.49
+2002;Mato Grosso;9;11.034
+2003;Mato Grosso;9;15.79
+2004;Mato Grosso;9;24.994
+2005;Mato Grosso;9;20.551
+2006;Mato Grosso;9;12.661
+2007;Mato Grosso;9;25.963
+2008;Mato Grosso;9;7.965
+2009;Mato Grosso;9;3.129
+2010;Mato Grosso;9;18.366
+2011;Mato Grosso;9;6.332
+2012;Mato Grosso;9;10.344
+2013;Mato Grosso;9;5.576
+2014;Mato Grosso;9;7.081
+2015;Mato Grosso;9;11.068
+2016;Mato Grosso;9;8.98
+2017;Mato Grosso;9;23.945
+1998;Mato Grosso;10;2.707
+1999;Mato Grosso;10;6.109
+2000;Mato Grosso;10;6.062
+2001;Mato Grosso;10;6.543
+2002;Mato Grosso;10;9.375
+2003;Mato Grosso;10;5.341
+2004;Mato Grosso;10;9.295
+2005;Mato Grosso;10;7.765
+2006;Mato Grosso;10;2.327
+2007;Mato Grosso;10;4.89
+2008;Mato Grosso;10;6.326
+2009;Mato Grosso;10;2.579
+2010;Mato Grosso;10;4.465
+2011;Mato Grosso;10;2.01
+2012;Mato Grosso;10;2.837
+2013;Mato Grosso;10;1.986
+2014;Mato Grosso;10;5.281
+2015;Mato Grosso;10;6.49
+2016;Mato Grosso;10;2.749
+2017;Mato Grosso;10;4.8
+1998;Mato Grosso;11;182
+1999;Mato Grosso;11;842
+2000;Mato Grosso;11;502
+2001;Mato Grosso;11;373
+2002;Mato Grosso;11;2.905
+2003;Mato Grosso;11;2.097
+2004;Mato Grosso;11;2.405
+2005;Mato Grosso;11;1.368
+2006;Mato Grosso;11;1.031
+2007;Mato Grosso;11;299
+2008;Mato Grosso;11;190
+2009;Mato Grosso;11;588
+2010;Mato Grosso;11;768
+2011;Mato Grosso;11;1.103
+2012;Mato Grosso;11;375
+2013;Mato Grosso;11;1.064
+2014;Mato Grosso;11;1.018
+2015;Mato Grosso;11;1.93
+2016;Mato Grosso;11;918
+2017;Mato Grosso;11;813
+1998;Mato Grosso;12;76
+1999;Mato Grosso;12;47
+2000;Mato Grosso;12;98
+2001;Mato Grosso;12;37
+2002;Mato Grosso;12;1.157
+2003;Mato Grosso;12;1.622
+2004;Mato Grosso;12;1.217
+2005;Mato Grosso;12;246
+2006;Mato Grosso;12;23
+2007;Mato Grosso;12;81
+2008;Mato Grosso;12;159
+2009;Mato Grosso;12;171
+2010;Mato Grosso;12;846
+2011;Mato Grosso;12;431
+2012;Mato Grosso;12;492
+2013;Mato Grosso;12;447
+2014;Mato Grosso;12;466
+2015;Mato Grosso;12;1.777
+2016;Mato Grosso;12;425
+1998;Mato Grosso;1;0
+1999;Mato Grosso;1;239
+2000;Mato Grosso;1;326
+2001;Mato Grosso;1;97
+2002;Mato Grosso;1;304
+2003;Mato Grosso;1;182
+2004;Mato Grosso;1;258
+2005;Mato Grosso;1;59
+2006;Mato Grosso;1;59
+2007;Mato Grosso;1;19
+2008;Mato Grosso;1;63
+2009;Mato Grosso;1;229
+2010;Mato Grosso;1;72
+2011;Mato Grosso;1;129
+2012;Mato Grosso;1;201
+2013;Mato Grosso;1;174
+2014;Mato Grosso;1;197
+2015;Mato Grosso;1;226
+2016;Mato Grosso;1;127
+2017;Mato Grosso;1;355
+1998;Mato Grosso;2;0
+1999;Mato Grosso;2;69
+2000;Mato Grosso;2;81
+2001;Mato Grosso;2;89
+2002;Mato Grosso;2;98
+2003;Mato Grosso;2;108
+2004;Mato Grosso;2;169
+2005;Mato Grosso;2;221
+2006;Mato Grosso;2;104
+2007;Mato Grosso;2;111
+2008;Mato Grosso;2;78
+2009;Mato Grosso;2;164
+2010;Mato Grosso;2;157
+2011;Mato Grosso;2;61
+2012;Mato Grosso;2;112
+2013;Mato Grosso;2;100
+2014;Mato Grosso;2;139
+2015;Mato Grosso;2;148
+2016;Mato Grosso;2;187
+2017;Mato Grosso;2;165
+1998;Mato Grosso;3;0
+1999;Mato Grosso;3;100
+2000;Mato Grosso;3;23
+2001;Mato Grosso;3;39
+2002;Mato Grosso;3;115
+2003;Mato Grosso;3;137
+2004;Mato Grosso;3;225
+2005;Mato Grosso;3;158
+2006;Mato Grosso;3;137
+2007;Mato Grosso;3;137
+2008;Mato Grosso;3;97
+2009;Mato Grosso;3;118
+2010;Mato Grosso;3;149
+2011;Mato Grosso;3;37
+2012;Mato Grosso;3;169
+2013;Mato Grosso;3;158
+2014;Mato Grosso;3;95
+2015;Mato Grosso;3;190
+2016;Mato Grosso;3;143
+2017;Mato Grosso;3;170
+1998;Mato Grosso;4;0
+1999;Mato Grosso;4;97
+2000;Mato Grosso;4;90
+2001;Mato Grosso;4;108
+2002;Mato Grosso;4;230
+2003;Mato Grosso;4;126
+2004;Mato Grosso;4;97
+2005;Mato Grosso;4;126
+2006;Mato Grosso;4;51
+2007;Mato Grosso;4;46
+2008;Mato Grosso;4;72
+2009;Mato Grosso;4;291
+2010;Mato Grosso;4;136
+2011;Mato Grosso;4;23
+2012;Mato Grosso;4;97
+2013;Mato Grosso;4;78
+2014;Mato Grosso;4;129
+2015;Mato Grosso;4;65
+2016;Mato Grosso;4;161
+2017;Mato Grosso;4;59
+1998;Mato Grosso;5;0
+1999;Mato Grosso;5;206
+2000;Mato Grosso;5;127
+2001;Mato Grosso;5;112
+2002;Mato Grosso;5;88
+2003;Mato Grosso;5;74
+2004;Mato Grosso;5;25
+2005;Mato Grosso;5;328
+2006;Mato Grosso;5;99
+2007;Mato Grosso;5;62
+2008;Mato Grosso;5;34
+2009;Mato Grosso;5;927
+2010;Mato Grosso;5;105
+2011;Mato Grosso;5;81
+2012;Mato Grosso;5;157
+2013;Mato Grosso;5;72
+2014;Mato Grosso;5;70
+2015;Mato Grosso;5;58
+2016;Mato Grosso;5;97
+2017;Mato Grosso;5;72
+1998;Mato Grosso;6;82
+1999;Mato Grosso;6;127
+2000;Mato Grosso;6;157
+2001;Mato Grosso;6;249
+2002;Mato Grosso;6;517
+2003;Mato Grosso;6;170
+2004;Mato Grosso;6;394
+2005;Mato Grosso;6;439
+2006;Mato Grosso;6;89
+2007;Mato Grosso;6;141
+2008;Mato Grosso;6;24
+2009;Mato Grosso;6;376
+2010;Mato Grosso;6;149
+2011;Mato Grosso;6;104
+2012;Mato Grosso;6;96
+2013;Mato Grosso;6;35
+2014;Mato Grosso;6;84
+2015;Mato Grosso;6;299
+2016;Mato Grosso;6;120
+2017;Mato Grosso;6;175
+1998;Mato Grosso;7;360
+1999;Mato Grosso;7;1.297
+2000;Mato Grosso;7;160
+2001;Mato Grosso;7;591
+2002;Mato Grosso;7;935
+2003;Mato Grosso;7;182
+2004;Mato Grosso;7;529
+2005;Mato Grosso;7;859
+2006;Mato Grosso;7;289
+2007;Mato Grosso;7;197
+2008;Mato Grosso;7;116
+2009;Mato Grosso;7;354
+2010;Mato Grosso;7;589
+2011;Mato Grosso;7;250
+2012;Mato Grosso;7;538
+2013;Mato Grosso;7;201
+2014;Mato Grosso;7;193
+2015;Mato Grosso;7;371
+2016;Mato Grosso;7;687
+2017;Mato Grosso;7;1.05
+1998;Mato Grosso;8;228
+1999;Mato Grosso;8;4.355
+2000;Mato Grosso;8;530
+2001;Mato Grosso;8;2.484
+2002;Mato Grosso;8;3.984
+2003;Mato Grosso;8;953
+2004;Mato Grosso;8;1.408
+2005;Mato Grosso;8;4.484
+2006;Mato Grosso;8;1.129
+2007;Mato Grosso;8;1.823
+2008;Mato Grosso;8;456
+2009;Mato Grosso;8;816
+2010;Mato Grosso;8;1.721
+2011;Mato Grosso;8;552
+2012;Mato Grosso;8;2.951
+2013;Mato Grosso;8;677
+2014;Mato Grosso;8;312
+2015;Mato Grosso;8;1.293
+2016;Mato Grosso;8;1.481
+2017;Mato Grosso;8;1.488
+1998;Mato Grosso;9;457
+1999;Mato Grosso;9;2.969
+2000;Mato Grosso;9;510
+2001;Mato Grosso;9;1.383
+2002;Mato Grosso;9;2.252
+2003;Mato Grosso;9;1.124
+2004;Mato Grosso;9;2.511
+2005;Mato Grosso;9;1.87
+2006;Mato Grosso;9;1.078
+2007;Mato Grosso;9;4.446
+2008;Mato Grosso;9;1.62
+2009;Mato Grosso;9;1.146
+2010;Mato Grosso;9;1.505
+2011;Mato Grosso;9;1.072
+2012;Mato Grosso;9;2.264
+2013;Mato Grosso;9;1.074
+2014;Mato Grosso;9;365
+2015;Mato Grosso;9;1.482
+2016;Mato Grosso;9;2.383
+2017;Mato Grosso;9;2.984
+1998;Mato Grosso;10;576
+1999;Mato Grosso;10;2.053
+2000;Mato Grosso;10;657
+2001;Mato Grosso;10;563
+2002;Mato Grosso;10;2.173
+2003;Mato Grosso;10;541
+2004;Mato Grosso;10;960
+2005;Mato Grosso;10;647
+2006;Mato Grosso;10;244
+2007;Mato Grosso;10;668
+2008;Mato Grosso;10;432
+2009;Mato Grosso;10;854
+2010;Mato Grosso;10;597
+2011;Mato Grosso;10;276
+2012;Mato Grosso;10;652
+2013;Mato Grosso;10;378
+2014;Mato Grosso;10;581
+2015;Mato Grosso;10;507
+2016;Mato Grosso;10;1.2
+2017;Mato Grosso;10;685
+1998;Mato Grosso;11;306
+1999;Mato Grosso;11;1.194
+2000;Mato Grosso;11;274
+2001;Mato Grosso;11;220
+2002;Mato Grosso;11;1.47
+2003;Mato Grosso;11;380
+2004;Mato Grosso;11;208
+2005;Mato Grosso;11;159
+2006;Mato Grosso;11;83
+2007;Mato Grosso;11;82
+2008;Mato Grosso;11;50
+2009;Mato Grosso;11;439
+2010;Mato Grosso;11;259
+2011;Mato Grosso;11;445
+2012;Mato Grosso;11;115
+2013;Mato Grosso;11;423
+2014;Mato Grosso;11;190
+2015;Mato Grosso;11;276
+2016;Mato Grosso;11;258
+2017;Mato Grosso;11;133
+1998;Mato Grosso;12;100
+1999;Mato Grosso;12;306
+2000;Mato Grosso;12;139
+2001;Mato Grosso;12;143
+2002;Mato Grosso;12;376
+2003;Mato Grosso;12;153
+2004;Mato Grosso;12;110
+2005;Mato Grosso;12;46
+2006;Mato Grosso;12;18
+2007;Mato Grosso;12;15
+2008;Mato Grosso;12;208
+2009;Mato Grosso;12;87
+2010;Mato Grosso;12;276
+2011;Mato Grosso;12;577
+2012;Mato Grosso;12;194
+2013;Mato Grosso;12;195
+2014;Mato Grosso;12;84
+2015;Mato Grosso;12;394
+2016;Mato Grosso;12;123
+1998;Minas Gerais;1;0
+1999;Minas Gerais;1;36
+2000;Minas Gerais;1;24
+2001;Minas Gerais;1;18
+2002;Minas Gerais;1;29
+2003;Minas Gerais;1;37
+2004;Minas Gerais;1;22
+2005;Minas Gerais;1;28
+2006;Minas Gerais;1;109
+2007;Minas Gerais;1;91
+2008;Minas Gerais;1;85
+2009;Minas Gerais;1;74
+2010;Minas Gerais;1;118
+2011;Minas Gerais;1;61
+2012;Minas Gerais;1;75
+2013;Minas Gerais;1;75
+2014;Minas Gerais;1;133
+2015;Minas Gerais;1;147
+2016;Minas Gerais;1;61
+2017;Minas Gerais;1;106
+1998;Minas Gerais;2;0
+1999;Minas Gerais;2;112
+2000;Minas Gerais;2;20
+2001;Minas Gerais;2;39
+2002;Minas Gerais;2;62
+2003;Minas Gerais;2;126
+2004;Minas Gerais;2;29
+2005;Minas Gerais;2;79
+2006;Minas Gerais;2;96
+2007;Minas Gerais;2;71
+2008;Minas Gerais;2;59
+2009;Minas Gerais;2;74
+2010;Minas Gerais;2;155
+2011;Minas Gerais;2;111
+2012;Minas Gerais;2;123
+2013;Minas Gerais;2;143
+2014;Minas Gerais;2;157
+2015;Minas Gerais;2;84
+2016;Minas Gerais;2;207
+2017;Minas Gerais;2;61
+1998;Minas Gerais;3;0
+1999;Minas Gerais;3;13
+2000;Minas Gerais;3;24
+2001;Minas Gerais;3;13
+2002;Minas Gerais;3;62
+2003;Minas Gerais;3;81
+2004;Minas Gerais;3;81
+2005;Minas Gerais;3;107
+2006;Minas Gerais;3;69
+2007;Minas Gerais;3;155
+2008;Minas Gerais;3;61
+2009;Minas Gerais;3;106
+2010;Minas Gerais;3;109
+2011;Minas Gerais;3;67
+2012;Minas Gerais;3;152
+2013;Minas Gerais;3;110
+2014;Minas Gerais;3;77
+2015;Minas Gerais;3;80
+2016;Minas Gerais;3;123
+2017;Minas Gerais;3;105
+1998;Minas Gerais;4;0
+1999;Minas Gerais;4;27
+2000;Minas Gerais;4;49
+2001;Minas Gerais;4;60
+2002;Minas Gerais;4;99
+2003;Minas Gerais;4;215
+2004;Minas Gerais;4;48
+2005;Minas Gerais;4;89
+2006;Minas Gerais;4;50
+2007;Minas Gerais;4;35
+2008;Minas Gerais;4;113
+2009;Minas Gerais;4;26
+2010;Minas Gerais;4;112
+2011;Minas Gerais;4;66
+2012;Minas Gerais;4;180
+2013;Minas Gerais;4;61
+2014;Minas Gerais;4;161
+2015;Minas Gerais;4;109
+2016;Minas Gerais;4;172
+2017;Minas Gerais;4;69
+1998;Minas Gerais;5;0
+1999;Minas Gerais;5;51
+2000;Minas Gerais;5;67
+2001;Minas Gerais;5;83
+2002;Minas Gerais;5;98
+2003;Minas Gerais;5;75
+2004;Minas Gerais;5;79
+2005;Minas Gerais;5;134
+2006;Minas Gerais;5;62
+2007;Minas Gerais;5;124
+2008;Minas Gerais;5;50
+2009;Minas Gerais;5;128
+2010;Minas Gerais;5;179
+2011;Minas Gerais;5;151
+2012;Minas Gerais;5;144
+2013;Minas Gerais;5;150
+2014;Minas Gerais;5;224
+2015;Minas Gerais;5;114
+2016;Minas Gerais;5;186
+2017;Minas Gerais;5;125
+1998;Minas Gerais;6;70
+1999;Minas Gerais;6;132
+2000;Minas Gerais;6;135
+2001;Minas Gerais;6;166
+2002;Minas Gerais;6;207
+2003;Minas Gerais;6;245
+2004;Minas Gerais;6;209
+2005;Minas Gerais;6;246
+2006;Minas Gerais;6;73
+2007;Minas Gerais;6;184
+2008;Minas Gerais;6;48
+2009;Minas Gerais;6;173
+2010;Minas Gerais;6;139
+2011;Minas Gerais;6;304
+2012;Minas Gerais;6;219
+2013;Minas Gerais;6;144
+2014;Minas Gerais;6;376
+2015;Minas Gerais;6;200
+2016;Minas Gerais;6;263
+2017;Minas Gerais;6;360
+1998;Minas Gerais;7;232
+1999;Minas Gerais;7;318
+2000;Minas Gerais;7;345
+2001;Minas Gerais;7;266
+2002;Minas Gerais;7;741
+2003;Minas Gerais;7;407
+2004;Minas Gerais;7;625
+2005;Minas Gerais;7;467
+2006;Minas Gerais;7;336
+2007;Minas Gerais;7;446
+2008;Minas Gerais;7;194
+2009;Minas Gerais;7;477
+2010;Minas Gerais;7;707
+2011;Minas Gerais;7;801
+2012;Minas Gerais;7;669
+2013;Minas Gerais;7;462
+2014;Minas Gerais;7;559
+2015;Minas Gerais;7;288
+2016;Minas Gerais;7;1.004
+2017;Minas Gerais;7;610
+1998;Minas Gerais;8;875
+1999;Minas Gerais;8;1.19
+2000;Minas Gerais;8;769
+2001;Minas Gerais;8;858
+2002;Minas Gerais;8;2.041
+2003;Minas Gerais;8;1.955
+2004;Minas Gerais;8;1.642
+2005;Minas Gerais;8;1.029
+2006;Minas Gerais;8;959
+2007;Minas Gerais;8;2.975
+2008;Minas Gerais;8;605
+2009;Minas Gerais;8;685
+2010;Minas Gerais;8;3.353
+2011;Minas Gerais;8;2.742
+2012;Minas Gerais;8;901
+2013;Minas Gerais;8;911
+2014;Minas Gerais;8;1.952
+2015;Minas Gerais;8;1.059
+2016;Minas Gerais;8;1.433
+2017;Minas Gerais;8;2.142
+1998;Minas Gerais;9;1.981
+1999;Minas Gerais;9;2.686
+2000;Minas Gerais;9;1.08
+2001;Minas Gerais;9;1.597
+2002;Minas Gerais;9;3.1
+2003;Minas Gerais;9;7.091
+2004;Minas Gerais;9;4.339
+2005;Minas Gerais;9;2.047
+2006;Minas Gerais;9;2.78
+2007;Minas Gerais;9;5.088
+2008;Minas Gerais;9;2.552
+2009;Minas Gerais;9;1.31
+2010;Minas Gerais;9;5.059
+2011;Minas Gerais;9;5.978
+2012;Minas Gerais;9;3.219
+2013;Minas Gerais;9;1.656
+2014;Minas Gerais;9;3.454
+2015;Minas Gerais;9;3.088
+2016;Minas Gerais;9;2.093
+2017;Minas Gerais;9;4.697
+1998;Minas Gerais;10;1.093
+1999;Minas Gerais;10;1.363
+2000;Minas Gerais;10;1.954
+2001;Minas Gerais;10;528
+2002;Minas Gerais;10;4.788
+2003;Minas Gerais;10;5.391
+2004;Minas Gerais;10;2.736
+2005;Minas Gerais;10;6.546
+2006;Minas Gerais;10;616
+2007;Minas Gerais;10;3.467
+2008;Minas Gerais;10;3.787
+2009;Minas Gerais;10;1.013
+2010;Minas Gerais;10;2.048
+2011;Minas Gerais;10;1.206
+2012;Minas Gerais;10;3.97
+2013;Minas Gerais;10;1.221
+2014;Minas Gerais;10;4.735
+2015;Minas Gerais;10;3.708
+2016;Minas Gerais;10;948
+2017;Minas Gerais;10;3.062
+1998;Minas Gerais;11;32
+1999;Minas Gerais;11;271
+2000;Minas Gerais;11;43
+2001;Minas Gerais;11;62
+2002;Minas Gerais;11;417
+2003;Minas Gerais;11;399
+2004;Minas Gerais;11;914
+2005;Minas Gerais;11;422
+2006;Minas Gerais;11;59
+2007;Minas Gerais;11;1.305
+2008;Minas Gerais;11;892
+2009;Minas Gerais;11;246
+2010;Minas Gerais;11;82
+2011;Minas Gerais;11;153
+2012;Minas Gerais;11;220
+2013;Minas Gerais;11;277
+2014;Minas Gerais;11;398
+2015;Minas Gerais;11;1.453
+2016;Minas Gerais;11;126
+2017;Minas Gerais;11;136
+1998;Minas Gerais;12;21
+1999;Minas Gerais;12;32
+2000;Minas Gerais;12;14
+2001;Minas Gerais;12;44
+2002;Minas Gerais;12;225
+2003;Minas Gerais;12;225
+2004;Minas Gerais;12;125
+2005;Minas Gerais;12;65
+2006;Minas Gerais;12;32
+2007;Minas Gerais;12;95
+2008;Minas Gerais;12;25
+2009;Minas Gerais;12;108
+2010;Minas Gerais;12;105
+2011;Minas Gerais;12;43
+2012;Minas Gerais;12;189
+2013;Minas Gerais;12;98
+2014;Minas Gerais;12;155
+2015;Minas Gerais;12;295
+2016;Minas Gerais;12;91
+1998;Para;1;0
+1999;Para;1;87
+2000;Para;1;30
+2001;Para;1;34
+2002;Para;1;144
+2003;Para;1;900
+2004;Para;1;579
+2005;Para;1;1.768
+2006;Para;1;403
+2007;Para;1;467
+2008;Para;1;131
+2009;Para;1;241
+2010;Para;1;437
+2011;Para;1;108
+2012;Para;1;392
+2013;Para;1;167
+2014;Para;1;251
+2015;Para;1;725
+2016;Para;1;1.322
+2017;Para;1;219
+1998;Para;2;0
+1999;Para;2;285
+2000;Para;2;29
+2001;Para;2;16
+2002;Para;2;120
+2003;Para;2;34
+2004;Para;2;20
+2005;Para;2;85
+2006;Para;2;49
+2007;Para;2;23
+2008;Para;2;54
+2009;Para;2;15
+2010;Para;2;102
+2011;Para;2;13
+2012;Para;2;63
+2013;Para;2;30
+2014;Para;2;37
+2015;Para;2;108
+2016;Para;2;430
+2017;Para;2;14
+1998;Para;3;0
+1999;Para;3;7
+2000;Para;3;181
+2001;Para;3;0
+2002;Para;3;14
+2003;Para;3;27
+2004;Para;3;22
+2005;Para;3;21
+2006;Para;3;10
+2007;Para;3;6
+2008;Para;3;4
+2009;Para;3;4
+2010;Para;3;110
+2011;Para;3;21
+2012;Para;3;30
+2013;Para;3;19
+2014;Para;3;34
+2015;Para;3;61
+2016;Para;3;81
+2017;Para;3;42
+1998;Para;4;0
+1999;Para;4;6
+2000;Para;4;40
+2001;Para;4;0
+2002;Para;4;11
+2003;Para;4;14
+2004;Para;4;23
+2005;Para;4;14
+2006;Para;4;2
+2007;Para;4;0
+2008;Para;4;7
+2009;Para;4;8
+2010;Para;4;22
+2011;Para;4;10
+2012;Para;4;11
+2013;Para;4;20
+2014;Para;4;27
+2015;Para;4;27
+2016;Para;4;66
+2017;Para;4;45
+1998;Para;5;0
+1999;Para;5;4
+2000;Para;5;12
+2001;Para;5;7
+2002;Para;5;18
+2003;Para;5;3
+2004;Para;5;44
+2005;Para;5;37
+2006;Para;5;0
+2007;Para;5;9
+2008;Para;5;0
+2009;Para;5;7
+2010;Para;5;57
+2011;Para;5;16
+2012;Para;5;59
+2013;Para;5;42
+2014;Para;5;70
+2015;Para;5;95
+2016;Para;5;154
+2017;Para;5;114
+1998;Para;6;58
+1999;Para;6;37
+2000;Para;6;59
+2001;Para;6;42
+2002;Para;6;149
+2003;Para;6;64
+2004;Para;6;340
+2005;Para;6;304
+2006;Para;6;78
+2007;Para;6;129
+2008;Para;6;48
+2009;Para;6;38
+2010;Para;6;94
+2011;Para;6;105
+2012;Para;6;183
+2013;Para;6;173
+2014;Para;6;319
+2015;Para;6;265
+2016;Para;6;502
+2017;Para;6;679
+1998;Para;7;638
+1999;Para;7;982
+2000;Para;7;426
+2001;Para;7;708
+2002;Para;7;772
+2003;Para;7;1.571
+2004;Para;7;4.436
+2005;Para;7;4.364
+2006;Para;7;615
+2007;Para;7;476
+2008;Para;7;971
+2009;Para;7;397
+2010;Para;7;1.432
+2011;Para;7;632
+2012;Para;7;661
+2013;Para;7;447
+2014;Para;7;825
+2015;Para;7;906
+2016;Para;7;1.579
+2017;Para;7;4.985
+1998;Para;8;6.815
+1999;Para;8;6.178
+2000;Para;8;5.484
+2001;Para;8;9.043
+2002;Para;8;15.664
+2003;Para;8;6.255
+2004;Para;8;12.812
+2005;Para;8;13.055
+2006;Para;8;7.575
+2007;Para;8;14.352
+2008;Para;8;4.435
+2009;Para;8;3.859
+2010;Para;8;18.13
+2011;Para;8;2.195
+2012;Para;8;6.964
+2013;Para;8;2.161
+2014;Para;8;8.555
+2015;Para;8;7.913
+2016;Para;8;4.863
+2017;Para;8;11.962
+1998;Para;9;6.237
+1999;Para;9;4.419
+2000;Para;9;2.569
+2001;Para;9;6.139
+2002;Para;9;5.609
+2003;Para;9;8.447
+2004;Para;9;9.471
+2005;Para;9;9.032
+2006;Para;9;8.372
+2007;Para;9;14.59
+2008;Para;9;6.294
+2009;Para;9;6.051
+2010;Para;9;10.81
+2011;Para;9;5.185
+2012;Para;9;6.87
+2013;Para;9;3.36
+2014;Para;9;6.787
+2015;Para;9;11.068
+2016;Para;9;3.953
+2017;Para;9;25.004
+1998;Para;10;3.665
+1999;Para;10;5.026
+2000;Para;10;4.313
+2001;Para;10;5.096
+2002;Para;10;5.189
+2003;Para;10;3.803
+2004;Para;10;4.726
+2005;Para;10;5.083
+2006;Para;10;5.964
+2007;Para;10;2.504
+2008;Para;10;6.653
+2009;Para;10;6.342
+2010;Para;10;3.843
+2011;Para;10;3.141
+2012;Para;10;3.714
+2013;Para;10;4.921
+2014;Para;10;6.448
+2015;Para;10;7.781
+2016;Para;10;5.281
+2017;Para;10;7.628
+1998;Para;11;1.861
+1999;Para;11;2.682
+2000;Para;11;3.366
+2001;Para;11;4.938
+2002;Para;11;7.996
+2003;Para;11;6.195
+2004;Para;11;9.842
+2005;Para;11;4.968
+2006;Para;11;2.883
+2007;Para;11;2.89
+2008;Para;11;2.403
+2009;Para;11;10.012
+2010;Para;11;4.417
+2011;Para;11;3.043
+2012;Para;11;6.156
+2013;Para;11;3.688
+2014;Para;11;7.767
+2015;Para;11;9.643
+2016;Para;11;7.879
+2017;Para;11;9.079
+1998;Para;12;1.008
+1999;Para;12;766
+2000;Para;12;1.698
+2001;Para;12;2.564
+2002;Para;12;3.118
+2003;Para;12;4.787
+2004;Para;12;5.508
+2005;Para;12;1.495
+2006;Para;12;1.417
+2007;Para;12;689
+2008;Para;12;684
+2009;Para;12;2.832
+2010;Para;12;1.612
+2011;Para;12;3.218
+2012;Para;12;1.812
+2013;Para;12;5.514
+2014;Para;12;4.828
+2015;Para;12;6.61
+2016;Para;12;3.3
+1998;Paraiba;1;0
+1999;Paraiba;1;26
+2000;Paraiba;1;0
+2001;Paraiba;1;11
+2002;Paraiba;1;5
+2003;Paraiba;1;70
+2004;Paraiba;1;33
+2005;Paraiba;1;178
+2006;Paraiba;1;83
+2007;Paraiba;1;69
+2008;Paraiba;1;77
+2009;Paraiba;1;115
+2010;Paraiba;1;46
+2011;Paraiba;1;11
+2012;Paraiba;1;61
+2013;Paraiba;1;38
+2014;Paraiba;1;75
+2015;Paraiba;1;42
+2016;Paraiba;1;18
+2017;Paraiba;1;23
+1998;Paraiba;2;0
+1999;Paraiba;2;2
+2000;Paraiba;2;11
+2001;Paraiba;2;6
+2002;Paraiba;2;18
+2003;Paraiba;2;3
+2004;Paraiba;2;3
+2005;Paraiba;2;15
+2006;Paraiba;2;7
+2007;Paraiba;2;7
+2008;Paraiba;2;20
+2009;Paraiba;2;9
+2010;Paraiba;2;15
+2011;Paraiba;2;5
+2012;Paraiba;2;15
+2013;Paraiba;2;9
+2014;Paraiba;2;6
+2015;Paraiba;2;15
+2016;Paraiba;2;4
+2017;Paraiba;2;8
+1998;Paraiba;3;0
+1999;Paraiba;3;1
+2000;Paraiba;3;5
+2001;Paraiba;3;0
+2002;Paraiba;3;3
+2003;Paraiba;3;0
+2004;Paraiba;3;3
+2005;Paraiba;3;13
+2006;Paraiba;3;4
+2007;Paraiba;3;1
+2008;Paraiba;3;8
+2009;Paraiba;3;2
+2010;Paraiba;3;16
+2011;Paraiba;3;6
+2012;Paraiba;3;4
+2013;Paraiba;3;3
+2014;Paraiba;3;18
+2015;Paraiba;3;7
+2016;Paraiba;3;1
+2017;Paraiba;3;2
+1998;Paraiba;4;0
+1999;Paraiba;4;3
+2000;Paraiba;4;1
+2001;Paraiba;4;0
+2002;Paraiba;4;1
+2003;Paraiba;4;0
+2004;Paraiba;4;3
+2005;Paraiba;4;2
+2006;Paraiba;4;0
+2007;Paraiba;4;0
+2008;Paraiba;4;0
+2009;Paraiba;4;1
+2010;Paraiba;4;2
+2011;Paraiba;4;2
+2012;Paraiba;4;13
+2013;Paraiba;4;6
+2014;Paraiba;4;8
+2015;Paraiba;4;11
+2016;Paraiba;4;1
+2017;Paraiba;4;1
+1998;Paraiba;5;0
+1999;Paraiba;5;0
+2000;Paraiba;5;0
+2001;Paraiba;5;4
+2002;Paraiba;5;1
+2003;Paraiba;5;0
+2004;Paraiba;5;1
+2005;Paraiba;5;0
+2006;Paraiba;5;0
+2007;Paraiba;5;0
+2008;Paraiba;5;0
+2009;Paraiba;5;0
+2010;Paraiba;5;10
+2011;Paraiba;5;0
+2012;Paraiba;5;10
+2013;Paraiba;5;3
+2014;Paraiba;5;1
+2015;Paraiba;5;6
+2016;Paraiba;5;1
+2017;Paraiba;5;1
+1998;Paraiba;6;3
+1999;Paraiba;6;1
+2000;Paraiba;6;2
+2001;Paraiba;6;0
+2002;Paraiba;6;1
+2003;Paraiba;6;0
+2004;Paraiba;6;0
+2005;Paraiba;6;0
+2006;Paraiba;6;0
+2007;Paraiba;6;0
+2008;Paraiba;6;0
+2009;Paraiba;6;0
+2010;Paraiba;6;3
+2011;Paraiba;6;2
+2012;Paraiba;6;5
+2013;Paraiba;6;3
+2014;Paraiba;6;1
+2015;Paraiba;6;0
+2016;Paraiba;6;4
+2017;Paraiba;6;0
+1998;Paraiba;7;0
+1999;Paraiba;7;1
+2000;Paraiba;7;0
+2001;Paraiba;7;8
+2002;Paraiba;7;8
+2003;Paraiba;7;6
+2004;Paraiba;7;1
+2005;Paraiba;7;0
+2006;Paraiba;7;1
+2007;Paraiba;7;1
+2008;Paraiba;7;0
+2009;Paraiba;7;3
+2010;Paraiba;7;7
+2011;Paraiba;7;6
+2012;Paraiba;7;5
+2013;Paraiba;7;1
+2014;Paraiba;7;9
+2015;Paraiba;7;3
+2016;Paraiba;7;22
+2017;Paraiba;7;2
+1998;Paraiba;8;3
+1999;Paraiba;8;4
+2000;Paraiba;8;7
+2001;Paraiba;8;34
+2002;Paraiba;8;38
+2003;Paraiba;8;14
+2004;Paraiba;8;18
+2005;Paraiba;8;0
+2006;Paraiba;8;3
+2007;Paraiba;8;8
+2008;Paraiba;8;1
+2009;Paraiba;8;4
+2010;Paraiba;8;9
+2011;Paraiba;8;12
+2012;Paraiba;8;13
+2013;Paraiba;8;3
+2014;Paraiba;8;30
+2015;Paraiba;8;5
+2016;Paraiba;8;50
+2017;Paraiba;8;3
+1998;Paraiba;9;50
+1999;Paraiba;9;14
+2000;Paraiba;9;9
+2001;Paraiba;9;98
+2002;Paraiba;9;63
+2003;Paraiba;9;81
+2004;Paraiba;9;34
+2005;Paraiba;9;13
+2006;Paraiba;9;27
+2007;Paraiba;9;22
+2008;Paraiba;9;21
+2009;Paraiba;9;28
+2010;Paraiba;9;37
+2011;Paraiba;9;55
+2012;Paraiba;9;71
+2013;Paraiba;9;25
+2014;Paraiba;9;51
+2015;Paraiba;9;48
+2016;Paraiba;9;131
+2017;Paraiba;9;30
+1998;Paraiba;10;179
+1999;Paraiba;10;48
+2000;Paraiba;10;125
+2001;Paraiba;10;279
+2002;Paraiba;10;193
+2003;Paraiba;10;381
+2004;Paraiba;10;190
+2005;Paraiba;10;155
+2006;Paraiba;10;135
+2007;Paraiba;10;111
+2008;Paraiba;10;80
+2009;Paraiba;10;117
+2010;Paraiba;10;150
+2011;Paraiba;10;200
+2012;Paraiba;10;136
+2013;Paraiba;10;58
+2014;Paraiba;10;70
+2015;Paraiba;10;121
+2016;Paraiba;10;304
+2017;Paraiba;10;123
+1998;Paraiba;11;46
+1999;Paraiba;11;38
+2000;Paraiba;11;65
+2001;Paraiba;11;294
+2002;Paraiba;11;238
+2003;Paraiba;11;538
+2004;Paraiba;11;331
+2005;Paraiba;11;280
+2006;Paraiba;11;215
+2007;Paraiba;11;256
+2008;Paraiba;11;175
+2009;Paraiba;11;428
+2010;Paraiba;11;451
+2011;Paraiba;11;359
+2012;Paraiba;11;130
+2013;Paraiba;11;95
+2014;Paraiba;11;111
+2015;Paraiba;11;206
+2016;Paraiba;11;132
+2017;Paraiba;11;101
+1998;Paraiba;12;51
+1999;Paraiba;12;40
+2000;Paraiba;12;34
+2001;Paraiba;12;70
+2002;Paraiba;12;163
+2003;Paraiba;12;288
+2004;Paraiba;12;351
+2005;Paraiba;12;159
+2006;Paraiba;12;196
+2007;Paraiba;12;133
+2008;Paraiba;12;187
+2009;Paraiba;12;270
+2010;Paraiba;12;65
+2011;Paraiba;12;179
+2012;Paraiba;12;62
+2013;Paraiba;12;78
+2014;Paraiba;12;62
+2015;Paraiba;12;122
+2016;Paraiba;12;8
+1998;Paraiba;1;0
+1999;Paraiba;1;7
+2000;Paraiba;1;49
+2001;Paraiba;1;32
+2002;Paraiba;1;47
+2003;Paraiba;1;109
+2004;Paraiba;1;88
+2005;Paraiba;1;55
+2006;Paraiba;1;78
+2007;Paraiba;1;11
+2008;Paraiba;1;35
+2009;Paraiba;1;35
+2010;Paraiba;1;18
+2011;Paraiba;1;35
+2012;Paraiba;1;31
+2013;Paraiba;1;28
+2014;Paraiba;1;86
+2015;Paraiba;1;120
+2016;Paraiba;1;113
+2017;Paraiba;1;55
+1998;Paraiba;2;0
+1999;Paraiba;2;22
+2000;Paraiba;2;67
+2001;Paraiba;2;8
+2002;Paraiba;2;24
+2003;Paraiba;2;46
+2004;Paraiba;2;42
+2005;Paraiba;2;77
+2006;Paraiba;2;60
+2007;Paraiba;2;32
+2008;Paraiba;2;38
+2009;Paraiba;2;21
+2010;Paraiba;2;46
+2011;Paraiba;2;8
+2012;Paraiba;2;40
+2013;Paraiba;2;9
+2014;Paraiba;2;52
+2015;Paraiba;2;58
+2016;Paraiba;2;31
+2017;Paraiba;2;60
+1998;Paraiba;3;0
+1999;Paraiba;3;40
+2000;Paraiba;3;52
+2001;Paraiba;3;12
+2002;Paraiba;3;18
+2003;Paraiba;3;76
+2004;Paraiba;3;83
+2005;Paraiba;3;84
+2006;Paraiba;3;56
+2007;Paraiba;3;54
+2008;Paraiba;3;43
+2009;Paraiba;3;57
+2010;Paraiba;3;22
+2011;Paraiba;3;21
+2012;Paraiba;3;55
+2013;Paraiba;3;18
+2014;Paraiba;3;42
+2015;Paraiba;3;55
+2016;Paraiba;3;63
+2017;Paraiba;3;43
+1998;Paraiba;4;0
+1999;Paraiba;4;39
+2000;Paraiba;4;51
+2001;Paraiba;4;43
+2002;Paraiba;4;84
+2003;Paraiba;4;130
+2004;Paraiba;4;68
+2005;Paraiba;4;22
+2006;Paraiba;4;49
+2007;Paraiba;4;14
+2008;Paraiba;4;62
+2009;Paraiba;4;80
+2010;Paraiba;4;71
+2011;Paraiba;4;38
+2012;Paraiba;4;38
+2013;Paraiba;4;72
+2014;Paraiba;4;38
+2015;Paraiba;4;83
+2016;Paraiba;4;167
+2017;Paraiba;4;77
+1998;Paraiba;5;0
+1999;Paraiba;5;57
+2000;Paraiba;5;43
+2001;Paraiba;5;26
+2002;Paraiba;5;65
+2003;Paraiba;5;115
+2004;Paraiba;5;9
+2005;Paraiba;5;125
+2006;Paraiba;5;90
+2007;Paraiba;5;14
+2008;Paraiba;5;41
+2009;Paraiba;5;117
+2010;Paraiba;5;39
+2011;Paraiba;5;97
+2012;Paraiba;5;86
+2013;Paraiba;5;85
+2014;Paraiba;5;109
+2015;Paraiba;5;77
+2016;Paraiba;5;72
+2017;Paraiba;5;49
+1998;Paraiba;6;36
+1999;Paraiba;6;31
+2000;Paraiba;6;53
+2001;Paraiba;6;43
+2002;Paraiba;6;115
+2003;Paraiba;6;159
+2004;Paraiba;6;147
+2005;Paraiba;6;114
+2006;Paraiba;6;62
+2007;Paraiba;6;57
+2008;Paraiba;6;17
+2009;Paraiba;6;105
+2010;Paraiba;6;55
+2011;Paraiba;6;162
+2012;Paraiba;6;77
+2013;Paraiba;6;52
+2014;Paraiba;6;112
+2015;Paraiba;6;201
+2016;Paraiba;6;238
+2017;Paraiba;6;169
+1998;Paraiba;7;59
+1999;Paraiba;7;94
+2000;Paraiba;7;98
+2001;Paraiba;7;122
+2002;Paraiba;7;172
+2003;Paraiba;7;101
+2004;Paraiba;7;148
+2005;Paraiba;7;155
+2006;Paraiba;7;139
+2007;Paraiba;7;60
+2008;Paraiba;7;87
+2009;Paraiba;7;34
+2010;Paraiba;7;196
+2011;Paraiba;7;262
+2012;Paraiba;7;111
+2013;Paraiba;7;168
+2014;Paraiba;7;215
+2015;Paraiba;7;137
+2016;Paraiba;7;504
+2017;Paraiba;7;891
+1998;Paraiba;8;42
+1999;Paraiba;8;938
+2000;Paraiba;8;849
+2001;Paraiba;8;342
+2002;Paraiba;8;1.593
+2003;Paraiba;8;1.896
+2004;Paraiba;8;1.237
+2005;Paraiba;8;800
+2006;Paraiba;8;844
+2007;Paraiba;8;580
+2008;Paraiba;8;205
+2009;Paraiba;8;844
+2010;Paraiba;8;733
+2011;Paraiba;8;435
+2012;Paraiba;8;522
+2013;Paraiba;8;481
+2014;Paraiba;8;646
+2015;Paraiba;8;651
+2016;Paraiba;8;1.01
+2017;Paraiba;8;987
+1998;Paraiba;9;61
+1999;Paraiba;9;878
+2000;Paraiba;9;381
+2001;Paraiba;9;258
+2002;Paraiba;9;1.071
+2003;Paraiba;9;2.446
+2004;Paraiba;9;1.36
+2005;Paraiba;9;386
+2006;Paraiba;9;866
+2007;Paraiba;9;960
+2008;Paraiba;9;413
+2009;Paraiba;9;149
+2010;Paraiba;9;270
+2011;Paraiba;9;913
+2012;Paraiba;9;459
+2013;Paraiba;9;476
+2014;Paraiba;9;443
+2015;Paraiba;9;599
+2016;Paraiba;9;1.371
+2017;Paraiba;9;1.706
+1998;Paraiba;10;61
+1999;Paraiba;10;452
+2000;Paraiba;10;658
+2001;Paraiba;10;209
+2002;Paraiba;10;399
+2003;Paraiba;10;1.228
+2004;Paraiba;10;666
+2005;Paraiba;10;157
+2006;Paraiba;10;327
+2007;Paraiba;10;194
+2008;Paraiba;10;78
+2009;Paraiba;10;424
+2010;Paraiba;10;230
+2011;Paraiba;10;256
+2012;Paraiba;10;145
+2013;Paraiba;10;233
+2014;Paraiba;10;411
+2015;Paraiba;10;158
+2016;Paraiba;10;193
+2017;Paraiba;10;134
+1998;Paraiba;11;143
+1999;Paraiba;11;447
+2000;Paraiba;11;85
+2001;Paraiba;11;89
+2002;Paraiba;11;425
+2003;Paraiba;11;503
+2004;Paraiba;11;388
+2005;Paraiba;11;597
+2006;Paraiba;11;60
+2007;Paraiba;11;59
+2008;Paraiba;11;39
+2009;Paraiba;11;90
+2010;Paraiba;11;183
+2011;Paraiba;11;138
+2012;Paraiba;11;142
+2013;Paraiba;11;126
+2014;Paraiba;11;68
+2015;Paraiba;11;18
+2016;Paraiba;11;275
+2017;Paraiba;11;292
+1998;Paraiba;12;82
+1999;Paraiba;12;254
+2000;Paraiba;12;159
+2001;Paraiba;12;85
+2002;Paraiba;12;165
+2003;Paraiba;12;171
+2004;Paraiba;12;151
+2005;Paraiba;12;40
+2006;Paraiba;12;6
+2007;Paraiba;12;22
+2008;Paraiba;12;62
+2009;Paraiba;12;30
+2010;Paraiba;12;37
+2011;Paraiba;12;78
+2012;Paraiba;12;54
+2013;Paraiba;12;155
+2014;Paraiba;12;78
+2015;Paraiba;12;30
+2016;Paraiba;12;45
+1998;Pernambuco;1;0
+1999;Pernambuco;1;102
+2000;Pernambuco;1;3
+2001;Pernambuco;1;7
+2002;Pernambuco;1;10
+2003;Pernambuco;1;188
+2004;Pernambuco;1;29
+2005;Pernambuco;1;221
+2006;Pernambuco;1;148
+2007;Pernambuco;1;156
+2008;Pernambuco;1;170
+2009;Pernambuco;1;256
+2010;Pernambuco;1;47
+2011;Pernambuco;1;49
+2012;Pernambuco;1;146
+2013;Pernambuco;1;55
+2014;Pernambuco;1;99
+2015;Pernambuco;1;109
+2016;Pernambuco;1;24
+2017;Pernambuco;1;52
+1998;Pernambuco;2;0
+1999;Pernambuco;2;13
+2000;Pernambuco;2;4
+2001;Pernambuco;2;2
+2002;Pernambuco;2;19
+2003;Pernambuco;2;35
+2004;Pernambuco;2;8
+2005;Pernambuco;2;33
+2006;Pernambuco;2;41
+2007;Pernambuco;2;21
+2008;Pernambuco;2;48
+2009;Pernambuco;2;28
+2010;Pernambuco;2;33
+2011;Pernambuco;2;25
+2012;Pernambuco;2;64
+2013;Pernambuco;2;29
+2014;Pernambuco;2;25
+2015;Pernambuco;2;55
+2016;Pernambuco;2;19
+2017;Pernambuco;2;23
+1998;Pernambuco;3;0
+1999;Pernambuco;3;27
+2000;Pernambuco;3;14
+2001;Pernambuco;3;0
+2002;Pernambuco;3;24
+2003;Pernambuco;3;9
+2004;Pernambuco;3;6
+2005;Pernambuco;3;45
+2006;Pernambuco;3;18
+2007;Pernambuco;3;4
+2008;Pernambuco;3;32
+2009;Pernambuco;3;15
+2010;Pernambuco;3;59
+2011;Pernambuco;3;39
+2012;Pernambuco;3;44
+2013;Pernambuco;3;40
+2014;Pernambuco;3;36
+2015;Pernambuco;3;33
+2016;Pernambuco;3;4
+2017;Pernambuco;3;7
+1998;Pernambuco;4;0
+1999;Pernambuco;4;2
+2000;Pernambuco;4;1
+2001;Pernambuco;4;2
+2002;Pernambuco;4;5
+2003;Pernambuco;4;7
+2004;Pernambuco;4;5
+2005;Pernambuco;4;1
+2006;Pernambuco;4;2
+2007;Pernambuco;4;1
+2008;Pernambuco;4;5
+2009;Pernambuco;4;3
+2010;Pernambuco;4;2
+2011;Pernambuco;4;22
+2012;Pernambuco;4;46
+2013;Pernambuco;4;11
+2014;Pernambuco;4;10
+2015;Pernambuco;4;30
+2016;Pernambuco;4;8
+2017;Pernambuco;4;9
+1998;Pernambuco;5;0
+1999;Pernambuco;5;6
+2000;Pernambuco;5;7
+2001;Pernambuco;5;5
+2002;Pernambuco;5;13
+2003;Pernambuco;5;1
+2004;Pernambuco;5;2
+2005;Pernambuco;5;1
+2006;Pernambuco;5;1
+2007;Pernambuco;5;0
+2008;Pernambuco;5;0
+2009;Pernambuco;5;0
+2010;Pernambuco;5;8
+2011;Pernambuco;5;1
+2012;Pernambuco;5;36
+2013;Pernambuco;5;9
+2014;Pernambuco;5;4
+2015;Pernambuco;5;17
+2016;Pernambuco;5;6
+2017;Pernambuco;5;13
+1998;Pernambuco;6;1
+1999;Pernambuco;6;7
+2000;Pernambuco;6;4
+2001;Pernambuco;6;2
+2002;Pernambuco;6;1
+2003;Pernambuco;6;2
+2004;Pernambuco;6;4
+2005;Pernambuco;6;3
+2006;Pernambuco;6;0
+2007;Pernambuco;6;1
+2008;Pernambuco;6;0
+2009;Pernambuco;6;1
+2010;Pernambuco;6;1
+2011;Pernambuco;6;4
+2012;Pernambuco;6;12
+2013;Pernambuco;6;12
+2014;Pernambuco;6;3
+2015;Pernambuco;6;3
+2016;Pernambuco;6;4
+2017;Pernambuco;6;5
+1998;Pernambuco;7;5
+1999;Pernambuco;7;2
+2000;Pernambuco;7;0
+2001;Pernambuco;7;6
+2002;Pernambuco;7;8
+2003;Pernambuco;7;5
+2004;Pernambuco;7;13
+2005;Pernambuco;7;1
+2006;Pernambuco;7;1
+2007;Pernambuco;7;3
+2008;Pernambuco;7;0
+2009;Pernambuco;7;1
+2010;Pernambuco;7;7
+2011;Pernambuco;7;2
+2012;Pernambuco;7;11
+2013;Pernambuco;7;4
+2014;Pernambuco;7;11
+2015;Pernambuco;7;13
+2016;Pernambuco;7;17
+2017;Pernambuco;7;2
+1998;Pernambuco;8;12
+1999;Pernambuco;8;3
+2000;Pernambuco;8;31
+2001;Pernambuco;8;27
+2002;Pernambuco;8;37
+2003;Pernambuco;8;26
+2004;Pernambuco;8;41
+2005;Pernambuco;8;10
+2006;Pernambuco;8;8
+2007;Pernambuco;8;20
+2008;Pernambuco;8;2
+2009;Pernambuco;8;10
+2010;Pernambuco;8;29
+2011;Pernambuco;8;27
+2012;Pernambuco;8;27
+2013;Pernambuco;8;14
+2014;Pernambuco;8;23
+2015;Pernambuco;8;21
+2016;Pernambuco;8;42
+2017;Pernambuco;8;20
+1998;Pernambuco;9;177
+1999;Pernambuco;9;64
+2000;Pernambuco;9;130
+2001;Pernambuco;9;298
+2002;Pernambuco;9;374
+2003;Pernambuco;9;510
+2004;Pernambuco;9;192
+2005;Pernambuco;9;154
+2006;Pernambuco;9;147
+2007;Pernambuco;9;164
+2008;Pernambuco;9;92
+2009;Pernambuco;9;164
+2010;Pernambuco;9;179
+2011;Pernambuco;9;243
+2012;Pernambuco;9;192
+2013;Pernambuco;9;143
+2014;Pernambuco;9;63
+2015;Pernambuco;9;116
+2016;Pernambuco;9;171
+2017;Pernambuco;9;69
+1998;Pernambuco;10;372
+1999;Pernambuco;10;180
+2000;Pernambuco;10;411
+2001;Pernambuco;10;461
+2002;Pernambuco;10;638
+2003;Pernambuco;10;859
+2004;Pernambuco;10;545
+2005;Pernambuco;10;408
+2006;Pernambuco;10;310
+2007;Pernambuco;10;702
+2008;Pernambuco;10;274
+2009;Pernambuco;10;254
+2010;Pernambuco;10;347
+2011;Pernambuco;10;461
+2012;Pernambuco;10;222
+2013;Pernambuco;10;161
+2014;Pernambuco;10;174
+2015;Pernambuco;10;194
+2016;Pernambuco;10;319
+2017;Pernambuco;10;256
+1998;Pernambuco;11;141
+1999;Pernambuco;11;41
+2000;Pernambuco;11;64
+2001;Pernambuco;11;208
+2002;Pernambuco;11;521
+2003;Pernambuco;11;560
+2004;Pernambuco;11;465
+2005;Pernambuco;11;452
+2006;Pernambuco;11;385
+2007;Pernambuco;11;359
+2008;Pernambuco;11;363
+2009;Pernambuco;11;486
+2010;Pernambuco;11;831
+2011;Pernambuco;11;352
+2012;Pernambuco;11;181
+2013;Pernambuco;11;110
+2014;Pernambuco;11;111
+2015;Pernambuco;11;315
+2016;Pernambuco;11;191
+2017;Pernambuco;11;66
+1998;Pernambuco;12;59
+1999;Pernambuco;12;16
+2000;Pernambuco;12;22
+2001;Pernambuco;12;62
+2002;Pernambuco;12;259
+2003;Pernambuco;12;229
+2004;Pernambuco;12;373
+2005;Pernambuco;12;191
+2006;Pernambuco;12;207
+2007;Pernambuco;12;200
+2008;Pernambuco;12;203
+2009;Pernambuco;12;351
+2010;Pernambuco;12;117
+2011;Pernambuco;12;364
+2012;Pernambuco;12;108
+2013;Pernambuco;12;141
+2014;Pernambuco;12;101
+2015;Pernambuco;12;176
+2016;Pernambuco;12;161
+1998;Piau;1;0
+1999;Piau;1;21
+2000;Piau;1;5
+2001;Piau;1;29
+2002;Piau;1;33
+2003;Piau;1;86
+2004;Piau;1;42
+2005;Piau;1;94
+2006;Piau;1;133
+2007;Piau;1;123
+2008;Piau;1;61
+2009;Piau;1;79
+2010;Piau;1;99
+2011;Piau;1;39
+2012;Piau;1;80
+2013;Piau;1;72
+2014;Piau;1;79
+2015;Piau;1;92
+2016;Piau;1;94
+2017;Piau;1;85
+1998;Piau;2;0
+1999;Piau;2;22
+2000;Piau;2;12
+2001;Piau;2;0
+2002;Piau;2;160
+2003;Piau;2;3
+2004;Piau;2;20
+2005;Piau;2;26
+2006;Piau;2;23
+2007;Piau;2;11
+2008;Piau;2;21
+2009;Piau;2;19
+2010;Piau;2;54
+2011;Piau;2;11
+2012;Piau;2;31
+2013;Piau;2;68
+2014;Piau;2;14
+2015;Piau;2;38
+2016;Piau;2;97
+2017;Piau;2;24
+1998;Piau;3;0
+1999;Piau;3;4
+2000;Piau;3;14
+2001;Piau;3;2
+2002;Piau;3;63
+2003;Piau;3;15
+2004;Piau;3;27
+2005;Piau;3;13
+2006;Piau;3;18
+2007;Piau;3;31
+2008;Piau;3;4
+2009;Piau;3;17
+2010;Piau;3;47
+2011;Piau;3;15
+2012;Piau;3;71
+2013;Piau;3;14
+2014;Piau;3;88
+2015;Piau;3;35
+2016;Piau;3;53
+2017;Piau;3;25
+1998;Piau;4;0
+1999;Piau;4;10
+2000;Piau;4;15
+2001;Piau;4;1
+2002;Piau;4;87
+2003;Piau;4;22
+2004;Piau;4;10
+2005;Piau;4;3
+2006;Piau;4;1
+2007;Piau;4;9
+2008;Piau;4;7
+2009;Piau;4;8
+2010;Piau;4;56
+2011;Piau;4;16
+2012;Piau;4;119
+2013;Piau;4;34
+2014;Piau;4;63
+2015;Piau;4;50
+2016;Piau;4;35
+2017;Piau;4;25
+1998;Piau;5;0
+1999;Piau;5;8
+2000;Piau;5;25
+2001;Piau;5;36
+2002;Piau;5;84
+2003;Piau;5;13
+2004;Piau;5;80
+2005;Piau;5;22
+2006;Piau;5;0
+2007;Piau;5;52
+2008;Piau;5;12
+2009;Piau;5;12
+2010;Piau;5;231
+2011;Piau;5;77
+2012;Piau;5;334
+2013;Piau;5;40
+2014;Piau;5;138
+2015;Piau;5;66
+2016;Piau;5;60
+2017;Piau;5;36
+1998;Piau;6;46
+1999;Piau;6;47
+2000;Piau;6;18
+2001;Piau;6;87
+2002;Piau;6;161
+2003;Piau;6;88
+2004;Piau;6;239
+2005;Piau;6;171
+2006;Piau;6;40
+2007;Piau;6;303
+2008;Piau;6;33
+2009;Piau;6;56
+2010;Piau;6;208
+2011;Piau;6;462
+2012;Piau;6;834
+2013;Piau;6;263
+2014;Piau;6;373
+2015;Piau;6;283
+2016;Piau;6;153
+2017;Piau;6;193
+1998;Piau;7;189
+1999;Piau;7;123
+2000;Piau;7;75
+2001;Piau;7;337
+2002;Piau;7;534
+2003;Piau;7;407
+2004;Piau;7;564
+2005;Piau;7;445
+2006;Piau;7;150
+2007;Piau;7;919
+2008;Piau;7;97
+2009;Piau;7;302
+2010;Piau;7;1.696
+2011;Piau;7;864
+2012;Piau;7;1.755
+2013;Piau;7;361
+2014;Piau;7;1.177
+2015;Piau;7;690
+2016;Piau;7;754
+2017;Piau;7;643
+1998;Piau;8;711
+1999;Piau;8;499
+2000;Piau;8;415
+2001;Piau;8;1.133
+2002;Piau;8;2.28
+2003;Piau;8;864
+2004;Piau;8;1.002
+2005;Piau;8;943
+2006;Piau;8;911
+2007;Piau;8;3.551
+2008;Piau;8;290
+2009;Piau;8;790
+2010;Piau;8;4.035
+2011;Piau;8;1.958
+2012;Piau;8;3.614
+2013;Piau;8;1.015
+2014;Piau;8;2.265
+2015;Piau;8;2.057
+2016;Piau;8;1.647
+2017;Piau;8;1.572
+1998;Piau;9;1.991
+1999;Piau;9;872
+2000;Piau;9;1.099
+2001;Piau;9;2.401
+2002;Piau;9;2.475
+2003;Piau;9;3.399
+2004;Piau;9;2.662
+2005;Piau;9;3.136
+2006;Piau;9;1.618
+2007;Piau;9;4.078
+2008;Piau;9;1.472
+2009;Piau;9;1.709
+2010;Piau;9;5.392
+2011;Piau;9;4.402
+2012;Piau;9;4.479
+2013;Piau;9;2.311
+2014;Piau;9;2.536
+2015;Piau;9;5.828
+2016;Piau;9;1.394
+2017;Piau;9;3.422
+1998;Piau;10;2.586
+1999;Piau;10;1.438
+2000;Piau;10;2.558
+2001;Piau;10;3.742
+2002;Piau;10;2.757
+2003;Piau;10;2.332
+2004;Piau;10;2.144
+2005;Piau;10;3.263
+2006;Piau;10;1.443
+2007;Piau;10;2.331
+2008;Piau;10;1.83
+2009;Piau;10;913
+2010;Piau;10;3.863
+2011;Piau;10;1.484
+2012;Piau;10;2.506
+2013;Piau;10;1.269
+2014;Piau;10;1.788
+2015;Piau;10;4.068
+2016;Piau;10;2.598
+2017;Piau;10;3.004
+1998;Piau;11;424
+1999;Piau;11;334
+2000;Piau;11;450
+2001;Piau;11;1.484
+2002;Piau;11;1.174
+2003;Piau;11;1.248
+2004;Piau;11;1.798
+2005;Piau;11;1.599
+2006;Piau;11;740
+2007;Piau;11;939
+2008;Piau;11;594
+2009;Piau;11;1.336
+2010;Piau;11;1.417
+2011;Piau;11;825
+2012;Piau;11;447
+2013;Piau;11;640
+2014;Piau;11;717
+2015;Piau;11;897
+2016;Piau;11;1.126
+2017;Piau;11;449
+1998;Piau;12;119
+1999;Piau;12;74
+2000;Piau;12;79
+2001;Piau;12;230
+2002;Piau;12;373
+2003;Piau;12;459
+2004;Piau;12;788
+2005;Piau;12;486
+2006;Piau;12;339
+2007;Piau;12;317
+2008;Piau;12;329
+2009;Piau;12;570
+2010;Piau;12;357
+2011;Piau;12;362
+2012;Piau;12;334
+2013;Piau;12;468
+2014;Piau;12;346
+2015;Piau;12;626
+2016;Piau;12;374
+1998;Rio;1;0
+1999;Rio;1;0
+2000;Rio;1;0
+2001;Rio;1;0
+2002;Rio;1;0
+2003;Rio;1;0
+2004;Rio;1;1
+2005;Rio;1;5
+2006;Rio;1;12
+2007;Rio;1;0
+2008;Rio;1;1
+2009;Rio;1;3
+2010;Rio;1;13
+2011;Rio;1;10
+2012;Rio;1;12
+2013;Rio;1;9
+2014;Rio;1;35
+2015;Rio;1;97
+2016;Rio;1;9
+2017;Rio;1;15
+1998;Rio;2;0
+1999;Rio;2;0
+2000;Rio;2;1
+2001;Rio;2;3
+2002;Rio;2;1
+2003;Rio;2;10
+2004;Rio;2;8
+2005;Rio;2;4
+2006;Rio;2;7
+2007;Rio;2;15
+2008;Rio;2;2
+2009;Rio;2;5
+2010;Rio;2;73
+2011;Rio;2;36
+2012;Rio;2;11
+2013;Rio;2;12
+2014;Rio;2;116
+2015;Rio;2;36
+2016;Rio;2;16
+2017;Rio;2;34
+1998;Rio;3;0
+1999;Rio;3;0
+2000;Rio;3;0
+2001;Rio;3;0
+2002;Rio;3;1
+2003;Rio;3;23
+2004;Rio;3;4
+2005;Rio;3;7
+2006;Rio;3;8
+2007;Rio;3;27
+2008;Rio;3;2
+2009;Rio;3;5
+2010;Rio;3;10
+2011;Rio;3;7
+2012;Rio;3;20
+2013;Rio;3;9
+2014;Rio;3;38
+2015;Rio;3;23
+2016;Rio;3;16
+2017;Rio;3;10
+1998;Rio;4;0
+1999;Rio;4;1
+2000;Rio;4;2
+2001;Rio;4;2
+2002;Rio;4;8
+2003;Rio;4;11
+2004;Rio;4;3
+2005;Rio;4;1
+2006;Rio;4;8
+2007;Rio;4;9
+2008;Rio;4;2
+2009;Rio;4;1
+2010;Rio;4;10
+2011;Rio;4;12
+2012;Rio;4;12
+2013;Rio;4;9
+2014;Rio;4;25
+2015;Rio;4;24
+2016;Rio;4;45
+2017;Rio;4;12
+1998;Rio;5;0
+1999;Rio;5;7
+2000;Rio;5;5
+2001;Rio;5;4
+2002;Rio;5;4
+2003;Rio;5;1
+2004;Rio;5;0
+2005;Rio;5;11
+2006;Rio;5;4
+2007;Rio;5;2
+2008;Rio;5;0
+2009;Rio;5;37
+2010;Rio;5;6
+2011;Rio;5;17
+2012;Rio;5;18
+2013;Rio;5;16
+2014;Rio;5;20
+2015;Rio;5;21
+2016;Rio;5;30
+2017;Rio;5;15
+1998;Rio;6;3
+1999;Rio;6;8
+2000;Rio;6;14
+2001;Rio;6;13
+2002;Rio;6;13
+2003;Rio;6;13
+2004;Rio;6;19
+2005;Rio;6;16
+2006;Rio;6;19
+2007;Rio;6;3
+2008;Rio;6;4
+2009;Rio;6;33
+2010;Rio;6;7
+2011;Rio;6;33
+2012;Rio;6;14
+2013;Rio;6;17
+2014;Rio;6;54
+2015;Rio;6;33
+2016;Rio;6;37
+2017;Rio;6;68
+1998;Rio;7;21
+1999;Rio;7;14
+2000;Rio;7;22
+2001;Rio;7;57
+2002;Rio;7;17
+2003;Rio;7;42
+2004;Rio;7;23
+2005;Rio;7;20
+2006;Rio;7;54
+2007;Rio;7;15
+2008;Rio;7;14
+2009;Rio;7;56
+2010;Rio;7;55
+2011;Rio;7;121
+2012;Rio;7;50
+2013;Rio;7;58
+2014;Rio;7;62
+2015;Rio;7;74
+2016;Rio;7;131
+2017;Rio;7;70
+1998;Rio;8;21
+1999;Rio;8;88
+2000;Rio;8;34
+2001;Rio;8;129
+2002;Rio;8;184
+2003;Rio;8;191
+2004;Rio;8;74
+2005;Rio;8;98
+2006;Rio;8;79
+2007;Rio;8;189
+2008;Rio;8;19
+2009;Rio;8;91
+2010;Rio;8;316
+2011;Rio;8;250
+2012;Rio;8;72
+2013;Rio;8;74
+2014;Rio;8;199
+2015;Rio;8;158
+2016;Rio;8;241
+2017;Rio;8;164
+1998;Rio;9;44
+1999;Rio;9;192
+2000;Rio;9;16
+2001;Rio;9;60
+2002;Rio;9;45
+2003;Rio;9;166
+2004;Rio;9;205
+2005;Rio;9;46
+2006;Rio;9;197
+2007;Rio;9;223
+2008;Rio;9;132
+2009;Rio;9;90
+2010;Rio;9;353
+2011;Rio;9;510
+2012;Rio;9;172
+2013;Rio;9;117
+2014;Rio;9;318
+2015;Rio;9;85
+2016;Rio;9;195
+2017;Rio;9;728
+1998;Rio;10;6
+1999;Rio;10;30
+2000;Rio;10;25
+2001;Rio;10;33
+2002;Rio;10;313
+2003;Rio;10;81
+2004;Rio;10;26
+2005;Rio;10;116
+2006;Rio;10;12
+2007;Rio;10;137
+2008;Rio;10;42
+2009;Rio;10;18
+2010;Rio;10;35
+2011;Rio;10;114
+2012;Rio;10;163
+2013;Rio;10;44
+2014;Rio;10;500
+2015;Rio;10;96
+2016;Rio;10;30
+2017;Rio;10;238
+1998;Rio;11;6
+1999;Rio;11;16
+2000;Rio;11;2
+2001;Rio;11;4
+2002;Rio;11;11
+2003;Rio;11;5
+2004;Rio;11;49
+2005;Rio;11;12
+2006;Rio;11;1
+2007;Rio;11;1
+2008;Rio;11;0
+2009;Rio;11;27
+2010;Rio;11;23
+2011;Rio;11;20
+2012;Rio;11;13
+2013;Rio;11;28
+2014;Rio;11;36
+2015;Rio;11;6
+2016;Rio;11;19
+2017;Rio;11;43
+1998;Rio;12;1
+1999;Rio;12;0
+2000;Rio;12;0
+2001;Rio;12;2
+2002;Rio;12;8
+2003;Rio;12;10
+2004;Rio;12;9
+2005;Rio;12;2
+2006;Rio;12;0
+2007;Rio;12;0
+2008;Rio;12;6
+2009;Rio;12;1
+2010;Rio;12;10
+2011;Rio;12;3
+2012;Rio;12;18
+2013;Rio;12;12
+2014;Rio;12;25
+2015;Rio;12;11
+2016;Rio;12;5
+1998;Rio;1;0
+1999;Rio;1;32
+2000;Rio;1;1
+2001;Rio;1;2
+2002;Rio;1;4
+2003;Rio;1;113
+2004;Rio;1;44
+2005;Rio;1;153
+2006;Rio;1;93
+2007;Rio;1;63
+2008;Rio;1;70
+2009;Rio;1;110
+2010;Rio;1;32
+2011;Rio;1;15
+2012;Rio;1;72
+2013;Rio;1;25
+2014;Rio;1;34
+2015;Rio;1;45
+2016;Rio;1;15
+2017;Rio;1;28
+1998;Rio;2;0
+1999;Rio;2;11
+2000;Rio;2;7
+2001;Rio;2;0
+2002;Rio;2;18
+2003;Rio;2;9
+2004;Rio;2;5
+2005;Rio;2;42
+2006;Rio;2;21
+2007;Rio;2;9
+2008;Rio;2;25
+2009;Rio;2;8
+2010;Rio;2;12
+2011;Rio;2;5
+2012;Rio;2;13
+2013;Rio;2;24
+2014;Rio;2;8
+2015;Rio;2;15
+2016;Rio;2;2
+2017;Rio;2;10
+1998;Rio;3;0
+1999;Rio;3;9
+2000;Rio;3;11
+2001;Rio;3;0
+2002;Rio;3;3
+2003;Rio;3;1
+2004;Rio;3;1
+2005;Rio;3;15
+2006;Rio;3;8
+2007;Rio;3;7
+2008;Rio;3;3
+2009;Rio;3;2
+2010;Rio;3;23
+2011;Rio;3;3
+2012;Rio;3;2
+2013;Rio;3;6
+2014;Rio;3;6
+2015;Rio;3;3
+2016;Rio;3;1
+2017;Rio;3;3
+1998;Rio;4;0
+1999;Rio;4;21
+2000;Rio;4;16
+2001;Rio;4;10
+2002;Rio;4;0
+2003;Rio;4;2
+2004;Rio;4;3
+2005;Rio;4;2
+2006;Rio;4;2
+2007;Rio;4;1
+2008;Rio;4;0
+2009;Rio;4;1
+2010;Rio;4;7
+2011;Rio;4;0
+2012;Rio;4;4
+2013;Rio;4;7
+2014;Rio;4;2
+2015;Rio;4;4
+2016;Rio;4;0
+2017;Rio;4;6
+1998;Rio;5;0
+1999;Rio;5;1
+2000;Rio;5;3
+2001;Rio;5;56
+2002;Rio;5;6
+2003;Rio;5;0
+2004;Rio;5;2
+2005;Rio;5;3
+2006;Rio;5;0
+2007;Rio;5;2
+2008;Rio;5;0
+2009;Rio;5;0
+2010;Rio;5;3
+2011;Rio;5;0
+2012;Rio;5;14
+2013;Rio;5;2
+2014;Rio;5;2
+2015;Rio;5;4
+2016;Rio;5;1
+2017;Rio;5;2
+1998;Rio;6;1
+1999;Rio;6;4
+2000;Rio;6;8
+2001;Rio;6;13
+2002;Rio;6;1
+2003;Rio;6;1
+2004;Rio;6;2
+2005;Rio;6;0
+2006;Rio;6;0
+2007;Rio;6;0
+2008;Rio;6;0
+2009;Rio;6;0
+2010;Rio;6;1
+2011;Rio;6;1
+2012;Rio;6;5
+2013;Rio;6;1
+2014;Rio;6;2
+2015;Rio;6;5
+2016;Rio;6;4
+2017;Rio;6;3
+1998;Rio;7;5
+1999;Rio;7;7
+2000;Rio;7;5
+2001;Rio;7;25
+2002;Rio;7;7
+2003;Rio;7;7
+2004;Rio;7;5
+2005;Rio;7;2
+2006;Rio;7;0
+2007;Rio;7;7
+2008;Rio;7;0
+2009;Rio;7;0
+2010;Rio;7;7
+2011;Rio;7;0
+2012;Rio;7;3
+2013;Rio;7;0
+2014;Rio;7;2
+2015;Rio;7;3
+2016;Rio;7;13
+2017;Rio;7;4
+1998;Rio;8;4
+1999;Rio;8;40
+2000;Rio;8;29
+2001;Rio;8;55
+2002;Rio;8;48
+2003;Rio;8;97
+2004;Rio;8;15
+2005;Rio;8;9
+2006;Rio;8;13
+2007;Rio;8;26
+2008;Rio;8;2
+2009;Rio;8;1
+2010;Rio;8;24
+2011;Rio;8;10
+2012;Rio;8;23
+2013;Rio;8;2
+2014;Rio;8;21
+2015;Rio;8;16
+2016;Rio;8;24
+2017;Rio;8;21
+1998;Rio;9;51
+1999;Rio;9;35
+2000;Rio;9;17
+2001;Rio;9;45
+2002;Rio;9;52
+2003;Rio;9;112
+2004;Rio;9;47
+2005;Rio;9;37
+2006;Rio;9;50
+2007;Rio;9;50
+2008;Rio;9;17
+2009;Rio;9;29
+2010;Rio;9;50
+2011;Rio;9;22
+2012;Rio;9;41
+2013;Rio;9;7
+2014;Rio;9;30
+2015;Rio;9;36
+2016;Rio;9;44
+2017;Rio;9;48
+1998;Rio;10;55
+1999;Rio;10;40
+2000;Rio;10;28
+2001;Rio;10;34
+2002;Rio;10;140
+2003;Rio;10;276
+2004;Rio;10;89
+2005;Rio;10;168
+2006;Rio;10;85
+2007;Rio;10;88
+2008;Rio;10;53
+2009;Rio;10;84
+2010;Rio;10;111
+2011;Rio;10;76
+2012;Rio;10;74
+2013;Rio;10;71
+2014;Rio;10;75
+2015;Rio;10;129
+2016;Rio;10;129
+2017;Rio;10;85
+1998;Rio;11;41
+1999;Rio;11;62
+2000;Rio;11;9
+2001;Rio;11;41
+2002;Rio;11;178
+2003;Rio;11;366
+2004;Rio;11;164
+2005;Rio;11;249
+2006;Rio;11;148
+2007;Rio;11;130
+2008;Rio;11;82
+2009;Rio;11;172
+2010;Rio;11;212
+2011;Rio;11;144
+2012;Rio;11;69
+2013;Rio;11;77
+2014;Rio;11;124
+2015;Rio;11;105
+2016;Rio;11;93
+2017;Rio;11;89
+1998;Rio;12;19
+1999;Rio;12;29
+2000;Rio;12;11
+2001;Rio;12;20
+2002;Rio;12;222
+2003;Rio;12;278
+2004;Rio;12;284
+2005;Rio;12;149
+2006;Rio;12;101
+2007;Rio;12;80
+2008;Rio;12;126
+2009;Rio;12;221
+2010;Rio;12;54
+2011;Rio;12;125
+2012;Rio;12;75
+2013;Rio;12;46
+2014;Rio;12;47
+2015;Rio;12;74
+2016;Rio;12;75
+1998;Rio;1;0
+1999;Rio;1;63
+2000;Rio;1;126
+2001;Rio;1;12
+2002;Rio;1;265
+2003;Rio;1;58
+2004;Rio;1;70
+2005;Rio;1;152
+2006;Rio;1;46
+2007;Rio;1;37
+2008;Rio;1;42
+2009;Rio;1;65
+2010;Rio;1;22
+2011;Rio;1;33
+2012;Rio;1;61
+2013;Rio;1;22
+2014;Rio;1;53
+2015;Rio;1;51
+2016;Rio;1;68
+2017;Rio;1;28
+1998;Rio;2;0
+1999;Rio;2;35
+2000;Rio;2;43
+2001;Rio;2;32
+2002;Rio;2;38
+2003;Rio;2;13
+2004;Rio;2;52
+2005;Rio;2;36
+2006;Rio;2;34
+2007;Rio;2;24
+2008;Rio;2;30
+2009;Rio;2;15
+2010;Rio;2;23
+2011;Rio;2;26
+2012;Rio;2;39
+2013;Rio;2;43
+2014;Rio;2;37
+2015;Rio;2;41
+2016;Rio;2;55
+2017;Rio;2;31
+1998;Rio;3;0
+1999;Rio;3;38
+2000;Rio;3;51
+2001;Rio;3;11
+2002;Rio;3;26
+2003;Rio;3;27
+2004;Rio;3;149
+2005;Rio;3;153
+2006;Rio;3;76
+2007;Rio;3;8
+2008;Rio;3;38
+2009;Rio;3;41
+2010;Rio;3;21
+2011;Rio;3;31
+2012;Rio;3;50
+2013;Rio;3;44
+2014;Rio;3;58
+2015;Rio;3;108
+2016;Rio;3;30
+2017;Rio;3;34
+1998;Rio;4;0
+1999;Rio;4;12
+2000;Rio;4;1
+2001;Rio;4;3
+2002;Rio;4;6
+2003;Rio;4;30
+2004;Rio;4;98
+2005;Rio;4;14
+2006;Rio;4;59
+2007;Rio;4;4
+2008;Rio;4;110
+2009;Rio;4;145
+2010;Rio;4;72
+2011;Rio;4;41
+2012;Rio;4;41
+2013;Rio;4;47
+2014;Rio;4;60
+2015;Rio;4;175
+2016;Rio;4;32
+2017;Rio;4;51
+1998;Rio;5;0
+1999;Rio;5;13
+2000;Rio;5;4
+2001;Rio;5;4
+2002;Rio;5;7
+2003;Rio;5;18
+2004;Rio;5;4
+2005;Rio;5;24
+2006;Rio;5;24
+2007;Rio;5;3
+2008;Rio;5;20
+2009;Rio;5;177
+2010;Rio;5;9
+2011;Rio;5;20
+2012;Rio;5;112
+2013;Rio;5;14
+2014;Rio;5;63
+2015;Rio;5;169
+2016;Rio;5;37
+2017;Rio;5;43
+1998;Rio;6;0
+1999;Rio;6;9
+2000;Rio;6;0
+2001;Rio;6;1
+2002;Rio;6;4
+2003;Rio;6;14
+2004;Rio;6;52
+2005;Rio;6;50
+2006;Rio;6;7
+2007;Rio;6;10
+2008;Rio;6;16
+2009;Rio;6;30
+2010;Rio;6;4
+2011;Rio;6;12
+2012;Rio;6;86
+2013;Rio;6;10
+2014;Rio;6;62
+2015;Rio;6;68
+2016;Rio;6;261
+2017;Rio;6;103
+1998;Rio;7;0
+1999;Rio;7;10
+2000;Rio;7;6
+2001;Rio;7;6
+2002;Rio;7;93
+2003;Rio;7;55
+2004;Rio;7;156
+2005;Rio;7;47
+2006;Rio;7;45
+2007;Rio;7;7
+2008;Rio;7;25
+2009;Rio;7;47
+2010;Rio;7;34
+2011;Rio;7;45
+2012;Rio;7;134
+2013;Rio;7;42
+2014;Rio;7;209
+2015;Rio;7;60
+2016;Rio;7;865
+2017;Rio;7;885
+1998;Rio;8;9
+1999;Rio;8;24
+2000;Rio;8;18
+2001;Rio;8;36
+2002;Rio;8;824
+2003;Rio;8;1.419
+2004;Rio;8;403
+2005;Rio;8;120
+2006;Rio;8;642
+2007;Rio;8;258
+2008;Rio;8;56
+2009;Rio;8;1.057
+2010;Rio;8;267
+2011;Rio;8;116
+2012;Rio;8;410
+2013;Rio;8;156
+2014;Rio;8;1.168
+2015;Rio;8;414
+2016;Rio;8;1.111
+2017;Rio;8;819
+1998;Rio;9;60
+1999;Rio;9;19
+2000;Rio;9;27
+2001;Rio;9;2
+2002;Rio;9;226
+2003;Rio;9;828
+2004;Rio;9;431
+2005;Rio;9;189
+2006;Rio;9;444
+2007;Rio;9;573
+2008;Rio;9;97
+2009;Rio;9;39
+2010;Rio;9;250
+2011;Rio;9;449
+2012;Rio;9;113
+2013;Rio;9;290
+2014;Rio;9;224
+2015;Rio;9;222
+2016;Rio;9;628
+2017;Rio;9;343
+1998;Rio;10;169
+1999;Rio;10;56
+2000;Rio;10;10
+2001;Rio;10;13
+2002;Rio;10;10
+2003;Rio;10;360
+2004;Rio;10;680
+2005;Rio;10;83
+2006;Rio;10;160
+2007;Rio;10;21
+2008;Rio;10;135
+2009;Rio;10;148
+2010;Rio;10;95
+2011;Rio;10;74
+2012;Rio;10;91
+2013;Rio;10;104
+2014;Rio;10;110
+2015;Rio;10;70
+2016;Rio;10;93
+2017;Rio;10;101
+1998;Rio;11;28
+1999;Rio;11;103
+2000;Rio;11;18
+2001;Rio;11;49
+2002;Rio;11;117
+2003;Rio;11;121
+2004;Rio;11;161
+2005;Rio;11;227
+2006;Rio;11;27
+2007;Rio;11;13
+2008;Rio;11;14
+2009;Rio;11;4
+2010;Rio;11;90
+2011;Rio;11;117
+2012;Rio;11;74
+2013;Rio;11;110
+2014;Rio;11;68
+2015;Rio;11;30
+2016;Rio;11;105
+2017;Rio;11;137
+1998;Rio;12;605
+1999;Rio;12;1.11
+2000;Rio;12;80
+2001;Rio;12;80
+2002;Rio;12;45
+2003;Rio;12;98
+2004;Rio;12;99
+2005;Rio;12;35
+2006;Rio;12;15
+2007;Rio;12;25
+2008;Rio;12;32
+2009;Rio;12;15
+2010;Rio;12;103
+2011;Rio;12;69
+2012;Rio;12;38
+2013;Rio;12;62
+2014;Rio;12;31
+2015;Rio;12;42
+2016;Rio;12;79
+1998;Rondonia;1;0
+1999;Rondonia;1;1
+2000;Rondonia;1;0
+2001;Rondonia;1;0
+2002;Rondonia;1;6
+2003;Rondonia;1;62
+2004;Rondonia;1;30
+2005;Rondonia;1;99
+2006;Rondonia;1;16
+2007;Rondonia;1;33
+2008;Rondonia;1;4
+2009;Rondonia;1;17
+2010;Rondonia;1;18
+2011;Rondonia;1;1
+2012;Rondonia;1;2
+2013;Rondonia;1;7
+2014;Rondonia;1;12
+2015;Rondonia;1;30
+2016;Rondonia;1;93
+2017;Rondonia;1;44
+1998;Rondonia;2;0
+1999;Rondonia;2;1
+2000;Rondonia;2;6
+2001;Rondonia;2;2
+2002;Rondonia;2;8
+2003;Rondonia;2;10
+2004;Rondonia;2;12
+2005;Rondonia;2;42
+2006;Rondonia;2;17
+2007;Rondonia;2;8
+2008;Rondonia;2;7
+2009;Rondonia;2;1
+2010;Rondonia;2;9
+2011;Rondonia;2;2
+2012;Rondonia;2;9
+2013;Rondonia;2;8
+2014;Rondonia;2;5
+2015;Rondonia;2;22
+2016;Rondonia;2;88
+2017;Rondonia;2;10
+1998;Rondonia;3;0
+1999;Rondonia;3;8
+2000;Rondonia;3;9
+2001;Rondonia;3;0
+2002;Rondonia;3;1
+2003;Rondonia;3;13
+2004;Rondonia;3;20
+2005;Rondonia;3;17
+2006;Rondonia;3;15
+2007;Rondonia;3;20
+2008;Rondonia;3;2
+2009;Rondonia;3;12
+2010;Rondonia;3;11
+2011;Rondonia;3;6
+2012;Rondonia;3;6
+2013;Rondonia;3;23
+2014;Rondonia;3;13
+2015;Rondonia;3;15
+2016;Rondonia;3;25
+2017;Rondonia;3;21
+1998;Rondonia;4;0
+1999;Rondonia;4;3
+2000;Rondonia;4;0
+2001;Rondonia;4;0
+2002;Rondonia;4;3
+2003;Rondonia;4;10
+2004;Rondonia;4;14
+2005;Rondonia;4;7
+2006;Rondonia;4;0
+2007;Rondonia;4;0
+2008;Rondonia;4;8
+2009;Rondonia;4;3
+2010;Rondonia;4;19
+2011;Rondonia;4;8
+2012;Rondonia;4;12
+2013;Rondonia;4;9
+2014;Rondonia;4;15
+2015;Rondonia;4;15
+2016;Rondonia;4;59
+2017;Rondonia;4;19
+1998;Rondonia;5;0
+1999;Rondonia;5;3
+2000;Rondonia;5;13
+2001;Rondonia;5;5
+2002;Rondonia;5;10
+2003;Rondonia;5;21
+2004;Rondonia;5;9
+2005;Rondonia;5;38
+2006;Rondonia;5;7
+2007;Rondonia;5;4
+2008;Rondonia;5;1
+2009;Rondonia;5;6
+2010;Rondonia;5;41
+2011;Rondonia;5;54
+2012;Rondonia;5;22
+2013;Rondonia;5;9
+2014;Rondonia;5;28
+2015;Rondonia;5;13
+2016;Rondonia;5;44
+2017;Rondonia;5;31
+1998;Rondonia;6;26
+1999;Rondonia;6;10
+2000;Rondonia;6;54
+2001;Rondonia;6;31
+2002;Rondonia;6;141
+2003;Rondonia;6;74
+2004;Rondonia;6;151
+2005;Rondonia;6;153
+2006;Rondonia;6;40
+2007;Rondonia;6;71
+2008;Rondonia;6;11
+2009;Rondonia;6;13
+2010;Rondonia;6;44
+2011;Rondonia;6;130
+2012;Rondonia;6;32
+2013;Rondonia;6;22
+2014;Rondonia;6;92
+2015;Rondonia;6;119
+2016;Rondonia;6;170
+2017;Rondonia;6;192
+1998;Rondonia;7;365
+1999;Rondonia;7;135
+2000;Rondonia;7;117
+2001;Rondonia;7;74
+2002;Rondonia;7;539
+2003;Rondonia;7;516
+2004;Rondonia;7;1.233
+2005;Rondonia;7;798
+2006;Rondonia;7;314
+2007;Rondonia;7;187
+2008;Rondonia;7;138
+2009;Rondonia;7;110
+2010;Rondonia;7;747
+2011;Rondonia;7;293
+2012;Rondonia;7;205
+2013;Rondonia;7;117
+2014;Rondonia;7;192
+2015;Rondonia;7;423
+2016;Rondonia;7;969
+2017;Rondonia;7;1.28
+1998;Rondonia;8;2.254
+1999;Rondonia;8;1.976
+2000;Rondonia;8;2.197
+2001;Rondonia;8;2.132
+2002;Rondonia;8;3.465
+2003;Rondonia;8;7.06
+2004;Rondonia;8;6.893
+2005;Rondonia;8;6.672
+2006;Rondonia;8;3.124
+2007;Rondonia;8;4.786
+2008;Rondonia;8;1.251
+2009;Rondonia;8;484
+2010;Rondonia;8;4.388
+2011;Rondonia;8;1.161
+2012;Rondonia;8;2.209
+2013;Rondonia;8;885
+2014;Rondonia;8;3.038
+2015;Rondonia;8;3.762
+2016;Rondonia;8;3.675
+2017;Rondonia;8;4.287
+1998;Rondonia;9;3.753
+1999;Rondonia;9;3.062
+2000;Rondonia;9;2.438
+2001;Rondonia;9;1.927
+2002;Rondonia;9;7.067
+2003;Rondonia;9;6.89
+2004;Rondonia;9;13.05
+2005;Rondonia;9;13.972
+2006;Rondonia;9;9.92
+2007;Rondonia;9;6.832
+2008;Rondonia;9;3.726
+2009;Rondonia;9;1.869
+2010;Rondonia;9;4.893
+2011;Rondonia;9;1.782
+2012;Rondonia;9;2.471
+2013;Rondonia;9;1.776
+2014;Rondonia;9;2.8
+2015;Rondonia;9;6.129
+2016;Rondonia;9;4.208
+2017;Rondonia;9;5.638
+1998;Rondonia;10;483
+1999;Rondonia;10;1.884
+2000;Rondonia;10;644
+2001;Rondonia;10;796
+2002;Rondonia;10;3.554
+2003;Rondonia;10;4.962
+2004;Rondonia;10;3.094
+2005;Rondonia;10;2.559
+2006;Rondonia;10;1.148
+2007;Rondonia;10;2.023
+2008;Rondonia;10;1.482
+2009;Rondonia;10;1.444
+2010;Rondonia;10;1.307
+2011;Rondonia;10;822
+2012;Rondonia;10;1.229
+2013;Rondonia;10;555
+2014;Rondonia;10;1.063
+2015;Rondonia;10;2.598
+2016;Rondonia;10;1.844
+2017;Rondonia;10;2.19
+1998;Rondonia;11;3
+1999;Rondonia;11;41
+2000;Rondonia;11;13
+2001;Rondonia;11;91
+2002;Rondonia;11;639
+2003;Rondonia;11;526
+2004;Rondonia;11;452
+2005;Rondonia;11;465
+2006;Rondonia;11;253
+2007;Rondonia;11;53
+2008;Rondonia;11;78
+2009;Rondonia;11;128
+2010;Rondonia;11;238
+2011;Rondonia;11;245
+2012;Rondonia;11;174
+2013;Rondonia;11;108
+2014;Rondonia;11;202
+2015;Rondonia;11;1.002
+2016;Rondonia;11;401
+2017;Rondonia;11;372
+1998;Rondonia;12;33
+1999;Rondonia;12;0
+2000;Rondonia;12;7
+2001;Rondonia;12;1
+2002;Rondonia;12;91
+2003;Rondonia;12;214
+2004;Rondonia;12;208
+2005;Rondonia;12;36
+2006;Rondonia;12;4
+2007;Rondonia;12;6
+2008;Rondonia;12;2
+2009;Rondonia;12;9
+2010;Rondonia;12;158
+2011;Rondonia;12;37
+2012;Rondonia;12;50
+2013;Rondonia;12;143
+2014;Rondonia;12;144
+2015;Rondonia;12;282
+2016;Rondonia;12;148
+1998;Roraima;1;0
+1999;Roraima;1;15
+2000;Roraima;1;18
+2001;Roraima;1;101
+2002;Roraima;1;302
+2003;Roraima;1;547
+2004;Roraima;1;355
+2005;Roraima;1;106
+2006;Roraima;1;70
+2007;Roraima;1;194
+2008;Roraima;1;245
+2009;Roraima;1;45
+2010;Roraima;1;351
+2011;Roraima;1;225
+2012;Roraima;1;217
+2013;Roraima;1;397
+2014;Roraima;1;355
+2015;Roraima;1;330
+2016;Roraima;1;1.754
+2017;Roraima;1;108
+1998;Roraima;2;0
+1999;Roraima;2;20
+2000;Roraima;2;57
+2001;Roraima;2;646
+2002;Roraima;2;476
+2003;Roraima;2;767
+2004;Roraima;2;259
+2005;Roraima;2;105
+2006;Roraima;2;283
+2007;Roraima;2;796
+2008;Roraima;2;138
+2009;Roraima;2;153
+2010;Roraima;2;470
+2011;Roraima;2;112
+2012;Roraima;2;130
+2013;Roraima;2;62
+2014;Roraima;2;226
+2015;Roraima;2;418
+2016;Roraima;2;171
+2017;Roraima;2;129
+1998;Roraima;3;0
+1999;Roraima;3;98
+2000;Roraima;3;125
+2001;Roraima;3;1.108
+2002;Roraima;3;820
+2003;Roraima;3;1.131
+2004;Roraima;3;276
+2005;Roraima;3;244
+2006;Roraima;3;385
+2007;Roraima;3;665
+2008;Roraima;3;422
+2009;Roraima;3;176
+2010;Roraima;3;417
+2011;Roraima;3;91
+2012;Roraima;3;99
+2013;Roraima;3;179
+2014;Roraima;3;494
+2015;Roraima;3;163
+2016;Roraima;3;1.081
+2017;Roraima;3;216
+1998;Roraima;4;0
+1999;Roraima;4;16
+2000;Roraima;4;0
+2001;Roraima;4;380
+2002;Roraima;4;41
+2003;Roraima;4;268
+2004;Roraima;4;182
+2005;Roraima;4;22
+2006;Roraima;4;201
+2007;Roraima;4;58
+2008;Roraima;4;175
+2009;Roraima;4;115
+2010;Roraima;4;15
+2011;Roraima;4;108
+2012;Roraima;4;25
+2013;Roraima;4;87
+2014;Roraima;4;162
+2015;Roraima;4;278
+2016;Roraima;4;126
+2017;Roraima;4;51
+1998;Roraima;5;0
+1999;Roraima;5;0
+2000;Roraima;5;7
+2001;Roraima;5;9
+2002;Roraima;5;0
+2003;Roraima;5;0
+2004;Roraima;5;2
+2005;Roraima;5;1
+2006;Roraima;5;0
+2007;Roraima;5;0
+2008;Roraima;5;8
+2009;Roraima;5;219
+2010;Roraima;5;3
+2011;Roraima;5;4
+2012;Roraima;5;18
+2013;Roraima;5;4
+2014;Roraima;5;58
+2015;Roraima;5;12
+2016;Roraima;5;22
+2017;Roraima;5;29
+1998;Roraima;6;0
+1999;Roraima;6;3
+2000;Roraima;6;0
+2001;Roraima;6;1
+2002;Roraima;6;0
+2003;Roraima;6;0
+2004;Roraima;6;6
+2005;Roraima;6;5
+2006;Roraima;6;0
+2007;Roraima;6;1
+2008;Roraima;6;0
+2009;Roraima;6;16
+2010;Roraima;6;0
+2011;Roraima;6;6
+2012;Roraima;6;22
+2013;Roraima;6;6
+2014;Roraima;6;4
+2015;Roraima;6;3
+2016;Roraima;6;7
+2017;Roraima;6;4
+1998;Roraima;7;1
+1999;Roraima;7;4
+2000;Roraima;7;0
+2001;Roraima;7;1
+2002;Roraima;7;7
+2003;Roraima;7;0
+2004;Roraima;7;2
+2005;Roraima;7;2
+2006;Roraima;7;0
+2007;Roraima;7;3
+2008;Roraima;7;0
+2009;Roraima;7;18
+2010;Roraima;7;1
+2011;Roraima;7;9
+2012;Roraima;7;2
+2013;Roraima;7;4
+2014;Roraima;7;9
+2015;Roraima;7;5
+2016;Roraima;7;0
+2017;Roraima;7;3
+1998;Roraima;8;0
+1999;Roraima;8;1
+2000;Roraima;8;9
+2001;Roraima;8;4
+2002;Roraima;8;7
+2003;Roraima;8;2
+2004;Roraima;8;18
+2005;Roraima;8;9
+2006;Roraima;8;4
+2007;Roraima;8;2
+2008;Roraima;8;4
+2009;Roraima;8;29
+2010;Roraima;8;3
+2011;Roraima;8;39
+2012;Roraima;8;4
+2013;Roraima;8;3
+2014;Roraima;8;12
+2015;Roraima;8;11
+2016;Roraima;8;11
+2017;Roraima;8;35
+1998;Roraima;9;2
+1999;Roraima;9;3
+2000;Roraima;9;12
+2001;Roraima;9;1
+2002;Roraima;9;48
+2003;Roraima;9;6
+2004;Roraima;9;9
+2005;Roraima;9;72
+2006;Roraima;9;40
+2007;Roraima;9;9
+2008;Roraima;9;17
+2009;Roraima;9;117
+2010;Roraima;9;18
+2011;Roraima;9;53
+2012;Roraima;9;67
+2013;Roraima;9;18
+2014;Roraima;9;67
+2015;Roraima;9;77
+2016;Roraima;9;19
+2017;Roraima;9;43
+1998;Roraima;10;1
+1999;Roraima;10;10
+2000;Roraima;10;25
+2001;Roraima;10;13
+2002;Roraima;10;191
+2003;Roraima;10;14
+2004;Roraima;10;53
+2005;Roraima;10;88
+2006;Roraima;10;135
+2007;Roraima;10;15
+2008;Roraima;10;78
+2009;Roraima;10;197
+2010;Roraima;10;64
+2011;Roraima;10;65
+2012;Roraima;10;152
+2013;Roraima;10;63
+2014;Roraima;10;61
+2015;Roraima;10;181
+2016;Roraima;10;101
+2017;Roraima;10;156
+1998;Roraima;11;1
+1999;Roraima;11;15
+2000;Roraima;11;32
+2001;Roraima;11;76
+2002;Roraima;11;133
+2003;Roraima;11;27
+2004;Roraima;11;135
+2005;Roraima;11;135
+2006;Roraima;11;26
+2007;Roraima;11;112
+2008;Roraima;11;39
+2009;Roraima;11;312
+2010;Roraima;11;27
+2011;Roraima;11;121
+2012;Roraima;11;187
+2013;Roraima;11;106
+2014;Roraima;11;143
+2015;Roraima;11;280
+2016;Roraima;11;71
+2017;Roraima;11;327
+1998;Roraima;12;16
+1999;Roraima;12;35
+2000;Roraima;12;77
+2001;Roraima;12;76
+2002;Roraima;12;199
+2003;Roraima;12;157
+2004;Roraima;12;160
+2005;Roraima;12;71
+2006;Roraima;12;101
+2007;Roraima;12;8
+2008;Roraima;12;5
+2009;Roraima;12;290
+2010;Roraima;12;73
+2011;Roraima;12;249
+2012;Roraima;12;78
+2013;Roraima;12;65
+2014;Roraima;12;277
+2015;Roraima;12;304
+2016;Roraima;12;136
+1998;Santa Catarina;1;0
+1999;Santa Catarina;1;11
+2000;Santa Catarina;1;14
+2001;Santa Catarina;1;11
+2002;Santa Catarina;1;22
+2003;Santa Catarina;1;45
+2004;Santa Catarina;1;37
+2005;Santa Catarina;1;46
+2006;Santa Catarina;1;41
+2007;Santa Catarina;1;9
+2008;Santa Catarina;1;25
+2009;Santa Catarina;1;21
+2010;Santa Catarina;1;2
+2011;Santa Catarina;1;9
+2012;Santa Catarina;1;14
+2013;Santa Catarina;1;18
+2014;Santa Catarina;1;58
+2015;Santa Catarina;1;28
+2016;Santa Catarina;1;53
+2017;Santa Catarina;1;46
+1998;Santa Catarina;2;0
+1999;Santa Catarina;2;2
+2000;Santa Catarina;2;8
+2001;Santa Catarina;2;0
+2002;Santa Catarina;2;5
+2003;Santa Catarina;2;43
+2004;Santa Catarina;2;29
+2005;Santa Catarina;2;46
+2006;Santa Catarina;2;18
+2007;Santa Catarina;2;14
+2008;Santa Catarina;2;29
+2009;Santa Catarina;2;7
+2010;Santa Catarina;2;15
+2011;Santa Catarina;2;1
+2012;Santa Catarina;2;13
+2013;Santa Catarina;2;12
+2014;Santa Catarina;2;27
+2015;Santa Catarina;2;23
+2016;Santa Catarina;2;10
+2017;Santa Catarina;2;31
+1998;Santa Catarina;3;0
+1999;Santa Catarina;3;7
+2000;Santa Catarina;3;46
+2001;Santa Catarina;3;1
+2002;Santa Catarina;3;12
+2003;Santa Catarina;3;58
+2004;Santa Catarina;3;73
+2005;Santa Catarina;3;92
+2006;Santa Catarina;3;48
+2007;Santa Catarina;3;23
+2008;Santa Catarina;3;14
+2009;Santa Catarina;3;33
+2010;Santa Catarina;3;9
+2011;Santa Catarina;3;8
+2012;Santa Catarina;3;65
+2013;Santa Catarina;3;14
+2014;Santa Catarina;3;15
+2015;Santa Catarina;3;37
+2016;Santa Catarina;3;21
+2017;Santa Catarina;3;12
+1998;Santa Catarina;4;0
+1999;Santa Catarina;4;0
+2000;Santa Catarina;4;7
+2001;Santa Catarina;4;1
+2002;Santa Catarina;4;7
+2003;Santa Catarina;4;120
+2004;Santa Catarina;4;59
+2005;Santa Catarina;4;25
+2006;Santa Catarina;4;30
+2007;Santa Catarina;4;2
+2008;Santa Catarina;4;31
+2009;Santa Catarina;4;57
+2010;Santa Catarina;4;19
+2011;Santa Catarina;4;5
+2012;Santa Catarina;4;40
+2013;Santa Catarina;4;46
+2014;Santa Catarina;4;34
+2015;Santa Catarina;4;32
+2016;Santa Catarina;4;36
+2017;Santa Catarina;4;26
+1998;Santa Catarina;5;0
+1999;Santa Catarina;5;1
+2000;Santa Catarina;5;0
+2001;Santa Catarina;5;2
+2002;Santa Catarina;5;3
+2003;Santa Catarina;5;84
+2004;Santa Catarina;5;2
+2005;Santa Catarina;5;21
+2006;Santa Catarina;5;33
+2007;Santa Catarina;5;2
+2008;Santa Catarina;5;15
+2009;Santa Catarina;5;33
+2010;Santa Catarina;5;1
+2011;Santa Catarina;5;16
+2012;Santa Catarina;5;60
+2013;Santa Catarina;5;52
+2014;Santa Catarina;5;42
+2015;Santa Catarina;5;70
+2016;Santa Catarina;5;26
+2017;Santa Catarina;5;36
+1998;Santa Catarina;6;2
+1999;Santa Catarina;6;0
+2000;Santa Catarina;6;2
+2001;Santa Catarina;6;1
+2002;Santa Catarina;6;0
+2003;Santa Catarina;6;68
+2004;Santa Catarina;6;127
+2005;Santa Catarina;6;58
+2006;Santa Catarina;6;32
+2007;Santa Catarina;6;11
+2008;Santa Catarina;6;2
+2009;Santa Catarina;6;14
+2010;Santa Catarina;6;1
+2011;Santa Catarina;6;26
+2012;Santa Catarina;6;42
+2013;Santa Catarina;6;31
+2014;Santa Catarina;6;3
+2015;Santa Catarina;6;104
+2016;Santa Catarina;6;79
+2017;Santa Catarina;6;70
+1998;Santa Catarina;7;0
+1999;Santa Catarina;7;2
+2000;Santa Catarina;7;21
+2001;Santa Catarina;7;5
+2002;Santa Catarina;7;82
+2003;Santa Catarina;7;43
+2004;Santa Catarina;7;94
+2005;Santa Catarina;7;90
+2006;Santa Catarina;7;74
+2007;Santa Catarina;7;12
+2008;Santa Catarina;7;46
+2009;Santa Catarina;7;26
+2010;Santa Catarina;7;31
+2011;Santa Catarina;7;31
+2012;Santa Catarina;7;42
+2013;Santa Catarina;7;69
+2014;Santa Catarina;7;82
+2015;Santa Catarina;7;45
+2016;Santa Catarina;7;480
+2017;Santa Catarina;7;591
+1998;Santa Catarina;8;0
+1999;Santa Catarina;8;51
+2000;Santa Catarina;8;69
+2001;Santa Catarina;8;24
+2002;Santa Catarina;8;702
+2003;Santa Catarina;8;1.513
+2004;Santa Catarina;8;728
+2005;Santa Catarina;8;391
+2006;Santa Catarina;8;728
+2007;Santa Catarina;8;462
+2008;Santa Catarina;8;51
+2009;Santa Catarina;8;759
+2010;Santa Catarina;8;511
+2011;Santa Catarina;8;175
+2012;Santa Catarina;8;398
+2013;Santa Catarina;8;236
+2014;Santa Catarina;8;459
+2015;Santa Catarina;8;379
+2016;Santa Catarina;8;765
+2017;Santa Catarina;8;713
+1998;Santa Catarina;9;6
+1999;Santa Catarina;9;101
+2000;Santa Catarina;9;36
+2001;Santa Catarina;9;18
+2002;Santa Catarina;9;416
+2003;Santa Catarina;9;1.339
+2004;Santa Catarina;9;755
+2005;Santa Catarina;9;116
+2006;Santa Catarina;9;530
+2007;Santa Catarina;9;617
+2008;Santa Catarina;9;233
+2009;Santa Catarina;9;47
+2010;Santa Catarina;9;198
+2011;Santa Catarina;9;450
+2012;Santa Catarina;9;188
+2013;Santa Catarina;9;303
+2014;Santa Catarina;9;208
+2015;Santa Catarina;9;156
+2016;Santa Catarina;9;644
+2017;Santa Catarina;9;626
+1998;Santa Catarina;10;4
+1999;Santa Catarina;10;16
+2000;Santa Catarina;10;55
+2001;Santa Catarina;10;26
+2002;Santa Catarina;10;42
+2003;Santa Catarina;10;669
+2004;Santa Catarina;10;704
+2005;Santa Catarina;10;197
+2006;Santa Catarina;10;269
+2007;Santa Catarina;10;35
+2008;Santa Catarina;10;56
+2009;Santa Catarina;10;252
+2010;Santa Catarina;10;76
+2011;Santa Catarina;10;102
+2012;Santa Catarina;10;34
+2013;Santa Catarina;10;107
+2014;Santa Catarina;10;122
+2015;Santa Catarina;10;21
+2016;Santa Catarina;10;56
+2017;Santa Catarina;10;51
+1998;Santa Catarina;11;21
+1999;Santa Catarina;11;84
+2000;Santa Catarina;11;19
+2001;Santa Catarina;11;66
+2002;Santa Catarina;11;348
+2003;Santa Catarina;11;347
+2004;Santa Catarina;11;279
+2005;Santa Catarina;11;384
+2006;Santa Catarina;11;45
+2007;Santa Catarina;11;26
+2008;Santa Catarina;11;16
+2009;Santa Catarina;11;61
+2010;Santa Catarina;11;88
+2011;Santa Catarina;11;79
+2012;Santa Catarina;11;72
+2013;Santa Catarina;11;84
+2014;Santa Catarina;11;43
+2015;Santa Catarina;11;9
+2016;Santa Catarina;11;156
+2017;Santa Catarina;11;152
+1998;Santa Catarina;12;26
+1999;Santa Catarina;12;89
+2000;Santa Catarina;12;29
+2001;Santa Catarina;12;45
+2002;Santa Catarina;12;76
+2003;Santa Catarina;12;129
+2004;Santa Catarina;12;68
+2005;Santa Catarina;12;17
+2006;Santa Catarina;12;7
+2007;Santa Catarina;12;17
+2008;Santa Catarina;12;29
+2009;Santa Catarina;12;20
+2010;Santa Catarina;12;23
+2011;Santa Catarina;12;24
+2012;Santa Catarina;12;32
+2013;Santa Catarina;12;74
+2014;Santa Catarina;12;45
+2015;Santa Catarina;12;19
+2016;Santa Catarina;12;20
+1998;Sao Paulo;1;0
+1999;Sao Paulo;1;7
+2000;Sao Paulo;1;36
+2001;Sao Paulo;1;26
+2002;Sao Paulo;1;19
+2003;Sao Paulo;1;59
+2004;Sao Paulo;1;37
+2005;Sao Paulo;1;26
+2006;Sao Paulo;1;76
+2007;Sao Paulo;1;14
+2008;Sao Paulo;1;34
+2009;Sao Paulo;1;12
+2010;Sao Paulo;1;45
+2011;Sao Paulo;1;75
+2012;Sao Paulo;1;38
+2013;Sao Paulo;1;36
+2014;Sao Paulo;1;99
+2015;Sao Paulo;1;120
+2016;Sao Paulo;1;85
+2017;Sao Paulo;1;28
+1998;Sao Paulo;2;0
+1999;Sao Paulo;2;47
+2000;Sao Paulo;2;25
+2001;Sao Paulo;2;25
+2002;Sao Paulo;2;19
+2003;Sao Paulo;2;137
+2004;Sao Paulo;2;41
+2005;Sao Paulo;2;78
+2006;Sao Paulo;2;59
+2007;Sao Paulo;2;96
+2008;Sao Paulo;2;30
+2009;Sao Paulo;2;65
+2010;Sao Paulo;2;152
+2011;Sao Paulo;2;73
+2012;Sao Paulo;2;81
+2013;Sao Paulo;2;100
+2014;Sao Paulo;2;112
+2015;Sao Paulo;2;69
+2016;Sao Paulo;2;188
+2017;Sao Paulo;2;107
+1998;Sao Paulo;3;0
+1999;Sao Paulo;3;78
+2000;Sao Paulo;3;26
+2001;Sao Paulo;3;35
+2002;Sao Paulo;3;111
+2003;Sao Paulo;3;86
+2004;Sao Paulo;3;73
+2005;Sao Paulo;3;73
+2006;Sao Paulo;3;106
+2007;Sao Paulo;3;152
+2008;Sao Paulo;3;72
+2009;Sao Paulo;3;55
+2010;Sao Paulo;3;111
+2011;Sao Paulo;3;45
+2012;Sao Paulo;3;99
+2013;Sao Paulo;3;57
+2014;Sao Paulo;3;75
+2015;Sao Paulo;3;68
+2016;Sao Paulo;3;82
+2017;Sao Paulo;3;103
+1998;Sao Paulo;4;0
+1999;Sao Paulo;4;291
+2000;Sao Paulo;4;102
+2001;Sao Paulo;4;61
+2002;Sao Paulo;4;178
+2003;Sao Paulo;4;106
+2004;Sao Paulo;4;36
+2005;Sao Paulo;4;62
+2006;Sao Paulo;4;63
+2007;Sao Paulo;4;44
+2008;Sao Paulo;4;84
+2009;Sao Paulo;4;67
+2010;Sao Paulo;4;91
+2011;Sao Paulo;4;52
+2012;Sao Paulo;4;82
+2013;Sao Paulo;4;103
+2014;Sao Paulo;4;103
+2015;Sao Paulo;4;76
+2016;Sao Paulo;4;307
+2017;Sao Paulo;4;41
+1998;Sao Paulo;5;0
+1999;Sao Paulo;5;500
+2000;Sao Paulo;5;300
+2001;Sao Paulo;5;211
+2002;Sao Paulo;5;319
+2003;Sao Paulo;5;69
+2004;Sao Paulo;5;60
+2005;Sao Paulo;5;212
+2006;Sao Paulo;5;88
+2007;Sao Paulo;5;69
+2008;Sao Paulo;5;40
+2009;Sao Paulo;5;142
+2010;Sao Paulo;5;150
+2011;Sao Paulo;5;136
+2012;Sao Paulo;5;82
+2013;Sao Paulo;5;118
+2014;Sao Paulo;5;181
+2015;Sao Paulo;5;65
+2016;Sao Paulo;5;139
+2017;Sao Paulo;5;43
+1998;Sao Paulo;6;451
+1999;Sao Paulo;6;522
+2000;Sao Paulo;6;606
+2001;Sao Paulo;6;346
+2002;Sao Paulo;6;562
+2003;Sao Paulo;6;132
+2004;Sao Paulo;6;231
+2005;Sao Paulo;6;236
+2006;Sao Paulo;6;97
+2007;Sao Paulo;6;91
+2008;Sao Paulo;6;25
+2009;Sao Paulo;6;125
+2010;Sao Paulo;6;143
+2011;Sao Paulo;6;210
+2012;Sao Paulo;6;30
+2013;Sao Paulo;6;47
+2014;Sao Paulo;6;331
+2015;Sao Paulo;6;147
+2016;Sao Paulo;6;197
+2017;Sao Paulo;6;217
+1998;Sao Paulo;7;596
+1999;Sao Paulo;7;684
+2000;Sao Paulo;7;770
+2001;Sao Paulo;7;538
+2002;Sao Paulo;7;448
+2003;Sao Paulo;7;171
+2004;Sao Paulo;7;342
+2005;Sao Paulo;7;284
+2006;Sao Paulo;7;245
+2007;Sao Paulo;7;94
+2008;Sao Paulo;7;126
+2009;Sao Paulo;7;110
+2010;Sao Paulo;7;600
+2011;Sao Paulo;7;479
+2012;Sao Paulo;7;179
+2013;Sao Paulo;7;181
+2014;Sao Paulo;7;476
+2015;Sao Paulo;7;149
+2016;Sao Paulo;7;687
+2017;Sao Paulo;7;802
+1998;Sao Paulo;8;581
+1999;Sao Paulo;8;1.211
+2000;Sao Paulo;8;915
+2001;Sao Paulo;8;595
+2002;Sao Paulo;8;719
+2003;Sao Paulo;8;934
+2004;Sao Paulo;8;794
+2005;Sao Paulo;8;522
+2006;Sao Paulo;8;572
+2007;Sao Paulo;8;470
+2008;Sao Paulo;8;153
+2009;Sao Paulo;8;289
+2010;Sao Paulo;8;1.809
+2011;Sao Paulo;8;1.067
+2012;Sao Paulo;8;435
+2013;Sao Paulo;8;497
+2014;Sao Paulo;8;1.458
+2015;Sao Paulo;8;643
+2016;Sao Paulo;8;797
+2017;Sao Paulo;8;981
+1998;Sao Paulo;9;525
+1999;Sao Paulo;9;911
+2000;Sao Paulo;9;582
+2001;Sao Paulo;9;425
+2002;Sao Paulo;9;302
+2003;Sao Paulo;9;977
+2004;Sao Paulo;9;809
+2005;Sao Paulo;9;231
+2006;Sao Paulo;9;694
+2007;Sao Paulo;9;495
+2008;Sao Paulo;9;486
+2009;Sao Paulo;9;116
+2010;Sao Paulo;9;1.677
+2011;Sao Paulo;9;1.108
+2012;Sao Paulo;9;813
+2013;Sao Paulo;9;560
+2014;Sao Paulo;9;882
+2015;Sao Paulo;9;368
+2016;Sao Paulo;9;490
+2017;Sao Paulo;9;2.868
+1998;Sao Paulo;10;434
+1999;Sao Paulo;10;763
+2000;Sao Paulo;10;647
+2001;Sao Paulo;10;444
+2002;Sao Paulo;10;733
+2003;Sao Paulo;10;422
+2004;Sao Paulo;10;195
+2005;Sao Paulo;10;221
+2006;Sao Paulo;10;153
+2007;Sao Paulo;10;281
+2008;Sao Paulo;10;87
+2009;Sao Paulo;10;64
+2010;Sao Paulo;10;260
+2011;Sao Paulo;10;188
+2012;Sao Paulo;10;206
+2013;Sao Paulo;10;127
+2014;Sao Paulo;10;887
+2015;Sao Paulo;10;213
+2016;Sao Paulo;10;177
+2017;Sao Paulo;10;179
+1998;Sao Paulo;11;488
+1999;Sao Paulo;11;398
+2000;Sao Paulo;11;96
+2001;Sao Paulo;11;168
+2002;Sao Paulo;11;72
+2003;Sao Paulo;11;155
+2004;Sao Paulo;11;144
+2005;Sao Paulo;11;163
+2006;Sao Paulo;11;43
+2007;Sao Paulo;11;50
+2008;Sao Paulo;11;20
+2009;Sao Paulo;11;83
+2010;Sao Paulo;11;104
+2011;Sao Paulo;11;87
+2012;Sao Paulo;11;50
+2013;Sao Paulo;11;120
+2014;Sao Paulo;11;56
+2015;Sao Paulo;11;21
+2016;Sao Paulo;11;39
+2017;Sao Paulo;11;37
+1998;Sao Paulo;12;121
+1999;Sao Paulo;12;47
+2000;Sao Paulo;12;23
+2001;Sao Paulo;12;52
+2002;Sao Paulo;12;57
+2003;Sao Paulo;12;58
+2004;Sao Paulo;12;102
+2005;Sao Paulo;12;15
+2006;Sao Paulo;12;13
+2007;Sao Paulo;12;21
+2008;Sao Paulo;12;36
+2009;Sao Paulo;12;37
+2010;Sao Paulo;12;52
+2011;Sao Paulo;12;53
+2012;Sao Paulo;12;64
+2013;Sao Paulo;12;109
+2014;Sao Paulo;12;57
+2015;Sao Paulo;12;45
+2016;Sao Paulo;12;47
+1998;Sergipe;1;0
+1999;Sergipe;1;36
+2000;Sergipe;1;1
+2001;Sergipe;1;2
+2002;Sergipe;1;1
+2003;Sergipe;1;198
+2004;Sergipe;1;16
+2005;Sergipe;1;80
+2006;Sergipe;1;36
+2007;Sergipe;1;56
+2008;Sergipe;1;100
+2009;Sergipe;1;60
+2010;Sergipe;1;29
+2011;Sergipe;1;36
+2012;Sergipe;1;39
+2013;Sergipe;1;34
+2014;Sergipe;1;20
+2015;Sergipe;1;44
+2016;Sergipe;1;9
+2017;Sergipe;1;31
+1998;Sergipe;2;0
+1999;Sergipe;2;25
+2000;Sergipe;2;6
+2001;Sergipe;2;2
+2002;Sergipe;2;6
+2003;Sergipe;2;50
+2004;Sergipe;2;10
+2005;Sergipe;2;19
+2006;Sergipe;2;36
+2007;Sergipe;2;22
+2008;Sergipe;2;67
+2009;Sergipe;2;64
+2010;Sergipe;2;33
+2011;Sergipe;2;31
+2012;Sergipe;2;34
+2013;Sergipe;2;47
+2014;Sergipe;2;18
+2015;Sergipe;2;40
+2016;Sergipe;2;22
+2017;Sergipe;2;18
+1998;Sergipe;3;0
+1999;Sergipe;3;18
+2000;Sergipe;3;6
+2001;Sergipe;3;1
+2002;Sergipe;3;7
+2003;Sergipe;3;62
+2004;Sergipe;3;36
+2005;Sergipe;3;28
+2006;Sergipe;3;41
+2007;Sergipe;3;2
+2008;Sergipe;3;43
+2009;Sergipe;3;29
+2010;Sergipe;3;44
+2011;Sergipe;3;47
+2012;Sergipe;3;71
+2013;Sergipe;3;67
+2014;Sergipe;3;33
+2015;Sergipe;3;49
+2016;Sergipe;3;26
+2017;Sergipe;3;16
+1998;Sergipe;4;0
+1999;Sergipe;4;6
+2000;Sergipe;4;1
+2001;Sergipe;4;0
+2002;Sergipe;4;12
+2003;Sergipe;4;48
+2004;Sergipe;4;13
+2005;Sergipe;4;8
+2006;Sergipe;4;9
+2007;Sergipe;4;1
+2008;Sergipe;4;2
+2009;Sergipe;4;19
+2010;Sergipe;4;1
+2011;Sergipe;4;12
+2012;Sergipe;4;40
+2013;Sergipe;4;15
+2014;Sergipe;4;7
+2015;Sergipe;4;35
+2016;Sergipe;4;14
+2017;Sergipe;4;8
+1998;Sergipe;5;0
+1999;Sergipe;5;0
+2000;Sergipe;5;0
+2001;Sergipe;5;3
+2002;Sergipe;5;0
+2003;Sergipe;5;2
+2004;Sergipe;5;5
+2005;Sergipe;5;0
+2006;Sergipe;5;0
+2007;Sergipe;5;0
+2008;Sergipe;5;0
+2009;Sergipe;5;0
+2010;Sergipe;5;0
+2011;Sergipe;5;0
+2012;Sergipe;5;17
+2013;Sergipe;5;1
+2014;Sergipe;5;1
+2015;Sergipe;5;11
+2016;Sergipe;5;9
+2017;Sergipe;5;1
+1998;Sergipe;6;0
+1999;Sergipe;6;0
+2000;Sergipe;6;0
+2001;Sergipe;6;0
+2002;Sergipe;6;0
+2003;Sergipe;6;0
+2004;Sergipe;6;0
+2005;Sergipe;6;0
+2006;Sergipe;6;0
+2007;Sergipe;6;0
+2008;Sergipe;6;0
+2009;Sergipe;6;2
+2010;Sergipe;6;0
+2011;Sergipe;6;1
+2012;Sergipe;6;3
+2013;Sergipe;6;1
+2014;Sergipe;6;0
+2015;Sergipe;6;3
+2016;Sergipe;6;1
+2017;Sergipe;6;0
+1998;Sergipe;7;0
+1999;Sergipe;7;0
+2000;Sergipe;7;0
+2001;Sergipe;7;0
+2002;Sergipe;7;0
+2003;Sergipe;7;0
+2004;Sergipe;7;0
+2005;Sergipe;7;0
+2006;Sergipe;7;0
+2007;Sergipe;7;0
+2008;Sergipe;7;0
+2009;Sergipe;7;0
+2010;Sergipe;7;0
+2011;Sergipe;7;0
+2012;Sergipe;7;1
+2013;Sergipe;7;0
+2014;Sergipe;7;0
+2015;Sergipe;7;0
+2016;Sergipe;7;0
+2017;Sergipe;7;0
+1998;Sergipe;8;0
+1999;Sergipe;8;0
+2000;Sergipe;8;0
+2001;Sergipe;8;0
+2002;Sergipe;8;2
+2003;Sergipe;8;0
+2004;Sergipe;8;0
+2005;Sergipe;8;0
+2006;Sergipe;8;0
+2007;Sergipe;8;0
+2008;Sergipe;8;0
+2009;Sergipe;8;0
+2010;Sergipe;8;0
+2011;Sergipe;8;1
+2012;Sergipe;8;0
+2013;Sergipe;8;0
+2014;Sergipe;8;0
+2015;Sergipe;8;0
+2016;Sergipe;8;6
+2017;Sergipe;8;0
+1998;Sergipe;9;0
+1999;Sergipe;9;0
+2000;Sergipe;9;0
+2001;Sergipe;9;1
+2002;Sergipe;9;0
+2003;Sergipe;9;3
+2004;Sergipe;9;0
+2005;Sergipe;9;2
+2006;Sergipe;9;0
+2007;Sergipe;9;0
+2008;Sergipe;9;0
+2009;Sergipe;9;1
+2010;Sergipe;9;0
+2011;Sergipe;9;0
+2012;Sergipe;9;1
+2013;Sergipe;9;1
+2014;Sergipe;9;4
+2015;Sergipe;9;1
+2016;Sergipe;9;2
+2017;Sergipe;9;0
+1998;Sergipe;10;0
+1999;Sergipe;10;0
+2000;Sergipe;10;3
+2001;Sergipe;10;5
+2002;Sergipe;10;20
+2003;Sergipe;10;2
+2004;Sergipe;10;3
+2005;Sergipe;10;11
+2006;Sergipe;10;3
+2007;Sergipe;10;3
+2008;Sergipe;10;0
+2009;Sergipe;10;1
+2010;Sergipe;10;1
+2011;Sergipe;10;5
+2012;Sergipe;10;1
+2013;Sergipe;10;3
+2014;Sergipe;10;3
+2015;Sergipe;10;6
+2016;Sergipe;10;10
+2017;Sergipe;10;0
+1998;Sergipe;11;12
+1999;Sergipe;11;3
+2000;Sergipe;11;0
+2001;Sergipe;11;5
+2002;Sergipe;11;57
+2003;Sergipe;11;2
+2004;Sergipe;11;41
+2005;Sergipe;11;23
+2006;Sergipe;11;5
+2007;Sergipe;11;7
+2008;Sergipe;11;17
+2009;Sergipe;11;9
+2010;Sergipe;11;16
+2011;Sergipe;11;4
+2012;Sergipe;11;6
+2013;Sergipe;11;7
+2014;Sergipe;11;9
+2015;Sergipe;11;47
+2016;Sergipe;11;17
+2017;Sergipe;11;1
+1998;Sergipe;12;8
+1999;Sergipe;12;5
+2000;Sergipe;12;0
+2001;Sergipe;12;5
+2002;Sergipe;12;103
+2003;Sergipe;12;36
+2004;Sergipe;12;66
+2005;Sergipe;12;29
+2006;Sergipe;12;17
+2007;Sergipe;12;33
+2008;Sergipe;12;14
+2009;Sergipe;12;21
+2010;Sergipe;12;19
+2011;Sergipe;12;36
+2012;Sergipe;12;18
+2013;Sergipe;12;9
+2014;Sergipe;12;9
+2015;Sergipe;12;63
+2016;Sergipe;12;36
+1998;Tocantins;1;0
+1999;Tocantins;1;36
+2000;Tocantins;1;15
+2001;Tocantins;1;19
+2002;Tocantins;1;35
+2003;Tocantins;1;35
+2004;Tocantins;1;40
+2005;Tocantins;1;66
+2006;Tocantins;1;91
+2007;Tocantins;1;34
+2008;Tocantins;1;28
+2009;Tocantins;1;43
+2010;Tocantins;1;79
+2011;Tocantins;1;14
+2012;Tocantins;1;12
+2013;Tocantins;1;50
+2014;Tocantins;1;89
+2015;Tocantins;1;186
+2016;Tocantins;1;42
+2017;Tocantins;1;61
+1998;Tocantins;2;0
+1999;Tocantins;2;1
+2000;Tocantins;2;6
+2001;Tocantins;2;6
+2002;Tocantins;2;48
+2003;Tocantins;2;15
+2004;Tocantins;2;7
+2005;Tocantins;2;27
+2006;Tocantins;2;14
+2007;Tocantins;2;8
+2008;Tocantins;2;6
+2009;Tocantins;2;21
+2010;Tocantins;2;32
+2011;Tocantins;2;13
+2012;Tocantins;2;45
+2013;Tocantins;2;37
+2014;Tocantins;2;73
+2015;Tocantins;2;65
+2016;Tocantins;2;383
+2017;Tocantins;2;25
+1998;Tocantins;3;0
+1999;Tocantins;3;1
+2000;Tocantins;3;4
+2001;Tocantins;3;0
+2002;Tocantins;3;33
+2003;Tocantins;3;19
+2004;Tocantins;3;23
+2005;Tocantins;3;13
+2006;Tocantins;3;11
+2007;Tocantins;3;99
+2008;Tocantins;3;4
+2009;Tocantins;3;23
+2010;Tocantins;3;120
+2011;Tocantins;3;16
+2012;Tocantins;3;80
+2013;Tocantins;3;60
+2014;Tocantins;3;58
+2015;Tocantins;3;85
+2016;Tocantins;3;165
+2017;Tocantins;3;98
+1998;Tocantins;4;0
+1999;Tocantins;4;9
+2000;Tocantins;4;0
+2001;Tocantins;4;19
+2002;Tocantins;4;37
+2003;Tocantins;4;64
+2004;Tocantins;4;52
+2005;Tocantins;4;52
+2006;Tocantins;4;4
+2007;Tocantins;4;22
+2008;Tocantins;4;46
+2009;Tocantins;4;5
+2010;Tocantins;4;419
+2011;Tocantins;4;106
+2012;Tocantins;4;226
+2013;Tocantins;4;130
+2014;Tocantins;4;187
+2015;Tocantins;4;88
+2016;Tocantins;4;369
+2017;Tocantins;4;164
+1998;Tocantins;5;0
+1999;Tocantins;5;24
+2000;Tocantins;5;69
+2001;Tocantins;5;48
+2002;Tocantins;5;138
+2003;Tocantins;5;96
+2004;Tocantins;5;350
+2005;Tocantins;5;236
+2006;Tocantins;5;35
+2007;Tocantins;5;250
+2008;Tocantins;5;81
+2009;Tocantins;5;91
+2010;Tocantins;5;580
+2011;Tocantins;5;354
+2012;Tocantins;5;467
+2013;Tocantins;5;373
+2014;Tocantins;5;618
+2015;Tocantins;5;512
+2016;Tocantins;5;778
+2017;Tocantins;5;576
+1998;Tocantins;6;252
+1999;Tocantins;6;113
+2000;Tocantins;6;278
+2001;Tocantins;6;305
+2002;Tocantins;6;396
+2003;Tocantins;6;329
+2004;Tocantins;6;1.079
+2005;Tocantins;6;669
+2006;Tocantins;6;289
+2007;Tocantins;6;591
+2008;Tocantins;6;282
+2009;Tocantins;6;421
+2010;Tocantins;6;767
+2011;Tocantins;6;717
+2012;Tocantins;6;922
+2013;Tocantins;6;873
+2014;Tocantins;6;1.372
+2015;Tocantins;6;1.15
+2016;Tocantins;6;1.148
+2017;Tocantins;6;1.32
+1998;Tocantins;7;640
+1999;Tocantins;7;373
+2000;Tocantins;7;500
+2001;Tocantins;7;830
+2002;Tocantins;7;976
+2003;Tocantins;7;762
+2004;Tocantins;7;1.389
+2005;Tocantins;7;1.082
+2006;Tocantins;7;430
+2007;Tocantins;7;982
+2008;Tocantins;7;441
+2009;Tocantins;7;989
+2010;Tocantins;7;2.408
+2011;Tocantins;7;1.001
+2012;Tocantins;7;1.693
+2013;Tocantins;7;1.393
+2014;Tocantins;7;1.404
+2015;Tocantins;7;1.217
+2016;Tocantins;7;2.737
+2017;Tocantins;7;2.397
+1998;Tocantins;8;3.747
+1999;Tocantins;8;1.284
+2000;Tocantins;8;1.949
+2001;Tocantins;8;2.242
+2002;Tocantins;8;3.027
+2003;Tocantins;8;1.339
+2004;Tocantins;8;1.776
+2005;Tocantins;8;1.84
+2006;Tocantins;8;1.277
+2007;Tocantins;8;4.747
+2008;Tocantins;8;845
+2009;Tocantins;8;1.124
+2010;Tocantins;8;7.865
+2011;Tocantins;8;1.668
+2012;Tocantins;8;4.28
+2013;Tocantins;8;1.81
+2014;Tocantins;8;2.917
+2015;Tocantins;8;2.54
+2016;Tocantins;8;3.213
+2017;Tocantins;8;3.536
+1998;Tocantins;9;5.149
+1999;Tocantins;9;3.415
+2000;Tocantins;9;2.552
+2001;Tocantins;9;4.839
+2002;Tocantins;9;5.314
+2003;Tocantins;9;4.637
+2004;Tocantins;9;5.308
+2005;Tocantins;9;5.319
+2006;Tocantins;9;2.979
+2007;Tocantins;9;6.829
+2008;Tocantins;9;2.39
+2009;Tocantins;9;2.017
+2010;Tocantins;9;10.172
+2011;Tocantins;9;4.658
+2012;Tocantins;9;7.46
+2013;Tocantins;9;2.445
+2014;Tocantins;9;3.52
+2015;Tocantins;9;5.51
+2016;Tocantins;9;3.245
+2017;Tocantins;9;10.737
+1998;Tocantins;10;1.738
+1999;Tocantins;10;1.378
+2000;Tocantins;10;1.053
+2001;Tocantins;10;684
+2002;Tocantins;10;1.537
+2003;Tocantins;10;1.339
+2004;Tocantins;10;1.658
+2005;Tocantins;10;2.913
+2006;Tocantins;10;1.176
+2007;Tocantins;10;2.252
+2008;Tocantins;10;2.832
+2009;Tocantins;10;718
+2010;Tocantins;10;2.272
+2011;Tocantins;10;1.591
+2012;Tocantins;10;3.68
+2013;Tocantins;10;2.155
+2014;Tocantins;10;4
+2015;Tocantins;10;4.844
+2016;Tocantins;10;2.032
+2017;Tocantins;10;2.969
+1998;Tocantins;11;1
+1999;Tocantins;11;29
+2000;Tocantins;11;96
+2001;Tocantins;11;100
+2002;Tocantins;11;207
+2003;Tocantins;11;146
+2004;Tocantins;11;424
+2005;Tocantins;11;271
+2006;Tocantins;11;108
+2007;Tocantins;11;147
+2008;Tocantins;11;104
+2009;Tocantins;11;251
+2010;Tocantins;11;283
+2011;Tocantins;11;144
+2012;Tocantins;11;179
+2013;Tocantins;11;345
+2014;Tocantins;11;451
+2015;Tocantins;11;833
+2016;Tocantins;11;623
+2017;Tocantins;11;434
+1998;Tocantins;12;9
+1999;Tocantins;12;16
+2000;Tocantins;12;20
+2001;Tocantins;12;21
+2002;Tocantins;12;39
+2003;Tocantins;12;109
+2004;Tocantins;12;96
+2005;Tocantins;12;53
+2006;Tocantins;12;15
+2007;Tocantins;12;13
+2008;Tocantins;12;7
+2009;Tocantins;12;46
+2010;Tocantins;12;72
+2011;Tocantins;12;105
+2012;Tocantins;12;128
+2013;Tocantins;12;85
+2014;Tocantins;12;223
+2015;Tocantins;12;373
+2016;Tocantins;12;119
