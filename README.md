@@ -8,3 +8,7 @@ Portfolio dos estudos e análise de base de dados (dataset) usando ciência de d
 2. **Case**: estilo musical
 
    **Métodos usados**: Métodos Ensemble - Bootstrap Aggregation (Bagging), Random Forest, Boosting Adaptável, AdaBoost e Voting Esemble. Mais Análise de Componentes Principais (PCA).
+   
+3. **Case**: bandeira e religião
+
+   **Métodos usados**: Redes Neurais perceptron multicamadas (MLP), comparação com os modelos Regressão Logística, KNN (K-vizinhos mais próximos), Árvored e Decisão e Random Forest.
