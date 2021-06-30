@@ -11,4 +11,12 @@ Portfolio dos estudos e análise de base de dados (dataset) usando ciência de d
    
 3. **Case**: bandeira e religião
 
-   **Métodos usados**: Redes Neurais perceptron multicamadas (MLP), comparação com os modelos Regressão Logística, KNN (K-vizinhos mais próximos), Árvore de Decisão e Random Forest.
+   **Métodos usados**: Rede Neural Perceptron Multicamadas (MLP), comparação com os modelos Regressão Logística, KNN (K-vizinhos mais próximos), Árvore de Decisão e Random Forest.
+   
+4. **Case**: TITANIC
+
+   **Métodos usados**: Rede Neural Perceptron Multicamadas (MLP), comparação com os modelos Regressão Logística, KNN (K-vizinhos mais próximos), Árvore de Decisão e Random Forest.
+   
+5. **Case**: detecção de números MNIST
+
+   **Métodos usados**: Rede Neural Extreme Learning Machine (ELM).
